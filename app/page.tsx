@@ -36,7 +36,7 @@ const normalize = (value: string) =>
 const featuredStories: Record<string, string> = {
   "054": "Čokoladni slojevi, višnja i šlag — torta koja je obeležila porodična slavlja.",
   "181": "Slojevi domaćih kora, bogat bolonjeze i bešamel: recept za okupljanje za stolom.",
-  "080": "Mekane, mirisne ružice iz rerne — kolač koji nestane dok se kafa skuva.",
+  "022": "Hrskave korpice, nežan krem i šećer u prahu — princez krofne za posebne porodične dane.",
 };
 
 const merchandisingIds = [
@@ -284,7 +284,7 @@ export default function Home() {
     openRecipe(pool[Math.floor(Math.random() * pool.length)]);
   };
 
-  const featuredIds = ["054", "181", "080"];
+  const featuredIds = ["054", "181", "022"];
   const featured = featuredIds
     .map((id) => recipes.find((recipe) => recipe.id === id))
     .filter((recipe): recipe is Recipe => Boolean(recipe));
