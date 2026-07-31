@@ -33,18 +33,45 @@ const normalize = (value: string) =>
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/đ/g, "dj");
 
+const featuredStories: Record<string, string> = {
+  "054": "Čokoladni slojevi, višnja i šlag — torta koja je obeležila porodična slavlja.",
+  "181": "Slojevi domaćih kora, bogat bolonjeze i bešamel: recept za okupljanje za stolom.",
+  "080": "Mekane, mirisne ružice iz rerne — kolač koji nestane dok se kafa skuva.",
+};
+
+const merchandisingIds = [
+  "059", "181", "054", "151", "095", "178", "173", "018",
+  "053", "043", "184", "080", "153", "067", "050", "123",
+  "175", "162", "135", "079", "145", "094", "169", "187",
+  "001", "057", "069", "026", "025", "047", "188",
+];
+
+const merchandisingRank = new Map(merchandisingIds.map((id, index) => [id, index]));
+const merchandisingBadges: Record<string, string> = {
+  "059": "Najtraženije",
+  "181": "Porodični favorit",
+  "054": "Klasik",
+  "151": "Nedeljni favorit",
+  "095": "Za deljenje",
+  "018": "Omiljeni desert",
+};
+
 function RecipeCard({
   recipe,
   favorite,
   onOpen,
   onFavorite,
   featured = false,
+  featuredText,
+  merchandisingBadge,
 }: {
   recipe: Recipe;
   favorite: boolean;
   onOpen: () => void;
   onFavorite: () => void;
   featured?: boolean;
+  featuredText?: string;
+  merchandisingBadge?: string;
 }) {
   return (
     <article className={`recipe-card ${featured ? "featured-card" : ""}`}>
@@ -59,6 +86,7 @@ function RecipeCard({
             </div>
           )}
           <span className="recipe-number">№ {recipe.id}</span>
+          {merchandisingBadge && <span className="merch-badge">{merchandisingBadge}</span>}
         </div>
         <div className="card-copy">
           <p className="eyebrow">{recipe.broadCategory}</p>
@@ -66,6 +94,7 @@ function RecipeCard({
           <p className="card-note">
             {recipe.subtitle || recipe.category.replaceAll("/", " · ")}
           </p>
+          {featuredText && <p className="featured-story">{featuredText}</p>}
           <span className="read-link">Pogledaj recept <b aria-hidden="true">→</b></span>
         </div>
       </button>
@@ -212,12 +241,22 @@ export default function Home() {
 
   const filtered = useMemo(() => {
     const query = normalize(search.trim());
-    return recipes.filter((recipe) => {
+    const matching = recipes.filter((recipe) => {
       const categoryMatch = category === "Sve" || recipe.broadCategory === category;
       const favoriteMatch = !onlyFavorites || favorites.includes(recipe.id);
       const searchMatch = !query || normalize(recipe.searchText).includes(query);
       return categoryMatch && favoriteMatch && searchMatch;
     });
+
+    if (category === "Sve" && !query && !onlyFavorites) {
+      return matching.sort((a, b) => {
+        const rankA = merchandisingRank.get(a.id) ?? Number.MAX_SAFE_INTEGER;
+        const rankB = merchandisingRank.get(b.id) ?? Number.MAX_SAFE_INTEGER;
+        return rankA - rankB || a.id.localeCompare(b.id);
+      });
+    }
+
+    return matching;
   }, [recipes, search, category, onlyFavorites, favorites]);
 
   useEffect(() => setVisibleCount(24), [search, category, onlyFavorites]);
@@ -245,10 +284,11 @@ export default function Home() {
     openRecipe(pool[Math.floor(Math.random() * pool.length)]);
   };
 
-  const featuredIds = ["059", "181", "178"];
+  const featuredIds = ["054", "181", "080"];
   const featured = featuredIds
     .map((id) => recipes.find((recipe) => recipe.id === id))
     .filter((recipe): recipe is Recipe => Boolean(recipe));
+  const isMerchandising = category === "Sve" && !search.trim() && !onlyFavorites;
 
   return (
     <main>
@@ -302,7 +342,7 @@ export default function Home() {
         </div>
         <div className="featured-grid">
           {featured.slice(0, 3).map((recipe) => (
-            <RecipeCard key={recipe.id} recipe={recipe} featured favorite={favorites.includes(recipe.id)} onOpen={() => openRecipe(recipe)} onFavorite={() => toggleFavorite(recipe.id)} />
+            <RecipeCard key={recipe.id} recipe={recipe} featured featuredText={featuredStories[recipe.id]} favorite={favorites.includes(recipe.id)} onOpen={() => openRecipe(recipe)} onFavorite={() => toggleFavorite(recipe.id)} />
           ))}
         </div>
       </section>
@@ -344,7 +384,7 @@ export default function Home() {
           <>
             <div className="recipe-grid">
               {filtered.slice(0, visibleCount).map((recipe) => (
-                <RecipeCard key={recipe.id} recipe={recipe} favorite={favorites.includes(recipe.id)} onOpen={() => openRecipe(recipe)} onFavorite={() => toggleFavorite(recipe.id)} />
+                <RecipeCard key={recipe.id} recipe={recipe} merchandisingBadge={isMerchandising ? merchandisingBadges[recipe.id] : undefined} favorite={favorites.includes(recipe.id)} onOpen={() => openRecipe(recipe)} onFavorite={() => toggleFavorite(recipe.id)} />
               ))}
             </div>
             {visibleCount < filtered.length && (
