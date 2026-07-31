@@ -287,7 +287,7 @@ export default function Home() {
           <div className="wash wash-one" />
           <div className="wash wash-two" />
           <p className="handwritten">Prvi recept<br />u svesci</p>
-          <img src="/recipes/001.png" alt="Akvarel čokoladnog musa u staklenoj činiji" />
+          <img src="/recipes/001.webp" alt="Akvarel čokoladnog musa u staklenoj činiji" />
           <div className="hero-caption"><span>№ 001</span><b>Mousse au chocolat</b><small>za trenutke koji se pamte</small></div>
         </div>
       </section>
