@@ -163,6 +163,9 @@ img { display: block; max-width: 100%; }
 .card-art::after { right: -10%; top: -20%; width: 54%; aspect-ratio: 1; border: 1px solid rgba(255,255,255,.4); }
 .card-art img { position: relative; z-index: 1; width: 82%; height: 88%; object-fit: contain; transition: transform .35s ease; }
 .recipe-card:hover .card-art img { transform: scale(1.035) rotate(-1deg); }
+.collection-section .card-art { padding: 14px; box-sizing: border-box; }
+.collection-section .card-art img { width: 100%; height: 100%; object-fit: contain; }
+.collection-section .recipe-card:hover .card-art img { transform: none; }
 .category-poslastice, .category-torte { background: #e9d9cc; }
 .category-hleb-i-peciva { background: #e7d8b9; }
 .category-glavna-jela { background: #ced5bd; }

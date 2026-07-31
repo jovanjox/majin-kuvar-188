@@ -245,7 +245,10 @@ export default function Home() {
     openRecipe(pool[Math.floor(Math.random() * pool.length)]);
   };
 
-  const featured = recipes.filter((recipe) => ["001", "003", "006", "007", "009", "010"].includes(recipe.id));
+  const featuredIds = ["059", "181", "178"];
+  const featured = featuredIds
+    .map((id) => recipes.find((recipe) => recipe.id === id))
+    .filter((recipe): recipe is Recipe => Boolean(recipe));
 
   return (
     <main>

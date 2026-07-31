@@ -164,7 +164,7 @@ const recipes = files.map((file) => {
     ingredients: [...new Set(ingredients)],
     bodyHtml: markdownToHtml(cleanedBody),
     searchText: `${name} ${subtitle} ${category} ${ingredients.join(" ")}`.toLocaleLowerCase("sr"),
-    image: Number(id) <= 30 ? `/recipes/${id}.png` : "",
+    image: Number(id) <= 188 ? `/recipes/${id}.webp` : "",
   };
 });
 

@@ -21,7 +21,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g čokolade</div><div>4 velike kašike mleka</div><div>3 velike kašike šećera</div><div>6    žumanaca</div><div>/2/ 5 dl slatke pavlake</div><div>4    vanilin šećera</div></div>\n<h2>Priprema</h2>\n<p>Staviti u šerpu 250 g čokolade i 4 velike kašike mleka i 3 velike kašike šećera — <strong>rastopiti</strong>.</p>\n<p>Mutiti mikserom na ringli i dodavati 1 po 1 žumance, stalno mešajući mikserom na maloj temperaturi, 10-tak minuta.</p>\n<p>Kada se ohladi, dodati 3/4 umućene slatke pavlake i 4 vanilin šećera, a 1/4 ostaviti za ukrašavanje.</p>",
     "searchText": "mousse au chocolat  krem / poslastica 250 g čokolade 4 velike kašike mleka 3 velike kašike šećera 6 žumanaca /2/ 5 dl slatke pavlake 4 vanilin šećera",
-    "image": "/recipes/001.png"
+    "image": "/recipes/001.webp"
   },
   {
     "id": "002",
@@ -56,7 +56,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 l mleka</div><div>3   žumanca</div><div>125 g šećera /4 velike kašike/</div><div>30 g oštrog brašna /20 g 1 velika kašika/</div><div>30 g gustina /15 g 1 velika kašika/</div><div>3-4    vanilin šećera</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 45 cl mleka, 4 vanilin šećera. Zagrevati do ključanja.</p>\n<p>Umutiti:</p>\n<div class=\"notebook-lines\"><div>3 žumanca</div><div>4 velike kašike šećera</div><div>1 1/2 velike kašike brašna</div><div>2 velike kašike gustina</div><div>5 cl hladnog mleka</div></div>\n<p>U ovu smesu sipati vrijuće mleko, promešati, pa vratiti u šerpu i brzo mutiti na ringli dok se ne zgusne.</p>\n<h2>Dupla mera za krem-pitu</h2>\n<div class=\"notebook-lines\"><div>1 l mleka                    2 slatke pavlake</div><div>6   žumanaca                 3/4 ukupne kol. ručno promešati</div><div>250 g šećera /8-9 velikih kašika/       sa kremom hladnim</div><div>60 g brašna /3 velike kašike/           a 1/4 → [mikser] koka-krem</div><div>60 g gustina /4 velike kašike/</div></div>\n<h2>Beleške sa margine</h2>\n<p>Varijanta dopisana desno uz sastojke:</p>\n<div class=\"notebook-lines\"><div>350 g mleka</div><div>4   žumanca</div><div>80 g šećera</div><div>35 g brašna</div><div>35 g putra</div></div>",
     "searchText": "poslastičarski krem  krem 1/2 l mleka 3 žumanca 125 g šećera /4 velike kašike/ 30 g oštrog brašna /20 g 1 velika kašika/ 30 g gustina /15 g 1 velika kašika/ 3-4 vanilin šećera 1 l mleka 6 žumanaca 250 g šećera /8-9 velikih kašika/ 60 g brašna /3 velike kašike/ 60 g gustina /4 velike kašike/ 2 slatke pavlake 350 g mleka 4 žumanca 80 g šećera 35 g brašna 35 g putra",
-    "image": "/recipes/002.png"
+    "image": "/recipes/002.webp"
   },
   {
     "id": "003",
@@ -79,7 +79,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>10 cl /1 dl/ mleka</div><div>5 cl         pavlake</div><div>375 g        čokolade</div></div>\n<p>Tabela odnosa upisana sa strane:</p>\n<p>| | čokolada | pavlaka | |---|---|---| | | 1 | 2 | | | 1 | 1 | | | 2 | 1 | | | 3 | 1 |</p>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 10 cl mleka, 5 cl slatke pavlake. Zagrevati do ključanja.</p>\n<p>Usitniti čokoladu i preliti kipućim mlekom i pavlakom ne stavljajući na ringlu.</p>\n<p>Ostaviti da se ohladi i potpuno stvrdne. Kasnije malo zagrejati, energično mešajući da smesa postane svetlija.</p>\n<p>Krem mora biti mekan.</p>\n<h2>Beleške sa margine</h2>\n<p>Dopisano ljubičastim na vrhu strane:</p>\n<div class=\"notebook-lines\"><div>300 g čokolada</div><div>200 ml pavlake</div></div>\n<ul><li>Čokoladu izlomiti i otopiti → izmešati da bude glatka</li><li>Zagrejanu pavlaku dolivati malo po malo, stalno mešati</li></ul>",
     "searchText": "ganache creme /za punjenje kolača/ krem / fil 10 cl /1 dl/ mleka 5 cl pavlake 375 g čokolade 300 g čokolada 200 ml pavlake",
-    "image": "/recipes/003.png"
+    "image": "/recipes/003.webp"
   },
   {
     "id": "004",
@@ -102,7 +102,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4     žumanca</div><div>100 g šećera</div><div>50 ml Grand Marnier</div><div>vanilin šećer</div></div>\n<h2>Priprema</h2>\n<p>Umutiti i kuvati u vodenoj kupelji. Sa žicom tući dok ne postane svetla i penasta.</p>\n<p>Kada se ohladi, dodati 1 slatku (300 ml) pavlaku umućenu.</p>",
     "searchText": "grand marnier krem  krem 4 žumanca 100 g šećera 50 ml grand marnier vanilin šećer 1 slatka (300 ml) pavlaka umućena",
-    "image": "/recipes/004.png"
+    "image": "/recipes/004.webp"
   },
   {
     "id": "005",
@@ -123,7 +123,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 l mleka  → provri</div><div>5   žumanaca</div><div>125 g šećera</div></div>\n<p>(žumanca i šećer: umutiti dok ne posvetli)</p>\n<h2>Priprema</h2>\n<p>Polako dodati vrijuće mleko. Mešati na laganoj temperaturi. Krema ne sme da provri.</p>\n<p>Biće bolja ako se duže kuva na laganoj vatri.</p>",
     "searchText": "engleska krema  krem 1/2 l mleka 5 žumanaca 125 g šećera",
-    "image": "/recipes/005.png"
+    "image": "/recipes/005.webp"
   },
   {
     "id": "006",
@@ -145,7 +145,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>8     žumanaca</div><div>200 g šećera</div><div>2 velike kašike vode</div><div>1 šolja belo vina</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 8 žumanaca i 200 g šećera i 2 velike kašike vode. ↓ Kuvati na pari, stalno mešajući i dodavati malo po malo vina.</p>",
     "searchText": "zabajone krem  krem 8 žumanaca 200 g šećera 2 velike kašike vode 1 šolja belo vina",
-    "image": "/recipes/006.png"
+    "image": "/recipes/006.webp"
   },
   {
     "id": "007",
@@ -168,7 +168,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>30 cl mleka</div><div>3   žumanca</div><div>90 g šećera</div><div>3 lista želatina /6 g/</div><div>30 cl slatke pavlake</div></div>\n<h2>Priprema</h2>\n<p>30 cl mleka → provri</p>\n<ul><li>Rastopiti želatin u hladnoj vodi</li></ul>\n<p>Umutiti: 3 žumanca i 90 g šećera</p>\n<p>Ovu smesu preliti vrućim mlekom, promešati i vratiti na ringlu.</p>\n<p>Kuvati, mešajući 10'. Prekinuti kuvanje, dodati isceđen želatin, rastopiti ga mešanjem.</p>\n<p>Krem procediti, ohladiti u posudi sa ledom i kada se ohladi dodati umućenu slatku pavlaku /pre nego što se stvrdne/.</p>",
     "searchText": "crème bavarois  krem 30 cl mleka 3 žumanca 90 g šećera 3 lista želatina /6 g/ 30 cl slatke pavlake",
-    "image": "/recipes/007.png"
+    "image": "/recipes/007.webp"
   },
   {
     "id": "008",
@@ -196,7 +196,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>5 dl  mleka</div><div>1/2    šipke vanile</div><div>ili</div><div>nastrugana kora limuna</div><div>100 g finog brašna</div><div>100 g prah šećera</div><div>malo soli</div><div>1    jaje</div><div>4    žumanca</div><div>50 g putera</div><div>50 g samlevenog badema</div></div>\n<h2>Priprema</h2>\n<p>U vrijuće mleko staviti šipku vanile (ili narendanu koru limuna), poklopiti i držati na tihoj vatri 15' (da ne provri).</p>\n<p>Umutiti sledeće sastojke: 4 žumanca, 1 jaje, 100 g prah šećera, so, 100 g brašna.</p>\n<p>Sipati vrijuće mleko, promešati i vratiti u šerpu i kuvati na slaboj temperaturi 2' dok se ne zgusne.</p>\n<p>Gotov krem izmutiti i umešati: 50 g putera i 50 g badema.</p>",
     "searchText": "crème frangipane krem od badema krem 5 dl mleka 1/2 šipke vanile nastrugana kora limuna 100 g finog brašna 100 g prah šećera malo soli 1 jaje 4 žumanca 50 g putera 50 g samlevenog badema",
-    "image": "/recipes/008.png"
+    "image": "/recipes/008.webp"
   },
   {
     "id": "009",
@@ -227,7 +227,7 @@
     ],
     "bodyHtml": "<h2>Verzija 1 — 1 l pavlake</h2>\n<div class=\"notebook-lines\"><div>1 l   pavlake          (ekstrakt 1 mala kašika — raseći, izvaditi zrna)</div><div>1     vanila štapić</div><div>1 šolja šećera (~~130~~ 200 g)</div><div>6     jaja žum</div><div>2 l   vode</div></div>\n<h3>Priprema</h3>\n<p>Zagrejati do ključanja sledeće sastojke: 1 l pavlake, 1 vanila.</p>\n<ul><li>Ostaviti 15 min</li><li>Procediti</li><li>Umutiti</li><li>6 jaja i 100 g šećera</li><li>Dodati malo po malo pavlake</li><li>Sipati u činijice</li><li>Pleh napuniti vodom</li><li>40' – 45'</li></ul>\n<h2>Verzija 2 — 2 šolja (♥)</h2>\n<p>|  | osnovna | duplo (♥) | |---|---|---| | pavlaka | 680 g (2 šolja) | 1360 | | šećer | 67 g (1/3 šolja) | 130 g | | žumanca | 4 | 8 | | vanila | 1/2 štapića (ili 1 mala kašika ekstrakta) | 1 vš (2 male kašike ex) |</p>\n<h3>Priprema</h3>\n<p>pavlaka i 1/2 vanile i zrna (1 mala kašika ekstrakta) — zagrejati</p>\n<p>4 žumanca i šećer — umutiti ⇒ dodati <strong>polako</strong> malo pavlake</p>\n<ul><li>Procediti, ukloniti mehuriće sa kutlačom</li><li>U pleh staviti krpu, poređati činijice i sipati vodu u pleh do polovine visine činijica</li><li>Rerna 160°C / 180° — 35'</li><li>Posuti žutim šećerom i karamelizovati brenerom</li></ul>",
     "searchText": "crème brûlée  poslastica 1 l pavlake 1 vanila štapić 1 šolja šećera (200 g) 6 jaja žum 2 l vode 680 g pavlake (2 šolja) 67 g šećera (1/3 šolja) 4 žumanceta 1/2 vanilin štapića (ili 1 mala kašika ekstrakta) 1360 130 g 8 ž 1 vš (2 male kašike ex)",
-    "image": "/recipes/009.png"
+    "image": "/recipes/009.webp"
   },
   {
     "id": "010",
@@ -257,7 +257,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>| | osnovna | veća mera | |---|---|---| | mleko | 400 ml | 500 ml | | slatka pavlaka | 400 ml | 500 ml | | vanilin šećer | 2 | — | | žumanceta | 4 | 5 | | šećer | 100 g | 120 g | | gustin | 40 g | 50 g | | ekstrakt vanile | ✓ | — |</p>\n<h2>Postupak</h2>\n<p>Umutiti sledeće sastojke: 4 žumanceta, 100 g šećera i 40 g gustina.</p>\n<p>400 ml mleka da provri, sipati polako u [smesu žumanaca], vratiti u šerpu i kuvati dok se ne zgusne.</p>\n<p>Presuti u činiju, pokriti providnom folijom i ohladiti.</p>\n<p>400 ml pavlake i 2 vanilin šećera umutiti i polako dodavati u ohlađeni krem i <strong>ručno !!! mešati</strong></p>",
     "searchText": "chantilly crème (diplomate)  krem 400 ml mleka 400 slatke pavlake 2 vanili šećera 4 žumanceta 100 g šećera 40 g gustina ekstrakt vanile 500 ml mleka 500 ml pavlake 5 žumanaca 120 g šećera 50 g gustina",
-    "image": "/recipes/010.png"
+    "image": "/recipes/010.webp"
   },
   {
     "id": "011",
@@ -279,7 +279,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>300 g jagoda /blender, procediti/</div><div>sirup: 2,5 dl vode i 250 g šećera → kuvati 5'</div><div>sok od 1/2 limuna</div></div>\n<h2>Priprema</h2>\n<p>Kada se ohladi, dodati sok od 1/2 limuna i pire od jagoda.</p>\n<p>Sipati u kalup.</p>",
     "searchText": "sorbet od jagoda  poslastica / sladoled 300 g jagoda /blender, procediti/ sirup: 2,5 dl vode 250 g šećera sok od 1/2 limuna",
-    "image": "/recipes/011.png"
+    "image": "/recipes/011.webp"
   },
   {
     "id": "012",
@@ -301,7 +301,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g šećera</div><div>5 dl vode</div><div>20 g želatina</div><div>250 g pirea od jagoda</div></div>\n<h2>Priprema</h2>\n<p>Kuvati i dodati 20 g želatina i 250 g pirea od jagoda.</p>",
     "searchText": "žele od jagoda  poslastica / preliv 250 g šećera 5 dl vode 20 g želatina 250 g pirea od jagoda",
-    "image": "/recipes/012.png"
+    "image": "/recipes/012.webp"
   },
   {
     "id": "013",
@@ -324,7 +324,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4    jaja</div><div>8 velikih kašika šećera</div><div>2 velike kašike brašna</div><div>2,5 dl mleka</div><div>50 g  grilijaža od badema</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 4 žumanca i 8 velikih kašika šećera i 2,5 dl mleka. ↓ (belanca u <strong>šne</strong>)</p>\n<p>Umutiti i dodati 2 velike kašike brašna i 50 g grilijaža od badema.</p>\n<p>Kalup: puter</p>\n<p>180°C — 45'</p>",
     "searchText": "sufle od badema  poslastica 4 jaja 8 velikih kašika šećera 2 velike kašike brašna 2,5 dl mleka 50 g grilijaža od badema",
-    "image": "/recipes/013.png"
+    "image": "/recipes/013.webp"
   },
   {
     "id": "014",
@@ -349,7 +349,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>200 g čokolade</div><div>1   vanilin šećer</div><div>6   jaja</div><div>40 g skroba /gustina/</div><div>120 g šećera</div><div>10 g putera</div><div>šećer u prahu</div></div>\n<h2>Priprema</h2>\n<p>Otopiti 200 g čokolade sa 1 velikom kašikom vode.</p>\n<p>Dodavati 6 žumanaca, po dva odjednom. Dodati vanilin šećer. Dodati 2/3 šećera pomešanog sa gustinom.</p>\n<p>Od belanaca i preostale trećine šećera umutiti čvrst sneg, pa ga umešati u čokoladu.</p>\n<p>Kalup premazati puterom i posuti brašnom. Peći 20–25 minuta na 200°C.</p>\n<p>Posuti prah šećerom.</p>",
     "searchText": "sufle od čokolade  poslastica 200 g čokolade 1 vanilin šećer 6 jaja 40 g skroba /gustina/ 120 g šećera 10 g putera šećer u prahu",
-    "image": "/recipes/014.png"
+    "image": "/recipes/014.webp"
   },
   {
     "id": "015",
@@ -374,7 +374,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>| sastojak | manja mera (crveno) | veća mera | |---|---|---| | čokolada | 150 g | 450 g | | puter | 150 g | 450 g | | šećer | 100 g | 300 g | | brašno | 53 g | 160 g | | badem | 16 g | 50 g | | jaja | 3 | 9 | | žumanaca | 3 | 9 |</p>\n<h2>Priprema</h2>\n<p>Rastopiti sledeće sastojke: čokolada, puter.</p>\n<p>Umutiti sledeće sastojke: jaja, šećer. ↓</p>\n<p>Dodati brašno i iseckane bademe pa <strong>ručno</strong> pomešati sa čokoladom i puterom.</p>\n<p>Ostaviti masu u frižideru 12 h da se ohladi.</p>\n<p>Modlu premazati uljem i obložiti prezlom.</p>\n<p>Sipati u modla do pola i peći — 12' na 180°C</p>",
     "searchText": "čokoladni sufle (ena & jovan) absint poslastica 450 g čokolade 450 g putera 300 g šećera 160 g brašna 50 g badema 9 jaja 9 žumanaca",
-    "image": "/recipes/015.png"
+    "image": "/recipes/015.webp"
   },
   {
     "id": "016",
@@ -397,7 +397,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 l mleka</div><div>3   jajeta</div><div>3 velike kašike šećera</div><div>4   vanilin šećer</div><div>1   slatka pavlaka</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 1/2 l mleka, 2 vanilin šećera. Zagrevati do ključanja.</p>\n<p>Umutiti šne (belanca i 1 velika kašika šećera i 2 vanilin šećera)</p>\n<p>Vaditi šne kašikom i kuvati u mleku. Vaditi ih rešetkastom kašikom i redati u činiju.</p>\n<p>Umutiti sledeće sastojke: 3 žumanca, 3 velike kašike šećera.</p>\n<p>Kada se ohladi dodati umućenu slatku pavlaku.</p>",
     "searchText": "šne nokle  poslastica 1/2 l mleka 3 jajeta 3 velike kašike šećera 4 vanilin šećer 1 slatka pavlaka",
-    "image": "/recipes/016.png"
+    "image": "/recipes/016.webp"
   },
   {
     "id": "017",
@@ -422,7 +422,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>150 g čokolade</div><div>150 g putera</div><div>100 g šećera</div><div>40 g brašna</div><div>3    jajeta</div><div>malo soli</div><div>narendana kora mandarine</div></div>\n<h2>Priprema</h2>\n<p>Rastopiti sledeće sastojke: Čokolada, puter.</p>\n<p>Kada se ohladi, dodati jedno po jedno jaje, 40 g brašna, so i narendanu koru mandarine.</p>\n<p>Kalupi: puter i brašno</p>\n<p>Pokriti alu folijom i staviti u frižider (zamrzivač) 90'</p>\n<p>Rerna na 220 — peći 15'</p>\n<p><strong>III prečka</strong></p>",
     "searchText": "damske tortice  kolač 150 g čokolade 150 g putera 100 g šećera 40 g brašna 3 jajeta malo soli narendana kora mandarine",
-    "image": "/recipes/017.png"
+    "image": "/recipes/017.webp"
   },
   {
     "id": "018",
@@ -461,7 +461,7 @@
     ],
     "bodyHtml": "<h2>Verzija 1</h2>\n<div class=\"notebook-lines\"><div>3 kutije piškota</div><div>500 g mascarpone ili /3 slatke pavlake/</div><div>250 g prah šećera  → [190 g]</div><div>~~500 g mleka~~</div><div>8   jaja  → [5 jaja]</div><div>cimet, rum /irski krem-liker/</div><div>3 velike kašike neskafe</div></div>\n<h3>Priprema</h3>\n<p>Umutiti 5 žumanaca i 190 g šećera na pari <em>(na pari)</em></p>\n<p>Umutiti ~~šne~~ i slatku pavlaku <em>(ohlađenu)</em></p>\n<p>Sve pomešati.</p>\n<p>Nes-kafu pomešati sa 1 velikom kašikom šećera i rumom; u to umakati piškote.</p>\n<p>Red piškota – red krema. Posuti sa kakaom i cimetom.</p>\n<h2>Verzija na labavom listu (olovkom)</h2>\n<div class=\"notebook-lines\"><div>8   žumanaca</div><div>8   belanaca</div><div>1/3 šolja šećera</div><div>450 g mascarpone</div><div>1   šolja šlaga</div><div>2   šolje ohlađene kafe</div><div>2/3 šolje brendi (irish)</div><div>30  piškota</div></div>\n<p><em>(prekriženo: 60 g biter čokolade)</em></p>\n<h3>Priprema</h3>\n<p>Umutiti sledeće sastojke: 8 žumanaca, 1/3 šolje šećera.</p>\n<p>Dodavati po malo mascarpone.</p>\n<p>Umutiti šlag.</p>\n<p>Umutiti belanca.</p>\n<p>U žumanca dodati šlag, pa sve to u belanca.</p>\n<h2>Verzija 2 (zelena)</h2>\n<div class=\"notebook-lines\"><div>3 kutije piškota</div><div>4 žumanca i 6 velikih kašika prah šećera → na pari (ohladiti)</div><div>500 g maskarpone</div><div>1 l slatka pavlake</div><div>nes kafa i rum (Baileys) 250 ml - 300 ml   [20 kafi]</div><div>kakao za posipanje</div></div>",
     "searchText": "tiramisu  poslastica 3 kutije piškota 500 g mascarpone ili /3 slatke pavlake/ 250 g prah šećera [190 g] 500 g mleka 8 jaja [5 jaja] cimet, rum /irski krem-liker/ 3 velike kašike neskafe 8 žumanaca 8 belanaca 1/3 šolja šećera 450 g mascarpone 1 šolja šlaga 2 šolje ohlađene kafe 2/3 šolje brendi (irish) 30 piškota 3 kutije piškota 4 žumanca i 6 velikih kašika prah šećera 6 velikih kašika prah šećera 500 g maskarpone 1 l slatka pavlake nes kafa i rum (baileys) 250 ml - 300 ml kakao za posipanje",
-    "image": "/recipes/018.png"
+    "image": "/recipes/018.webp"
   },
   {
     "id": "019",
@@ -491,7 +491,7 @@
     ],
     "bodyHtml": "<h2>Osnovna mera</h2>\n<p>Umutiti sledeće sastojke: 5 jaja, 5 velikih kašika šećera, 1 vanilin šećer, 1/2 l mleka, limunova kora.</p>\n<h3>Karamel</h3>\n<p>6 velikih kašika šećera → rastopiti, uliti u kalupe i onda sipati krem.</p>\n<p>Kuvati na pari (rerna, vodena kupelj) 30'.</p>\n<p>---</p>\n<h2>Za 10 osoba</h2>\n<div class=\"notebook-lines\"><div>1,5 l mleka          12 jaja i 12 velikih kašika šećer i</div><div>12   jaja           malo mleka i 1 vanilin</div><div>12 velikih kašika šećera              ↓</div><div>2   vanilin šećera  umutiti i dodati mleko</div></div>\n<h3>Karamel</h3>\n<div class=\"notebook-lines\"><div>3 velike kašike šećera          3 velike kašike šećera i malo vode</div><div>1-2 male kašike ruma          → da dobije zlatnu boju</div><div>dodati 2 male kašike ruma i prokuvati</div></div>\n<p>Sipati u kalupe, a zatim sipati smesu od jaja i mleka i kuvati u vodenoj kupelji u rerni na 200°C. Istresti i ukrasiti šlagom.</p>",
     "searchText": "rozata (crème caramel)  poslastica 5 jaja 5 velikih kašika šećera 1 vanilin šećer 1/2 l mleka limunova kora karamel: 6 velikih kašika šećera 1,5 l mleka 12 jaja 12 velikih kašika šećera 2 vanilin šećera karamel: 3 velike kašike šećera 1-2 male kašike ruma",
-    "image": "/recipes/019.png"
+    "image": "/recipes/019.webp"
   },
   {
     "id": "020",
@@ -516,7 +516,7 @@
     ],
     "bodyHtml": "<p>&gt; kora 15-20' na 220°C</p>\n<h2>Sastojci i priprema</h2>\n<div class=\"notebook-lines\"><div>1/2 l mleka</div><div>1   vanilin     } prokuvati</div><div>100 g šećera</div></div>\n<div class=\"notebook-lines\"><div>6   žumanaca</div><div>3 velike kašike šećera     } umutiti, sipati u mleko i kuvati dok se ne zgusne</div><div>3 velike kašike brašna oštro</div></div>\n<p>Umutiti 2 šlaga i 1 vanilin. Ručno umešati u ohlađen krem.</p>",
     "searchText": "krem pita (baka)  kolač / pita 1/2 l mleka 1 vanilin 100 g šećera 6 žumanaca 3 velike kašike šećera 3 velike kašike brašna oštro 2 šlaga 1 vanilin",
-    "image": "/recipes/020.png"
+    "image": "/recipes/020.webp"
   },
   {
     "id": "021",
@@ -548,7 +548,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>1 pakovanje lisnatog</p>\n<h3>Krem</h3>\n<p>Kuvati sledeće sastojke: 1 l mleka, 3 vanilin.</p>\n<p>Umutiti sledeće sastojke: 6 žumanaca, 6 velikih kašika šećera, 3 velike kašike gustina, 1 velika kašika brašna, 5 cl hladnog mleka.</p>\n<p>Kuvati na pari dok se ne zgusne. Kada se ohladi, dodati 2 kapi esencije vanile.</p>\n<p>2 slatke pavlake umućene sa 4 vanilin Š.</p>\n<h3>Srednja kora</h3>\n<div class=\"notebook-lines\"><div>6 belanaca  } šne i 8 velikih kašika badema</div><div>6 velikih kašika šećera         1 velika kašika brašna</div></div>\n<p>Pleh: puter – brašno</p>\n<h3>Višnje</h3>\n<p>Pomešati sledeće sastojke: višnje 400 g i 4 velike kašike šećera — /kao švarcvald/.</p>",
     "searchText": "majina krempita sa višnjama  kolač / pita 1 pakovanje lisnatog krem: 1 l mleka 3 vanilin 6 žumanaca 6 velikih kašika šećera 3 velike kašike gustina 1 velika kašika brašna 5 cl hladnog mleka 2 kapi esencije vanile 2 slatke pavlake umućene sa 4 vanilinš višnje 400 g 4 velike kašike šećera 6 belanaca 6 velikih kašika šećera 8 velikih kašika badema 1 velika kašika brašna",
-    "image": "/recipes/021.png"
+    "image": "/recipes/021.webp"
   },
   {
     "id": "022",
@@ -577,7 +577,7 @@
     ],
     "bodyHtml": "<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>1 l   mleka</div><div>5     žumanaca</div><div>5 velikih kašika  šećera</div><div>6 velikih kašika  oštrog brašna</div><div>4     vanilin šećera</div><div>125 g putera</div></div>\n<p>1 l mleka → skuvati</p>\n<p>Umutiti:</p>\n<div class=\"notebook-lines\"><div>5 žumanaca</div><div>5 velikih kašika šećera</div><div>6 velikih kašika oštrog brašna</div><div>malo hladnog mleka (od 1 l)</div></div>\n<p>Sipati kipuće mleko, vratiti u šerpu i mutiti na ringli dok se ne zgusne.</p>\n<p>Dodati puter.</p>\n<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>300 g m brašna (oštro)</div><div>1/2 l vode</div><div>150 g ulja</div><div>6   jaja</div><div>1   prašak za pecivo</div></div>\n<p>Pomešati sledeće sastojke: 1/2 l vode i 150 g ulja. ↓ da provri, a onda dodati 300 g brašna, mutiti dok se ne izjednači.</p>\n<p>Kada se ohladi, dodavati 1 po 1 jaje i 1 prašak za pecivo, stalno mešajući mikserom.</p>\n<h2>Pečenje</h2>\n<ul><li>pleh: papir</li><li>Vaditi sa hvataljkom za sladoled (malom)</li><li>rerna: III stepenik — 180°C — 20'-25'</li></ul>",
     "searchText": "princez krofne  kolač / peciva 1 l mleka 5 žumanaca 5 velikih kašika šećera 6 velikih kašika oštrog brašna 4 vanilin šećera 125 g putera 300 g m brašna / oštro 1/2 l vode 150 g ulja 6 jaja 1 prašak za pecivo",
-    "image": "/recipes/022.png"
+    "image": "/recipes/022.webp"
   },
   {
     "id": "023",
@@ -614,7 +614,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>1   šolja mleka</div><div>1   šolja brašna oštro</div><div>1/3 šolje mineralne vode</div><div>1 mala kašika prah šećera</div><div>malo soli</div><div>narendana kora limuna</div><div>2 kapi vanilin esencije</div></div>\n<p>→ da odstoji 30'</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>400 g višanja</div><div>100 g šećera</div><div>2 vanilin šećera</div><div>cimet, karanfilić</div><div>20 g skrobnog brašna</div><div>sok od višanja</div></div>\n<p>100 g → karamelizirati → dodati sok od višanja → pa onda višnje i 2 vanilin šećera i cimet i karanfilić i razmućeni gustin u vodi</p>\n<h2>Preliv</h2>\n<p>Umutiti sledeće sastojke: 6 žumanaca, 80 g šećera i 2 vanilin šećera.</p>\n<p>500 ml pavlake zagrejati do ključanja i polako sipati u jaja. Dodati: 3 velike kašike Baileys</p>\n<p>Preliti palačinke.</p>\n<p>rerna → skroz dole. na pari 150°C — 30'-35'</p>\n<h2>Napomena</h2>\n<p>12 palačinki — oko 33 g višanja po palačinki.</p>",
     "searchText": "palačinke meli sa višnjama zapečene  poslastica / palačinke 2 jaja 1 šolja mleka 1 šolja brašna oštro 1/3 šolje mineralne vode 1 mala kašika prah šećera malo soli narendana kora limuna 2 kapi vanilin esencije 400 g višanja 100 g šećera 2 vanilin šećera cimet, karanfilić 20 g skrobnog brašna sok od višanja 6 žumanaca 80 g šećera 2 vanilin 500 ml pavlake 3 velike kašike baileys",
-    "image": "/recipes/023.png"
+    "image": "/recipes/023.webp"
   },
   {
     "id": "024",
@@ -655,7 +655,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>1   šolja mleka</div><div>2   kapi vanilin esencije</div><div>1   mala kašika prah šećera</div><div>malo soli</div><div>narendana limunova kora</div><div>1   šolja brašna (oštro)</div><div>1/3 šolje mineralne vode</div></div>\n<p>→ 30' da odstoji, a za to vreme...</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>1/4 šolje svetlog ruma</div><div>100 g mlevenih   } oraha</div><div>100 g seckanih</div><div>50 g suvog grožđa</div><div>2 velike kašike orancina</div><div>3    žumanca</div><div>1/2 šolje slatke pavlake (100 ml)</div><div>2 velike kašike šećera U prahu (50 g)</div><div>1 mala kašika cimeta</div></div>\n<h3>Priprema fila</h3>\n<div class=\"notebook-lines\"><div>50 g suvog grožđa</div><div>i } potopiti U 1/4 šolje ruma</div><div>2 velike kašike orancina</div></div>\n<p>Pomešati sledeće sastojke: 200 g oraha i 1/2 šolje slatke pavlake i 2 velike kašike prah šećera i 2 žumanca. ↓</p>\n<p>Mutiti na ringli, kada se zgusne dodati:</p>\n<ul><li>rum sa suvim grožđem i orancini</li><li>1 žumance</li><li>1 mala kašika cimeta</li></ul>\n<p>Ponovo vratiti na ringlu i kuvati 2'-3'.</p>\n<h2>Čokoladni sos</h2>\n<p>| sastojak | veća mera | manja mera | |---|---|---| | čokolada crna | 150 g | 70 g | | mleko | 1 šolja | 1/2 šolje | | žumanca | 2 | 1 | | prah šećer | 2 velike kašike | 1 velika kašika | | kakao | 2 velike kašike | 1 velika kašika | | puter | 1 mala kašika | 1 mala kašika | | rum | 2 velike kašike | 1 velika kašika |</p>\n<h3>Priprema sosa <em>(img_4168)</em></h3>\n<p>Kuvati sledeće sastojke: 1 šolja mleka, 2 velike kašike prah šećera, 2 velike kašike kakaa.</p>\n<ul><li>2 žumanca, prethodno razmućena</li><li>i 150 g izlomljene čokolade</li></ul>\n<p>Mutiti na ringli i paziti da <strong>ne provri</strong>.</p>\n<p>Kada se zgusne, dodati 1 velika kašika putera i 2 velike kašike ruma.</p>",
     "searchText": "gundel crêpes  poslastica / palačinke 2 jaja 1 šolja mleka 2 kapi vanilin esencije 1 mala kašika prah šećera malo soli narendana limunova kora 1 šolja brašna (oštro) 1/3 šolje mineralne vode 1/4 šolje svetlog ruma 100 g mlevenih oraha 100 g seckanih oraha 50 g suvog grožđa 2 velike kašike orancina 3 žumanca 1/2 šolje slatke pavlake (100 ml) 2 velike kašike šećera u prahu (50 g) 1 mala kašika cimeta 150 g čokolade crne 1 šolja mleka 2 žumanca 2 velike kašike prah šećera 2 velike kašike kakaa 1 mala kašika putera 2 velike kašike ruma",
-    "image": "/recipes/024.png"
+    "image": "/recipes/024.webp"
   },
   {
     "id": "025",
@@ -683,7 +683,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4    jaja              4 belanca i 300 g šećera</div><div>300 g  prah šećera              šne</div><div>2    šlaga             vaditi puslice (40)</div><div>150 g  prah šećera       sušiti u rerni 1 h 30'</div><div>175 g  putera                    120°C</div><div>500 g - 750 g malina</div><div>2    vanilin</div><div>1/2    čaše belog vina</div></div>\n<h2>Žuti krem</h2>\n<p>Umutiti: 4 žumanca i 125 g prah šećera</p>\n<p>Kuvati na pari, a kada se ohladi dodati:</p>\n<ul><li>175 g putera</li><li>2 vanilin šećera</li><li>(1/2 čaše belog vina) — po izboru</li></ul>\n<h2>Beze kore</h2>\n<div class=\"notebook-lines\"><div>8 belanaca i 40 g prah š</div><div>↓</div><div>šne</div></div>\n<p>Nastaviti na pari i lupati žicom dok sneg ne bude čvrst.</p>\n<p>Ispeći 4-6 listova u ⌀ kalupu: puter i brašno.</p>\n<h2>Sastavljanje</h2>\n<p>Umutiti 2 slatke pavlake. Pomešati krem sa malo šlaga.</p>\n<p>Svako dno puslice namazati sa šlagom i zalepiti za tanjir.</p>\n<p>Redosled slojeva <em>(skica na dnu strane)</em>: 1. puslica 2. maline 3. šlag 4. žuti krem 5. puslice</p>",
     "searchText": "puslica kolač sa malinama  torta / kolač 4 jaja 300 g prah šećera 2 šlaga 150 g prah šećera 175 g putera 500 g - 750 g malina 2 vanilin 1/2 čaše belog vina 8 belanaca 40 g prah š",
-    "image": "/recipes/025.png"
+    "image": "/recipes/025.webp"
   },
   {
     "id": "026",
@@ -711,7 +711,7 @@
     ],
     "bodyHtml": "<h2>Lisnato testo</h2>\n<p>Lisnato testo razviti tanko i iseći kvadrat veličine 30 cm. Staviti ga na pokvašen list papira za pečenje i ostaviti u frižideru 3 sata.</p>\n<p>Posuti sa 60 g šećera i peći 5 minuta na 190°C, dok ne počne da narasta.</p>\n<p>Na testo staviti žičani stalak ili mrežicu i peći još 15 minuta. Zatim skloniti stalak, posuti sa 20 g prah šećera i peći još 2–3 minuta na 220°C.</p>\n<p>Ostaviti da se ohladi, pa iseći na tri pravougaonika širine 10 cm.</p>\n<h2>Krem</h2>\n<p>1/2 l mleka sa korom od limuna zagrejati do ključanja.</p>\n<p>Umutiti 6 žumanaca sa 120 g šećera, pa dodati 60 g gustina. Sipati vrelo mleko i kuvati dok se krem ne zgusne.</p>\n<p>Kada se krem rashladi, po površini rasporediti kockice putera i staviti u frižider.</p>\n<p>Kada se potpuno ohladi, ukloniti koru od limuna, dodati umućenu slatku pavlaku i vratiti u frižider da se ohladi.</p>\n<h2>Sastavljanje</h2>\n<p>Prvu koru premazati kremom i posuti jagodama. Staviti drugu koru, zatim ponovo krem i jagode. Završiti trećom korom i posuti prah šećerom.</p>",
     "searchText": "mille-feuille sa kremom i jagodama mille-feuille avec la crème et les fraises kolač 250 g tanko razvučenog lisnatog testa 1/2 l mleka 6 žumanaca kora od limuna 180 g šećera 60 g gustina 50 g putera 7 dl slatke pavlake 800 g seckanih jagoda 20 g prah šećera",
-    "image": "/recipes/026.png"
+    "image": "/recipes/026.webp"
   },
   {
     "id": "027",
@@ -739,7 +739,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>2 jaja</div><div>250 g mleka</div><div>4 velike kašike Grand Marnier (ili kora od pomorandže)</div><div>ili Cointreau</div><div>ili sok od pomorandže</div><div>8 velikih kašika brašna meko</div><div>1-2 male kašike šećera</div></div>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>2   pomorandže</div><div>2 velike kašike šećera</div><div>3 velike kašike putera</div><div>4 velike kašike likera</div><div>sok 1 pomorandže</div></div>\n<p>2 kašike šećera blago karamelizirati.</p>\n<p>Dodati puter i liker i sok pomorandže.</p>\n<p>Spustiti kriške pomorandže da se zagreju.</p>",
     "searchText": "crêpes suzette  poslastica / palačinke 2 jaja 250 g mleka 4 velike kašike grand marnier ili cointreau 8 velikih kašika brašna meko 1-2 male kašike šećera 2 pomorandže 2 velike kašike šećera 3 velike kašike putera 4 velike kašike likera sok 1 pomorandže",
-    "image": "/recipes/027.png"
+    "image": "/recipes/027.webp"
   },
   {
     "id": "028",
@@ -763,7 +763,7 @@
     ],
     "bodyHtml": "<h2>Sastojci i priprema</h2>\n<p>1/2 kg višanja i <strong>3</strong> ~~4~~ velika kašika šećera i 1 vanilin i 1 čašica konjaka i malo muškatnog oraščića</p>\n<p>Da prokuva da se rastopi šećer i ispari alkohol.</p>\n<p>1 mala kašika gustina i vodu — razmutiti pa dodati.</p>",
     "searchText": "sos od višanja  preliv / sos 1/2 kg višanja 3 (4) velika kašika šećera 1 vanilin 1 čašica konjaka malo muškatnog oraščića 1 mala kašika gustina",
-    "image": "/recipes/028.png"
+    "image": "/recipes/028.webp"
   },
   {
     "id": "029",
@@ -784,7 +784,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g sitno isečenih oljuštenih badema</div><div>250 g šećera</div><div>malo limunovog soka</div></div>\n<h2>Priprema</h2>\n<p>250 g šećera i sok od limuna → da se rastopi i požuti, pa onda dodati 250 g badema.</p>\n<p>Izručiti na pouljenu ploču i pouljenom oklagijom rastanjiti i brzo seći štapiće.</p>",
     "searchText": "grijaž štapići  sitni kolači / dekoracija 250 g sitno isečenih oljuštenih badema 250 g šećera malo limunovog soka",
-    "image": "/recipes/029.png"
+    "image": "/recipes/029.webp"
   },
   {
     "id": "030",
@@ -806,7 +806,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg oljuštenih, zapečenih badema</div><div>1 kg šećera</div><div>malo vode</div><div>2-3 štangle rastopljene čokolade</div></div>\n<h2>Priprema</h2>\n<p>1 kg šećera rastopiti u malo vode i kuvati dok ne požuti.</p>\n<p>Dodati badem, čokoladu i mešati dok se masa ne zgusne i potpuno pokrije badem.</p>\n<p>Izliti masu na pouljenu ploču i iseći kolačiće.</p>",
     "searchText": "krokante  sitni kolači 1 kg oljuštenih, zapečenih badema 1 kg šećera malo vode 2-3 štangle rastopljene čokolade",
-    "image": "/recipes/030.png"
+    "image": "/recipes/030.webp"
   },
   {
     "id": "031",
@@ -828,7 +828,7 @@
     ],
     "bodyHtml": "<h2>Sastojci i priprema</h2>\n<p><strong>120 g badema</strong> peći u rerni 180°C — 15'</p>\n<p>Krupno iseckati pa dodati:</p>\n<p><strong>200 g šećera</strong> <em>(sa strane crvenim: 100)</em> i <strong>50 g brašna</strong> i <strong>3 belanceta</strong> <em>(vanila; dopisano 100 g)</em></p>\n<p>Papir za pečenje namazati puterom i peći na <strong>180°C</strong> — 12'-15'</p>\n<p>Razmak između 5 cm, sa malom kašikom.</p>\n<p>Pleh na III rešetku.</p>",
     "searchText": "croquant of cordes sur-file — bruno albouze sitni kolači 120 g badema 200 g šećera 50 g brašna 3 belanceta (vanila)",
-    "image": ""
+    "image": "/recipes/031.webp"
   },
   {
     "id": "032",
@@ -850,7 +850,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>280 g slatkih  } badema oljuštiti</div><div>30 g gorkih</div><div>280 g prah šećera</div></div>\n<h2>Priprema</h2>\n<p>Istucati ih u avanu. Pri tucanju dodavati sok od pomorandže (ili sok ružin).</p>\n<p>Izručiti u šerpu i dodati:</p>\n<p>280 g prah šećera i na blagoj vatri mešati dok masa ne počne da se lepi za prste kada se dotakne.</p>\n<h2>Beleške sa margine (crvenim)</h2>\n<p><strong>Kruškice / Jabuke</strong></p>\n<ul><li>⌐ šimšir <em>(list za peteljku)</em></li><li>uvaljati u mlivenom[?] konc. pa u kristal šećer</li><li>karanfilić</li></ul>",
     "searchText": "marcipan baka milica sitni kolači / masa 280 g slatkih badema 30 g gorkih badema 280 g prah šećera sok od pomorandže (ili sok ružin)",
-    "image": ""
+    "image": "/recipes/032.webp"
   },
   {
     "id": "033",
@@ -871,7 +871,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Kore od 3 pomorandže ostaviti preko noći u hladnoj vodi.</p>\n<p>Iseći i staviti ih u toplu vodu i kuvati ih u 3 vode.</p>\n<p>Kuvane — procediti i ostaviti da se cede <strong>5 h</strong>.</p>\n<p>Izmeriti kore → toliko šećera. ↓</p>\n<p>Šećer sa malo vode kuvati dok ne počnu da izbijaju mehurići.</p>\n<p>Dodati u šećer pomorandže i kuvati dok se sav šećer ne ukuva.</p>\n<p>Na poslužavnik staviti papir i posuti kristal šećerom pa orancine uvaljati.</p>\n<p>Tako u šećeru ostaviti ih do upotrebe (staklena tegla u frižideru).</p>",
     "searchText": "orancini  sitni kolači / kandirano voće kore od 3 pomorandže šećer — koliko i kora (izmeriti kore → toliko šećera) kristal šećer za uvaljivanje",
-    "image": ""
+    "image": "/recipes/033.webp"
   },
   {
     "id": "034",
@@ -894,7 +894,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>| sastojak | veća mera | manja mera | |---|---|---| | žito | 500 g | 300 g | | orasi | 300 g | 250 g | | badem | 150-200 g | 90-120 g | | muškatni oraščić | 1/2 | — | | šećer | 400-500 g | 250 g |</p>",
     "searchText": "žito slavski kolači — dodi slavsko jelo 500 g žita 300 g oraha 150-200 g badema 1/2 muškatnog oraščića 400-500 g šećera",
-    "image": ""
+    "image": "/recipes/034.webp"
   },
   {
     "id": "035",
@@ -919,7 +919,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g čokolade</div><div>1 mala kašika ulja</div><div>2 male kašike vode</div><div>250 g putera</div><div>4    žumanca</div><div>100 g prah šećera</div><div>200 g grijaža lešnika (badema)</div></div>\n<h2>Korpice</h2>\n<p>U manjoj posudi topiti na pari:</p>\n<p>Pomešati sledeće sastojke: 4 štangle čokolade i 1 mala kašika ulja i 2 male kašike vode i mala kocka putera.</p>\n<p>Sa ovom masom obložiti papirne korpice.</p>\n<h2>Fil</h2>\n<p>Kuvati sledeće sastojke: 4 žumanca, dok se ne zgusne, 100 g prah šećera. <em>(manja mera olovkom: 2 ž / 50 g)</em></p>\n<p>Kada se ohladi dodati:</p>\n<ul><li>200 g omekšalog putera <em>(manja mera: 100)</em></li><li>200 g grijaža lešnika (badema) <em>(manja mera: 100)</em></li></ul>\n<p>Puniti korpice.</p>\n<p>Kada se ohladi, skinuti papirne korpice.</p>",
     "searchText": "čokoladne korpice sa grijažom  sitni kolači 250 g čokolade 1 mala kašika ulja 2 male kašike vode 250 g putera 4 žumanca 100 g prah šećera 200 g grijaža lešnika (badema)",
-    "image": ""
+    "image": "/recipes/035.webp"
   },
   {
     "id": "036",
@@ -944,7 +944,7 @@
     ],
     "bodyHtml": "<p><strong>čokoladne korpice sa višnjama</strong> — <em>Dadi</em> / čokoviš</p>\n<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>~~150~~ 120 (100) g putera</div><div>200 g čokolade          } kuvati dok se ne otopi</div><div>šipka vanile</div><div>(ili 2 vanilin šećera)</div></div>\n<h2>Priprema</h2>\n<p>Mešati dok se ne prohladi.</p>\n<p>Sipati u papirne korpice do pola, staviti 1-2 višnje, preko višanja sipati čokoladu do vrha.</p>\n<p>Ukrasiti polutkama badema.</p>\n<p>Staviti korpice u frižider da se stegnu i polako skinuti papirne korpice.</p>\n<h2>Napomene</h2>\n<p>40 korpica 2 x 3 cm</p>\n<p><strong>\\* višnje:</strong> ako su iz slatka, staviti u cediljku i oprati sa mlakom vodom i dobro ocediti.</p>\n<div class=\"notebook-lines\"><div>100 g šećera</div><div>150 g višanja (smrznutih)</div></div>",
     "searchText": "cigančići čokoladne korpice sa višnjama sitni kolači 150 g putera → 120 (100) 200 g čokolade šipka vanile (ili 2 vanilin šećera) višnje — 1-2 po korpici polutke badema 100 g šećera 150 g višanja (smrznutih)",
-    "image": ""
+    "image": "/recipes/036.webp"
   },
   {
     "id": "037",
@@ -972,7 +972,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<h3>I — testo / prvi nadev</h3>\n<div class=\"notebook-lines\"><div>150 g putera</div><div>150 g šećera</div><div>150 g neoljuštenih samlevenih badema</div><div>100 g mekog brašna</div><div>4   jaja</div><div>150 g prah šećera</div></div>\n<h3>II — drugi nadev</h3>\n<div class=\"notebook-lines\"><div>1 šolja vrelog mleka</div><div>150 g šećera</div><div>1   vanilin</div><div>150 g oraha</div><div>60 g putera</div></div>\n<h2>Priprema</h2>\n<p>Umutiti 150 g putera sa 150 g šećera, pa dodati 150 g badema, 100 g mekog brašna i sneg od 4 belanca.</p>\n<p>Pleh premazati puterom i posuti brašnom.</p>\n<p>Rastanjiti ga i ispeći, ali da ostane blede boje.</p>\n<p>Izručiti testo i staviti ga na obrnutu stranu.</p>\n<p>Za prvi nadev umutiti 4 žumanca sa 150 g prah šećera.</p>\n<p><strong>I nadev</strong> namazati na testo i staviti u rernu da se osuši.</p>\n<p><strong>II nadev</strong> premazati preko I nadeva, pa posuti samlevenim bademom i utapkati.</p>",
     "searchText": "štangle sa dva nadeva baka mira sitni kolači 150 g putera 150 g šećera 150 g neoljuštenih samlevenih badema 100 g mekog brašna 4 jaja 150 g prah šećera 1 šolja vrelog mleka 150 g šećera 1 vanilin 150 g oraha 60 g putera",
-    "image": ""
+    "image": "/recipes/037.webp"
   },
   {
     "id": "038",
@@ -998,7 +998,7 @@
     ],
     "bodyHtml": "<h2>Žute kuglice</h2>\n<div class=\"notebook-lines\"><div>2 tvrdo kuvana žumanca → propasirati</div><div>80 g putera</div><div>80 g prah šećera</div><div>1 velika kašika ruma</div></div>\n<p>Vaditi male loptice na papir i ohladiti u frižideru.</p>\n<h2>Čokoladna smesa</h2>\n<div class=\"notebook-lines\"><div>150 g oraha (badema)</div><div>150 g prah šećera</div><div>1   belance</div><div>3   šangle izribane čokolade</div><div>1 velika kašika ruma</div></div>\n<h2>Sastavljanje</h2>\n<p>U čokoladnu smesu stavljati žute kuglice i oblikovati.</p>\n<p>Uvaljati u orahe.</p>",
     "searchText": "rum kuglice mama sitni kolači 2 tvrdo kuvana žumanca 80 g putera 80 g prah šećera 1 velika kašika ruma 150 g oraha (badema) 150 g prah šećera 1 belance 3 šangle izribane čokolade 1 velika kašika ruma",
-    "image": ""
+    "image": "/recipes/038.webp"
   },
   {
     "id": "039",
@@ -1020,7 +1020,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>3   jaja               } mutiti na pari</div><div>3   šangle čokolade    } dok se ne zgusne</div><div>250 g šećera             } pa dodati</div></div>\n<p>250 g krupno seckanih oraha.</p>\n<h2>Priprema</h2>\n<p>Vaditi kašičicom i stavljati na puterom podmazan pleh. Prosušiti ih.</p>",
     "searchText": "kic-moce dadi sitni kolači 3 jaja 3 šangle čokolade 250 g šećera 250 g krupno seckanih oraha",
-    "image": ""
+    "image": "/recipes/039.webp"
   },
   {
     "id": "040",
@@ -1044,7 +1044,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>6   jaja</div><div>400 g šećera</div><div>200 g čokolade</div><div>250 g putera</div><div>200 g pečenog lešnika (oraha)</div></div>\n<p>1 veliko pakovanje oblandi (ili 2 manja)</p>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 6 celih jaja, 400 g šećera.</p>\n<div class=\"notebook-lines\"><div>200 g rastopljene čokolade</div><div>i } Od ove smese odvojiti 1 šolju za glazuru</div><div>250 g putera</div></div>\n<p>Pa onda dodati 200 g samlevenog lešnika (oraha).</p>\n<p>Poslednju oblandu dobro pritisnuti — nečim teškim, pa tek posle 2-3 h premazati glazurom.</p>",
     "searchText": "pišinger sanja s. sitni kolači 6 jaja 400 g šećera 200 g čokolade 250 g putera 200 g pečenog lešnika (oraha) 1 veliko pakovanje oblandi (ili 2 manja)",
-    "image": ""
+    "image": "/recipes/040.webp"
   },
   {
     "id": "041",
@@ -1067,7 +1067,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>200 g mlevenih oraha</div><div>200 g seckanih oraha</div><div>200 g šećera u prahu</div><div>2   bjelanceta</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 2 belanceta, 1 mala kašika limunovog soka.</p>\n<p>Postepeno dodavati orahe, šećer — ručno mešati.</p>\n<p>Zagrejati rernu na 200°C. Kada se stavi pleh, smanjiti temperaturu na 100°C i peći 45 minuta na srednjoj rešetki.</p>\n<p>Dok se peku, ostatak pokriti i u frižider, 10-tak minuta pre prve ture početi praviti drugi pleh.</p>",
     "searchText": "orašnice cica sitni kolači 200 g mlevenih oraha 200 g seckanih oraha 200 g šećera u prahu 2 belanceta 1 mala kašika limunovog soka",
-    "image": ""
+    "image": "/recipes/041.webp"
   },
   {
     "id": "042",
@@ -1100,7 +1100,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>3   jaja</div><div>125 g putera</div><div>125 g margarina</div><div>100 g šećera</div><div>100 g oraha</div><div>1/2   kesice praška za pecivo</div><div>1   vanilin</div><div>kora limuna</div><div>meko brašno</div></div>\n<h2>Kuvar <em>(druga varijanta — testo za kuglice/rolnice?)</em></h2>\n<div class=\"notebook-lines\"><div>250 g putera</div><div>500 g mekog brašna</div><div>1   žumance</div><div>1   jaje</div><div>sok od 1 limuna</div><div>4 velike kašike šećera</div></div>\n<p>Umutiti: puter i žumance i 1 jaje i šećer i sok limuna i brašno.</p>\n<p>Razviti koru 1/2 cm debljine.</p>\n<p>Vaditi krugove. Peći.</p>\n<p>Namazati džemom i zalepiti sa drugom <em>(skica: dva poluokrugla kolačića slepljena)</em>.</p>",
     "searchText": "vanilice baka milica sitni kolači 3 jaja 125 g putera 125 g margarina 100 g šećera 100 g oraha 1/2 kesice praška za pecivo 1 vanilin kora limuna meko brašno 250 g putera 500 g mekog brašna 1 žumance 1 jaje sok od 1 limuna 4 velike kašike šećera",
-    "image": ""
+    "image": "/recipes/042.webp"
   },
   {
     "id": "043",
@@ -1124,7 +1124,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2 šolje vode</div><div>400 g šećera</div><div>1   margarin</div><div>300 g mlevenog keksa</div><div>150 g oraha</div><div>50 g čokolade</div></div>\n<h2>Priprema</h2>\n<p>2 šolje vode i 400 g šećera → <strong>špinovati</strong> (skuvati sirup)</p>\n<p>Kada provri dodati:</p>\n<div class=\"notebook-lines\"><div>1   margarin</div><div>300 g mlevenog keksa</div><div>150 g oraha</div></div>\n<p>Mešati dok se ne izjednači.</p>\n<p>Polovinu smese staviti na tacnu na kojoj će biti, a u drugu polovinu umešati 50 g rastopljene čokolade, pa dodati na prvi deo.</p>\n<p>Preliti glazurom od čokolade.</p>",
     "searchText": "bajadera  sitni kolači 2 šolje vode 400 g šećera 1 margarin 300 g mlevenog keksa 150 g oraha 50 g čokolade",
-    "image": ""
+    "image": "/recipes/043.webp"
   },
   {
     "id": "044",
@@ -1153,7 +1153,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>400 g šećera</div><div>9   žumanaca</div><div>9 velikih kašika šećera</div><div>300 g krupno seckanih oraha</div><div>250 g putera</div><div>100 g čokolade</div><div>1   velika oblanda (ili 2 manje)</div></div>\n<p><strong>Glazura</strong> <em>(od čokolade — skica talasa)</em></p>\n<h2>Priprema</h2>\n<p>400 g šećera → karamelisati</p>\n<p>Izručiti u pleh namazan puterom i onda samleti.</p>\n<div class=\"notebook-lines\"><div>9 žumanaca</div><div>i } skuvati pa dodati:</div><div>9 velikih kašika šećera</div><div>1 mala kašika putera</div></div>\n<div class=\"notebook-lines\"><div>250 g putera</div><div>400 g samlevenog šećera (karamela)</div></div>\n<p>300 g seckanih oraha</p>\n<p>Glazura od čokolade.</p>\n<h2>Kuvar <em>(grijaž za ukras / drugu varijantu)</em></h2>\n<p>Rastopiti sledeće sastojke: 140 g prah šećera, 140 g oraha.</p>\n<p>Kuvati sledeće sastojke: 140 g putera, 140 g prah šećera, 4 žumanca.</p>\n<p>pa kuvati još na pari dok se ne zgusne.</p>",
     "searchText": "grijaž oblande dadi sitni kolači 400 g šećera 9 žumanaca 9 velikih kašika šećera 300 g krupno seckanih oraha 250 g putera 100 g čokolade 1 velika oblanda (ili 2 manje) 140 g prah šećera 140 g oraha 140 g putera 140 g prah šećera 4 žumanca",
-    "image": ""
+    "image": "/recipes/044.webp"
   },
   {
     "id": "045",
@@ -1177,7 +1177,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4    žumanca</div><div>150 g šećera</div><div>200 g putera</div><div>100 g prah šećera</div><div>1    limun</div><div>2    velika oblanda</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 4 žumanca, 150 g šećera.</p>\n<p>Dodati narendanu koru i sok od 1 limuna.</p>\n<p>Kuvati na pari dok se ne zgusne.</p>\n<p>Umutiti 200 g putera i 100 g prah šećera i to dodati u ohlađen krem.</p>\n<p>2 oblande preseći na pola <em>(4 lista)</em>, podeliti.</p>",
     "searchText": "limun štangle  sitni kolači 4 žumanca 150 g šećera 200 g putera 100 g prah šećera 1 limun 2 velika oblanda",
-    "image": ""
+    "image": "/recipes/045.webp"
   },
   {
     "id": "046",
@@ -1202,7 +1202,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<div class=\"notebook-lines\"><div>250 g šećera</div><div>i } ušpinovati i dodati rastopljene:</div><div>1/2 šolje vode</div></div>\n<p>Pomešati sledeće sastojke: 100 g čokolade i 1 mala kašika putera.</p>\n<p>50 g suvog grožđa potopiti u amareto.</p>\n<p>U krem dodati:</p>\n<ul><li>2 velike kašike orancina</li><li>50 g suvog grožđa</li><li>oraha, onoliko dok se ne mogu praviti kuglice</li></ul>\n<p>Uvaljati kuglice u orahe.</p>",
     "searchText": "bombice sa orancinima dadi sitni kolači 250 g šećera 1/2 šolje vode 100 g čokolade 1 mala kašika putera 50 g suvog grožđa 2 velike kašike orancina orasi",
-    "image": ""
+    "image": "/recipes/046.webp"
   },
   {
     "id": "047",
@@ -1232,7 +1232,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>6   jaja</div><div>12 velikih kašika šećera</div><div>12 velikih kašika brašna</div><div>12 velikih kašika mleka</div><div>12 velikih kašika ulja</div><div>1   prašak za pecivo</div><div>100 g čokolade  } (glazura)</div><div>70 g putera</div></div>\n<p>Peći u velikom plehu: puter-brašno. Seći u obliku tacne, ostatke iseći na sitne kockice i preliti sirupom.</p>\n<h2>Sirup</h2>\n<p>Skuvati sledeće sastojke: 100 g vode, 100 g šećera.</p>\n<h2>Sastavljanje</h2>\n<p>Kada se ohladi, preliti preko isečenog testa, pa dodati:</p>\n<p>3 velike kašike đema od kajsije 2 prethodno zamrznute pomorandže, koje treba dobro izribati i oprati četkicom. Jako zaleđene ih izrendisati.</p>\n<p>Sve izmešati i premazati preko testa.</p>\n<p>Kada se prosuši, preliti čokoladnom glazurom.</p>",
     "searchText": "jafa kolač veka kolač 6 jaja 12 velikih kašika šećera 12 velikih kašika brašna 12 velikih kašika mleka 12 velikih kašika ulja 1 prašak za pecivo 100 g čokolade 70 g putera 100 g vode 100 g šećera 3 velike kašike đema od kajsije 2 pomorandže (zamrznute)",
-    "image": ""
+    "image": "/recipes/047.webp"
   },
   {
     "id": "048",
@@ -1261,7 +1261,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 margarin  } umutiti</div><div>2 žumanca   }</div><div>so</div><div>1 mala kašika šećera</div><div>1   pavlaka</div><div>500 g brašna mekog</div></div>\n<h2>Priprema</h2>\n<p>Uzimati po komadić veličine oraha i na brašnjavoj rendi oblikovati. Peći.</p>\n<h2>Sirup</h2>\n<div class=\"notebook-lines\"><div>750 g šećera</div><div>2   šolje vode</div><div>sok 1 limuna</div><div>5   kriški limuna</div><div>1   vanilin</div></div>\n<p>Preliti vrijuće preko vrele urmašice.</p>",
     "searchText": "urmašice mama sitni kolači 1 margarin 2 žumanca so 1 mala kašika šećera 1 pavlaka 500 g brašna mekog 750 g šećera 2 šolje vode sok 1 limuna 5 kriški limuna 1 vanilin",
-    "image": ""
+    "image": "/recipes/048.webp"
   },
   {
     "id": "049",
@@ -1289,7 +1289,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>100 g suvog grožđa</div><div>100 g oraha (badema)</div><div>150 g sitno seckanog želea (ili sušene kajsije, smokve, urme)</div><div>kora od limuna</div><div>ili</div><div>orancini</div><div>300 g petit beurre (krupno izdrobljenog u salveti sa oklagijom)</div></div>\n<p>— sve preliti rumom</p>\n<h2>Osnova</h2>\n<div class=\"notebook-lines\"><div>250 g putera</div><div>250 g prah šećera</div><div>3   cela jaja</div><div>3   štange rastopljene čokolade</div></div>\n<h2>Priprema</h2>\n<p>Penasto umutiti — i u ovu smesu dodati gore navedene sastojke, sve dobro izmešati.</p>\n<p>Oblikovati i preliti čokoladnom glazurom.</p>",
     "searchText": "kasato baka milica sitni kolači 100 g suvog grožđa 100 g oraha (badema) 150 g sitno seckanog želea (ili sušene kajsije, smokve, urme) kora od limuna (ili orancini) 300 g petit beurre rum 250 g putera 250 g prah šećera 3 cela jaja 3 štange rastopljene čokolade",
-    "image": ""
+    "image": "/recipes/049.webp"
   },
   {
     "id": "050",
@@ -1322,7 +1322,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>1 šolja tople vode</div><div>1 jaje</div><div>3 šolje mekog brašna</div><div>1/4 šolje šećera</div><div>3 velike kašike mleka u prahu</div><div>1 mala kašika soli</div><div>5 velikih kašika omekšanog putera</div><div>1 mala kašika kvasca u prahu</div></div>\n<p>Sve sastojke dobro izmešati.</p>\n<h2>Karamel</h2>\n<p>Rastopiti 60 g putera. Dodati 1/2 šolje žutog šećera i 1/2 šolje sladoleda od vanile ili slatke pavlake. Prokuvati 2 minuta.</p>\n<p>Namazati pleh puterom i sipati karamel.</p>\n<h2>Fil I oblikovanje</h2>\n<p>Suvo grožđe potopiti u mlaku vodu da naraste, pa ga ocediti.</p>\n<p>Zagrejati rernu na 175–180°C.</p>\n<p>Rastanjiti testo u pravougaonik približno 20 × 45 cm. Namazati puterom i posuti cimetom, braon šećerom i oceđenim suvim grožđem.</p>\n<p>Zamotati testo. Kraj namazati puterom i zalepiti. Iseći na 12 kriški debljine približno 1–1,5 cm.</p>\n<p>Ostaviti pokriveno 45 minuta da naraste.</p>\n<p>Peći 20–25 minuta na 175°C.</p>\n<h2>Glazure i prelivi</h2>\n<p>Pomešati sledeće sastojke: 1) sirup: 2 šolje braon šećera i 2 velike kašike putera i 1 1/4 šolje vode.</p>\n<p>Pomešati sledeće sastojke: 2) gusta glazura: 4 velike kašike mleka i 2 šolje prah šećera i 1–2 kapi esencije vanile.</p>\n<p>Pomešati sledeće sastojke: 3) gusta glazura: 3 velike kašike putera i 3 velike kašike mleka i 3 velike kašike šećera.</p>\n<p>Pomešati sledeće sastojke: 4) mascarpone glazura: 2 šolje šećera i 100 g mascarponea i 1 velika kašika putera i 1/2 male kašike ekstrakta vanile i 3 velike kašike mleka.</p>\n<p>Može se samo premazati slatkom pavlakom.</p>\n<p>Kada se rolnice izvade iz rerne, preliti odozgo odabranim prelivom.</p>",
     "searchText": "rolnice sa cimetom  peciva 1 šolja tople vode 1 jaje 3 šolje brašna m 1/4 šolje šećera 3 velike kašike mleka u prahu 1 mala kašika soli 5 velikih kašika omekšanog putera 1 mala kašika kvasca u prahu 60 g putera 1/2 šolje žutog šećera 1/2 šolje sladoleda od vanile (ili slatke pavlake) puter za premazivanje 1 velika kašika cimeta 1/2 šolje braon šećera 50 g suvog grožđa",
-    "image": ""
+    "image": "/recipes/050.webp"
   },
   {
     "id": "051",
@@ -1361,7 +1361,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>245 g toplog mleka</div><div>60 g tople vode</div><div>1 mala kašika vanila ekstrakta</div><div>113 g putera</div><div>2    jaja (umućena)</div><div>1/2 male kašike soli</div><div>100 g šećera</div><div>635 g brašna (5 š)</div><div>3 male kašike suvog kvasca</div><div>1 velika kašika vitalnog pšeničnog glutena (opciono)</div></div>\n<p>Testo izvaditi na blago pobrašnjenu podlogu i mesiti 10 minuta.</p>\n<p>Pokriti sa plastičnom folijom i ostaviti 10'.</p>\n<h2>Nadev od cimeta</h2>\n<div class=\"notebook-lines\"><div>113 g putera (umućenog) (1/2 šolja)</div><div>220 g braon šećera        } pomešati</div><div>4-5 velikih kašika cimeta</div></div>\n<p>Peć 25 x 35 x 5 — namazati puterom.</p>\n<p>Razviti testo 40 x 60.</p>\n<p>Namazati puterom, posuti cimetom i šećerom.</p>\n<p>Zarolati, označiti nožem 3-3,5 cm, seći oštrim nožem ili dental koncem (30 cm), i sečenu stranu na gore, blago pritisnuti.</p>\n<p>Ako se odmah peku, ostaviti 45'-60'.</p>\n<p>Rerna 180°C — 20'-25'.</p>\n<p>Sutradan: frižider, pokrivene folijom.</p>\n<p>ako su zamrznute: izvaditi ih i ostaviti dok se odlede i narastu.</p>\n<h2>Puter-krem</h2>\n<div class=\"notebook-lines\"><div>~~67~~ 57 g krem sir</div><div>57 g putera</div><div>110 g prah šećera</div><div>1/2 male kašike ekstrakta vanile (2 ml)</div><div>1/8 male kašike ekstrakta limuna</div></div>\n<p>Izmešati 57 g krem sira i 57 g putera.</p>\n<p>Dodati prah šećer i ekstrakt vanile.</p>\n<p>Ohladiti do upotrebe, a onda do sobne temperature pre polivanja.</p>\n<h2>Dodatna varijanta punjenja <em>(zeleni okvir)</em></h2>\n<div class=\"notebook-lines\"><div>50-60 g istopljenog putera</div><div>100 g smeđeg šećera</div><div>3-4 male kašike cimeta</div></div>",
     "searchText": "jovanove rolnice sa cimetom  peciva 245 g toplog mleka 60 g tople vode 1 mala kašika vanila ekstrakta 113 g putera 2 jaja (umućena) 1/2 male kašike soli 100 g šećera 635 g brašna (5 š) 3 male kašike suvog kvasca 1 velika kašika vitalnog pšeničnog glutena (opciono) 113 g putera (umućenog, 1/2 šolja) 220 g braon šećera 4-5 velikih kašika cimeta 57 g krem sir 57 g putera 110 g prah šećera 1/2 male kašike ekstrakt vanile (2 ml) 1/8 male kašike ekstrakta limuna 50-60 g istopljenog putera 100 g smeđeg šećera 3-4 male kašike cimeta",
-    "image": ""
+    "image": "/recipes/051.webp"
   },
   {
     "id": "052",
@@ -1397,7 +1397,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>Pomešati sledeće sastojke: 30 g kvasca (14 g instant), 10 g šećera, 250 ml tople vode. Ostaviti smesu da naraste.</p>\n<p>250 g suvog grožđa → potopiti u vodu</p>\n<p>Sipati u:</p>\n<div class=\"notebook-lines\"><div>250 g oštrog    } brašna (može i samo oštro)</div><div>250 g mekog</div><div>40 g šećera</div><div>12 g soli</div><div>100 g putera (sobne temperature)</div></div>\n<p>Umesiti testo i mesiti ga 10'.</p>\n<p>U podmazanoj činiji ostaviti da naraste 1 h. Pokriti providnom folijom.</p>\n<p>Premesiti testo bez dodavanja brašna. Umotati u foliju i staviti u ohlađen pleh u frižider 30'.</p>\n<p>Posle 30' — okrenuti drugom stranom i ostaviti još 30'.</p>\n<h2>List putera</h2>\n<p>Dok se testo hladi: puter 250 g (omekšan).</p>\n<p>Od pek papira napraviti kvadrat 20 x 20 cm i oklagijom napraviti list putera. Ostaviti u frižideru.</p>\n<p>Pre stavljanja putera na testo, ostaviti 15 min na sobnoj temperaturi.</p>\n<h2>Laminacija (presavijanje)</h2>\n<p>Razviti testo (kvadrat, sa oznakom <strong>20</strong> gore, <strong>40</strong> sa strane), staviti list putera u sredinu i <strong>preklopiti</strong> — knjiga.</p>\n<p>Okrenuti (oznaka &quot;knjiga&quot;) i polako oklagijom razviti traku <strong>72 x 20</strong>, pa preklopiti na trećinu (<strong>jednostruko presavijanje</strong>).</p>\n<p>Zatim još jednom presavijanje na pola (<strong>dvostruko presavijanje</strong> — dijagram: traka 72, presavijena na 4 dela, pa na pola).</p>\n<p>Umotati u foliju i ostaviti u frižider 30'.</p>\n<p>Razviti testo ponovo — oznaka <strong>18</strong> i <strong>85</strong> (traka 85 x 18) — okrenuti, premotati na trećine.</p>\n<p>Ostaviti u frižideru 1 h.</p>\n<h2>Sastavljanje i poslastičarski krem</h2>\n<p>Razviti testo <strong>60 x 30</strong>.</p>\n<p>Premazati <strong>poslastičarski krem</strong> i posuti suvo grožđe.</p>\n<p>Zamotati i seći <strong>2,5 cm</strong> rolne.</p>\n<p>Kraj od rolne na gore, a kraj — saviti na dole.</p>\n<p>Ostaviti da naraste 1 h, premazati <strong>premaz od jajeta</strong> (1 jaje i 1 mala kašika vode).</p>\n<p>Peći <strong>200°C — 10'</strong>, a onda <strong>180°C — 12'</strong>.</p>\n<p><strong>sirup:</strong> 1 šolja vode i 1 šolja šećer — kada su pečene, premazati i vratiti u rernu 2'.</p>\n<h2>Poslastičarski krem <em>(zelenim, sa strane)</em></h2>\n<p>Umutiti sledeće sastojke: 300 ml mleka i vanila → provri, 3 žumanceta, 25 g gustina, 100 g šećera, 30 g putera (dodati na kraju).</p>",
     "searchText": "pain aux raisins  peciva / lisnato testo 30 g kvasca (14 g instant) 10 g šećera 250 ml tople vode 250 g oštrog brašna 250 g mekog brašna 40 g šećera 12 g soli 100 g putera (sobne temp.) 250 g suvog grožđa 250 g putera 300 ml mleka vanila 3 žumanceta 25 g gustina 100 g šećera 30 g putera 1 šolja vode 1 šolja šećer",
-    "image": ""
+    "image": "/recipes/052.webp"
   },
   {
     "id": "053",
@@ -1425,7 +1425,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>30 g svežeg kvasca (14 g suvo) i 10 g šećer i 250 ml mlake vode</div></div>\n<p>Sa žicom mešati 5', da naraste, pa sipati u činiji u kojoj je izmešano:</p>\n<div class=\"notebook-lines\"><div>500 g oštrog brašna (250 oštro i 250 meko)</div><div>40 g šećera</div><div>12 g soli</div><div>100 g omekšalog putera</div></div>\n<p>Mesiti testo 10'.</p>\n<p>Malo pomastiti činiju, staviti testo, prekriti providnom folijom i ostaviti 1 h, dok se zapremina ne utrostruči.</p>\n<p>Istresti testo na radnu ploču i — <strong>ne dodavati brašno</strong> — oblikovati i staviti u providnu foliju i 30' u frižider, pa onda drugu stranu 30'.</p>\n<h2>List putera</h2>\n<p>puter 250 g → od papira napraviti kvadrat 20 x 20 cm, 2 lista putera, formirati oklagijom.</p>\n<p>Pre stavljanja na testo, ostaviti 45' na sobnoj temperaturi.</p>\n<h2>Laminacija (presavijanje testa)</h2>\n<p>Razviti koru: kvadrat sa oznakama <strong>20</strong> (gore) i <strong>40</strong> (sa strane), puter u sredini, preklopiti na pola.</p>\n<p>Okrenuti (oznaka „knjiga“) i polako oklagijom razviti traku <strong>72 x 20</strong>, presaviti na trećinu, a zatim još jednom na pola <em>(jednostruko/dvostruko presavijanje — dijagram)</em>.</p>\n<p>U providnu foliju, 30' u frižideru.</p>\n<p><strong>ako se tog dana prave</strong> → <strong>dvostruko presavijanje</strong> (presaviti na trećinu, pa još na trećinu).</p>\n<p><strong>A ako ne</strong> — preko noći pa ujutru → <strong>jednostruko presavijanje</strong>.</p>\n<p>Razviti traku <strong>85 x 18</strong>, okrenuti (knjiga), premotati na trećinu, okrenuti 2. Ostaviti u frižideru 1 h.</p>\n<p>Sutradan razviti testo debljine <strong>3 mm</strong>, dužine <strong>90-100 cm</strong>, širine <strong>20 cm</strong>.</p>\n<p>Razrezati trouglove: na dnu obeležiti tačke na <strong>5,5 — 10,5 — 10,5 — 10,5 ...</strong> cm, seći dijagonalno u trouglove <em>(zig-zag dijagram)</em>.</p>\n<p>Zaseći 1,5 cm na osnovi trougla i zarolati od široke strane ka vrhu.</p>\n<h2>Završna faza</h2>\n<p>Odmah premazati <strong>premaz od jajeta</strong>: 1 celo jaje i 1 mala kašika vode.</p>\n<p>Ostaviti 2 h da naraste, pa ponovo premazati jajetom.</p>\n<p>Zagrejati rernu na <strong>200°C</strong>.</p>\n<p>Pleh obložiti papirom za pečenje i staviti na I stepenik odozdo.</p>\n<p>Peći na <strong>200°C — 10'</strong>, pa <strong>190°C-180°C — 12'</strong>.</p>",
     "searchText": "croissant  peciva / lisnato testo 30 g svežeg kvasca (14 g suvo) 10 g šećera 250 ml mlake vode 500 g oštrog brašna (250 oštro i 250 meko) 40 g šećera 12 g soli 100 g omekšalog putera 250 g putera 1 celo jaje 1 mala kašika vode",
-    "image": ""
+    "image": "/recipes/053.webp"
   },
   {
     "id": "054",
@@ -1463,7 +1463,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>| sastojak | osnovna mera | za kalup ⌀26 | |---|---|---| | jaja | 9 | 12 | | šećer | 200 g (10 velikih kašika) | 12 velikih kašika | | mleveni keks | 100 g | 130 g | | badem | 60 g (6 velikih kašika) | 80 g (8 velikih kašika) | | kakao | 50 g (4 velike kašike) | 70 g (5 velikih kašika) | | karanfilić samleven | 2-3 | 1-2 | | cimet | 1 mala kašika | 1 mala kašika |</p>\n<p><em>(uz veću meru dopisano: i 200 g šećera)</em></p>\n<p>Umutiti: 8 žumanaca i 1 celo jaje i 1 velika kašika vode</p>\n<p>Dodati: 6 velikih kašika badema i 100 g keksa i 4 velike kašike kakaa i karanfilić i cimet i šne od 8 belanaca</p>\n<p>Kalup → puter i brašno. Peći 45' na 180°C.</p>\n<p><em>(za kalup ⌀26: 30' na 180°C)</em></p>\n<h2>Fil I</h2>\n<p>| sastojak | osnovna | veća mera | |---|---|---| | čokolada | 250 g | 375 g | | mleko | 4 velike kašike | 6 velikih kašika | | žumanca | 6 | 9 | | šećer | 2 velike kašike | 3 velike kašike | | slatke pavlake | 4 | 5 |</p>\n<h3>Priprema</h3>\n<p>Istopiti na ringli čokoladu i 2 velike kašike mleka i 1 velika kašika šećera.</p>\n<p>Mutiti na ringli mikserom i dodavati 1 po 1 žumance.</p>\n<p>Kada se ohladi, dodati 1 umućenu slatku pavlaku, drugu za ukrašavanje.</p>\n<h2>Fil II — Višnje</h2>\n<div class=\"notebook-lines\"><div>400 g višanja</div><div>3 velike kašike šećera</div><div>2 velike kašike gustina</div><div>1   vanilin šećer</div></div>\n<p>gustin: 2 velike kašike razmutiti sa 2-3 kašike hladne vode ili soka.</p>\n<p>Višnje kuvati u 125 g soka od višanja i 3 velike kašike šećera i 1 vanilin šećer → 5'.</p>\n<p>Odliti sok i pomešati sa gustinom. Kuvati dok se ne zgusne i dodati višnje.</p>\n<p>---</p>\n<p><em>Na dnu strane, crvenim: &quot;Black forest — by ME&quot; i dekorativni potpis/amblem.</em></p>",
     "searchText": "schwarzwald torta by me torta 9 jaja 200 g šećera (10 velikih kašika) 100 g mlevenog keksa 60 g badema (6 velikih kašika) 50 g kakaa (4 velike kašike) 2-3 karanfilića samlevena 1 mala kašika cimeta 250 g čokolade 4 velike kašike mleka 6 žumanaca 2 velike kašike šećera 4 slatke pavlake 400 g višanja 3 velike kašike šećera 2 velike kašike gustina 1 vanilin šećer 375 čokolade 6 velikih kašika mleka 9 žumanaca 3 velike kašike šećera 5 slatkih pavlaka",
-    "image": ""
+    "image": "/recipes/054.webp"
   },
   {
     "id": "055",
@@ -1489,7 +1489,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>250 g prah šećera</div><div>250 g samlevenih oraha ili badema</div><div>1   belance (neumućeno)</div><div>2   štangle nastrugane čokolade</div></div>\n<p>Zamesiti testo i podeliti na 3 dela.</p>\n<p>Odvojiti donji deo kalupa za tortu i namazati puterom <em>(ili papir namazan puterom)</em>.</p>\n<p>Peći iz 3 puta. Sušiti ih u rerni 150°C.</p>\n<h2>Fil</h2>\n<p>Kuvati sledeće sastojke: 6 celih jaja, 6 velikih kašika šećera stalno mešajući, 4-5 štangli čokolade.</p>\n<p>Kada se ohladi, dodati 250 g umućenog putera.</p>\n<h2>Napomena — mali kolačići</h2>\n<p>Kada se prave mali kolačići, dasku posuti bademom (orasima) i onda razviti oklagijom koru, opet posuti bademom da se ne bi lepilo, i sa modlom vaditi kolačiće.</p>",
     "searchText": "krcko oraščić щелкунчик (krcko oraščić na ruskom) — dadi sitni kolači 250 g prah šećera 250 g samlevenih oraha ili badema 1 belance (neumućeno) 2 štangle nastrugane čokolade 6 celih jaja 6 velikih kašika šećera 4-5 štangli čokolade 250 g umućenog putera",
-    "image": ""
+    "image": "/recipes/055.webp"
   },
   {
     "id": "056",
@@ -1520,7 +1520,7 @@
     ],
     "bodyHtml": "<p><strong>Voće:</strong> jagoda (4?) — ananas (4) — kivi (4) — banana (3)</p>\n<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>8   jaja</div><div>8 velikih kašika šećera</div><div>2 velike kašike brašna oštrog</div><div>200 g mlevenih badema</div></div>\n<p>Umutiti sledeće sastojke u čvrst sneg: 8 belanaca, 8 velikih kašika šećera.</p>\n<p>Polako dodavati 8 žumanaca i 200 g badema i 2 velike kašike oštrog brašna.</p>\n<p>Kalup: puter — brašno. Peći 45' na 180°C.</p>\n<h2>I fil</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>3 velike kašike šećera</div><div>25 g putera</div></div>\n<p>Umutiti na ringli dok se ne zgusne. Kada se ohladi, dodati 100 g putera.</p>\n<h3>I fil — alternativni</h3>\n<p>1/2 l mleka prokuvati.</p>\n<p>3 žumanceta i 3 velike kašike šećera i 3 velike kašike brašna → sipati u mleko i kuvati dok se ne zgusne. Dodati 60 g putera i 3 vanilin šećera.</p>\n<h2>II fil — Poslastičarski krem</h2>\n<p><em>(vidi recept 002 Poslastičarski krem)</em></p>\n<h2>Slaganje torte <em>(od dna ka vrhu)</em></h2>\n<div class=\"notebook-lines\"><div>kora</div><div>i fil</div><div>banane</div><div>kora</div><div>ii fil</div><div>kivi — ananas</div><div>kora</div><div>ii krim</div><div>ananas</div></div>",
     "searchText": "voćna torta by me torta 8 jaja 8 velikih kašika šećera 2 velike kašike brašna oštrog 200 g mlevenih badema 2 jaja 3 velike kašike šećera 25 g putera 100 putera 1/2 l mleka 3 žumanceta 3 velike kašike šećera 3 velike kašike brašna 60 g putera 3 vanilin šećera",
-    "image": ""
+    "image": "/recipes/056.webp"
   },
   {
     "id": "057",
@@ -1547,7 +1547,7 @@
     ],
     "bodyHtml": "<p>3 x 3 kore od 3 jaja (ili 4 male) — za pleh 35 x 25 cm.</p>\n<h2>Kore</h2>\n<p>Umutiti sledeće sastojke: 3 belanca, 3 velike kašike šećera.</p>\n<p>Pomešati sledeće sastojke: 4-5 velikih kašika lešnika i 1 ravna kašika oštrog brašna.</p>\n<p>Pleh: puter — brašno. Peći: 200°C.</p>\n<h2>Fil</h2>\n<p>Umutiti sledeće sastojke: 9 žumanaca, 5 velikih kašika šećera.</p>\n<p>Pomešati sledeće sastojke: 3 štangle omekšale čokolade i malo putera.</p>\n<p>Sve ovo umutiti i kuvati na pari.</p>\n<p>Kada se ohladi dodati: <strong>250 g umućenog putera</strong></p>",
     "searchText": "reform torta dadi torta 3 belanca 3 velike kašike šećera 4-5 velikih kašika lešnika 1 ravna k oštrog brašna 9 žumanaca 5 velikih kašika šećera 3 štangle omekšale čokolade malo putera 250 g umućenog putera",
-    "image": ""
+    "image": "/recipes/057.webp"
   },
   {
     "id": "058",
@@ -1574,7 +1574,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>8   jaja</div><div>8 velikih kašika šećera</div><div>200 g badema</div><div>2 velike kašike oštrog brašna</div></div>\n<div class=\"notebook-lines\"><div>8 belanaca</div><div>i } šne</div><div>8 velikih kašika šećera</div></div>\n<p>U šne sipati 8 žumanaca i lagano promešati, pa dodati: 200 g badema i 2 velike kašike oštrog brašna.</p>\n<p>Kalup: puter i brašno. Peći: 45' na 180°C.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>4 cela jaja</div><div>6 velikih kašika šećera</div><div>50 g putera</div></div>\n<p>Staviti na ringlu i mešati dok se ne zgusnu.</p>\n<p>Kada se ohladi, dodati 200 g umućenog putera.</p>\n<p>Odvojiti fil za odozgo, a u ostatak staviti 2 velike kašike orancina.</p>",
     "searchText": "torta sa orancinima đadi torta 8 jaja 8 velikih kašika šećera 200 g badema 2 velike kašike oštrog brašna 4 cela jaja 6 velikih kašika šećera 50 g putera 200 g umućenog putera 2 velike kašike orancina",
-    "image": ""
+    "image": "/recipes/058.webp"
   },
   {
     "id": "059",
@@ -1605,7 +1605,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>Umutiti sledeće sastojke: I — 7 žumanaca, 100 g šećera.</p>\n<p>Umutiti sledeće sastojke u čvrst sneg: II — 7 belanaca, 100 g šećera.</p>\n<p>Sjediniti I i II.</p>\n<p>Kalup ⌀23: puter — brašno.</p>\n<p>Peći: 60' (200°C) → 180°C.</p>\n<p>Premazati džemom od kajsija i preliti glazurom od čokolade.</p>\n<h2>Glazura (proporcija)</h2>\n<p>| šećer | voda | čokolada | |---|---|---| | 2 š šećera (480 g) | 3/4 šolja vode (180 ml) | 360 g čokolade | | 240 g | 180 ml | 180 g | | 120 g | 90 ml | 90 g |</p>\n<p>Pomešati sledeće sastojke: Šećer, voda, čokolada. Zagrevati do ključanja.</p>\n<h2>Napomena</h2>\n<p>Gornju koricu iseći najtanje moguće (oljuštiti), da bi džem upio u tortu.</p>",
     "searchText": "sacher torta  torta 7 jaja 200 g šećera 200 g čokolade 200 g oraha 2 š šećera (480 g) 3/4 šolja vode (180 ml) 360 čokolade (360 g) 240 šećer 180 ml vode 180 čokolade 120 šećer 90 ml vode 90 čokolade",
-    "image": ""
+    "image": "/recipes/059.webp"
   },
   {
     "id": "060",
@@ -1630,7 +1630,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>4 jaja</div><div>114 g šećera</div><div>114 g oraha</div><div>114 g čokolade</div></div>\n<p>Umutiti sledeće sastojke: I — 4 žumanca, 57 g šećera, 1 mala kašika vode.</p>\n<p>Umutiti sledeće sastojke u čvrst sneg: II — 4 belanca, 57 g šećera.</p>\n<p>Sjediniti. Kalup: puter i brašno. Peći: 35' na 170°C.</p>\n<h2>Glazura</h2>\n<p>Kuvati sledeće sastojke: 60 g šećera, 45 g vode, 45 g čokolade.</p>\n<h2>⚠️ Napomena — dodatni recept na istom listu (nejasan naziv)</h2>\n<p>Sa desne strane istog lista, još jedan zapis — verovatno posebna manja čokoladna torta, bez jasnog naslova:</p>\n<div class=\"notebook-lines\"><div>86 g čokolade</div><div>100 g putera</div><div>66 g prah šećera</div><div>1   vanilin štapić (1 mala kašika kapi)</div><div>4   jaja</div><div>66 g kristal šećera</div><div>93 g brašna</div></div>\n<p>Umutiti sledeće sastojke: 100 g putera, 66 g prah šećera.</p>\n<p>Umutiti sledeće sastojke u čvrst sneg: 4 belanceta, malo limunovog soka.</p>\n<p>Pola dodati u jaja i pola brašno, pa onda ostatak, nežno promešati.</p>\n<p>III stepenik rerne. Peći prvih 15 minuta na 170°C sa odškrinutim vratima rerne, pa onda smanjiti na dole [?]. Izmeriti masu praznog kalupa, a zatim masu celog kolača sa kalupom. <em>(Dopisano: 150 g.)</em></p>\n<p>&gt; Vidi proveriti.md — ovaj drugi recept nema jasan naslov niti se može sa sigurnošću povezati sa Sacher tortom.</p>",
     "searchText": "sacher torta — mali kalup  torta 4 jaja 114 g šećera 114 g oraha 114 g čokolade 60 g šećera 45 g vode 45 g čokolade",
-    "image": ""
+    "image": "/recipes/060.webp"
   },
   {
     "id": "061",
@@ -1659,7 +1659,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>4 šolje brašna</div><div>250 g putera</div><div>2 cela jaja</div><div>1 šolja jogurta</div><div>1 prašak za pecivo</div><div>malo soli</div></div>\n<p>Puter usitniti i pomešati sa brašnom. Postepeno dodavati jogurt, 2 jaja, prašak za pecivo i so.</p>\n<p>Razdeliti na 7–8 delova. Razviti u okrugle jufke i staviti na tanjir. Ostaviti u frižideru 30–40 minuta.</p>\n<p>Svaku peći na 150°C.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>8 žumanaca</div><div>350 g šećera</div></div>\n<p>Umutiti, pa dodati 100 g brašna.</p>\n<p>Sipati u 1 l mleka i zagrevati do neposredno pred ključanje, pazeći da ne proključa. Mešati i dodati 2 vanilin šećera.</p>\n<p>&gt; U originalnom zapisu nije naveden poseban postupak slaganja torte.</p>",
     "searchText": "napoleon torta veka torta 4 šolje brašna 250 g putera 2 cela jaja 1 šolja jogurta 1 prašak za pecivo malo soli 8 žumanaca 350 g šećera 100 g brašna 1 l mleka 2 vanilin šećera",
-    "image": ""
+    "image": "/recipes/061.webp"
   },
   {
     "id": "062",
@@ -1689,7 +1689,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>5 belanaca</div><div>i } šne i 5 žumanaca (1 po 1)</div><div>100 g šećera i</div><div>125 g oštrog brašna</div><div>30 g kakaa</div></div>\n<p>Kalup: puter i brašno. 180°C.</p>\n<h2>Fil</h2>\n<p>Kuvati sledeće sastojke: 250 g slatke pavlake, 50 g čokolade i 25 g šećera. Ostaviti da se ohladi.</p>\n<p>Kada se dobro ohladi, dodati:</p>\n<p>Umutiti sledeće sastojke: 250 g slatke pavlake, 200 g prah šećera.</p>\n<h2>Glazura</h2>\n<div class=\"notebook-lines\"><div>50 g čokolade</div><div>malo putera</div><div>malo mleka</div><div>šećer</div></div>",
     "searchText": "pariska torta veka torta 5 belanaca 100 g šećera 5 žumanaca 125 g oštrog brašna 30 g kakaa 250 g slatke pavlake 50 g čokolade 25 g šećera 250 g slatke pavlake 200 g prah šećera 50 g čokolade malo putera malo mleka šećer",
-    "image": ""
+    "image": "/recipes/062.webp"
   },
   {
     "id": "063",
@@ -1718,7 +1718,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>10 belanaca</div><div>i } šne</div><div>10 velikih kašika šećera</div></div>\n<p>Prethodno pripremiti:</p>\n<div class=\"notebook-lines\"><div>100 g seckanog suvog grožđa</div><div>100 g seckanih smokava        (pomešati ih sa)</div><div>100 g mlevenih oraha</div><div>200 g seckanih oraha</div><div>1 velika kašika brašna oštrog</div></div>\n<p>Rasitniti voće sa brašnom. Polako dodavati u šne.</p>\n<p>Kalup: dno → puter i papir; stranice → puter i prezla.</p>\n<p>Peći: 200°C.</p>\n<p>Kada se ohladi, preseći na 2 dela.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>10 žumanaca</div><div>10 velikih kašika prah šećera (ravne kašike, 250 g)</div><div>3    vanilin</div></div>\n<p>Mutiti na pari dok se ne zgusne.</p>\n<p>Prohladiti i dodati 250 g umućenog putera.</p>",
     "searchText": "hranislava torta ilana torta 10 belanaca 10 velikih kašika šećera 100 g seckanog suvog grožđa 100 g seckanih smokava 100 g mlevenih oraha 200 g seckanih oraha 1 velika kašika brašna oštrog 10 žumanaca 10 velikih kašika prah šećera (250 g) 3 vanilin šećera 250 g umućenog putera",
-    "image": ""
+    "image": "/recipes/063.webp"
   },
   {
     "id": "064",
@@ -1744,7 +1744,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>Umutiti 8 žumanaca sa 8 velikih kašika šećera. Zatim pažljivo umešati sneg od 8 belanaca, 5 velikih kašika oraha i 3 velike kašike oštrog brašna.</p>\n<p>Kalup premazati puterom i posuti brašnom. Peći 40 minuta na 180°C.</p>\n<h2>Fil</h2>\n<p>Pomešati 250 g oraha i 200 g šećera, pa popariti sa 200 g ključalog mleka.</p>\n<p>Kada se ohladi, dodati 250 g omekšalog putera.</p>\n<p>Umutiti dok fil ne posvetli.</p>",
     "searchText": "bela torta orah — mama torta 8 žumanaca 8 velikih kašika šećera 5 velikih kašika oraha 3 velike kašike oštrog brašna 250 g oraha 200 g šećera 200 g ključalog mleka 250 g omekšalog putera",
-    "image": ""
+    "image": "/recipes/064.webp"
   },
   {
     "id": "065",
@@ -1776,7 +1776,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>7   jaja</div><div>7 velikih kašika šećera</div><div>2 velike kašike oštrog brašna</div><div>200 g lešnika</div><div>1 velika kašika ruma</div></div>\n<p>Umutiti sledeće sastojke u čvrst sneg: 7 belanaca, 7 velikih kašika šećera.</p>\n<p>Dodavati 1 po 1 žumance i 2 velike kašike brašna i 1 velika kašika ruma i 200 g lešnika.</p>\n<p>Kalup: puter — brašno. Peći: 45' na 180°C.</p>\n<h2>Fil</h2>\n<p>Pomešati sledeće sastojke: 1/2 l mleka, 2 vanilin. Zagrevati do ključanja.</p>\n<p>Pomešati sledeće sastojke: 4 žumanca i 6 velikih kašika šećera i 2 velike kašike gustina i 1 velika kašika brašna i malo hladnog mleka. ↓ Umutiti pa sipati u ključalo mleko i mutiti na pari dok se ne zgusne.</p>\n<p>Kada se ohladi dodati 1 umućenu slatku pavlaku.</p>\n<h2>Slaganje</h2>\n<div class=\"notebook-lines\"><div>kora</div><div>krem</div><div>maline</div><div>krem</div><div>kora</div></div>\n<p>500 g malina.</p>\n<p>Tortu posuti sa grijažom od lešnika.</p>",
     "searchText": "valentino torta by me — maja torta 7 jaja 7 velikih kašika šećera 2 velike kašike oštrog brašna 200 g lešnika 1 velika kašika ruma 1/2 l mleka 2 vanilin 4 žumanca 6 velikih kašika šećera 2 velike kašike gustina 1 velika kašika brašna 1 umućena slatka pavlaka 500 g malina grijaž od lešnika",
-    "image": ""
+    "image": "/recipes/065.webp"
   },
   {
     "id": "066",
@@ -1813,7 +1813,7 @@
     ],
     "bodyHtml": "<p>&gt; <em>(šaljiva beleška na vrhu strane, zelenim: &quot;eva: 2022 'čokoladna jagnjetina'&quot;)</em></p>\n<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>70 g putera</div><div>140 g šećera</div><div>110 g rastopljene čokolade</div><div>140 g badema (oraha)</div><div>6   jaja</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 70 g putera, 70 g šećera.</p>\n<p>U umućeni puter i šećer dodati 6 žumanaca, 110 g rastopljene čokolade i 140 g badema.</p>\n<p>Od 6 belanaca i 70 g šećera umutiti čvrst sneg, pa ga ručno umešati u smesu.</p>\n<p>Kalup <em>(oblik duguljaste vekne)</em>: puter — brašno.</p>\n<p>Peći: 45' na 180°C, pa 30' na 160°C. Rešetka na sredini rerne.</p>\n<h2>Glazura</h2>\n<div class=\"notebook-lines\"><div>4 štangle čokolade</div><div>malo mleka</div><div>putera 1 mala kašika</div><div>2-3 velike kašike šećera</div></div>\n<h2>Mali kalup <em>(dopisano plavim)</em></h2>\n<div class=\"notebook-lines\"><div>50 g putera</div><div>95 g šećera</div><div>75 g čokolade</div><div>95 g oraha</div><div>4    jaja</div></div>\n<h2>Kalup ⌀20cm <em>(varijanta na dnu strane)</em></h2>\n<p>Umutiti sledeće sastojke: 35 g putera, 70 g šećera, 55 g rastopljene čokolade, 70 g badema.</p>\n<p>Umutiti sledeće sastojke u čvrst sneg: 3 belanca, 35 g šećera.</p>\n<p>Peći 40 minuta, najpre na 180°C, a zatim na 160°C. Kalup staviti na srednju rešetku.</p>",
     "searchText": "srneća leđa đadi — u fusnoti šaljivo: 'eva: 2022 čokoladna jagnjetina' kolač 70 g putera 140 g šećera 110 g rastopljene čokolade 140 g badema (oraha) 6 jaja 4 štangle čokolade malo mleka putera 1 mala kašika 2-3 velike kašike šećera 50 g putera 95 g šećera 75 g čokolade 95 g oraha 4 jaja 35 g putera 70 g šećera 55 g rastopljene čokolade 70 g badema 3 jaja",
-    "image": ""
+    "image": "/recipes/066.webp"
   },
   {
     "id": "067",
@@ -1844,7 +1844,7 @@
     ],
     "bodyHtml": "<h2>I — kora</h2>\n<p>Umutiti sledeće sastojke: 4 belanca, 70 g šećera, 50 g seckanih oraha, 20 g mlevenih oraha, 3 velike kašike brašna, 3 velike kašike mlevene plazme.</p>\n<p>Napraviti 3 kore.</p>\n<h2>Fil</h2>\n<p>Umutiti 12 žumanaca i 500 g šećera u prahu <em>(napomena: mogu i pasterizovana žumanca)</em>.</p>\n<p>Kuvati na pari. Kada je skuvano, ubaciti 500 g margarina.</p>\n<p>Kada se ohladi, ubaciti 150 g plazme.</p>\n<h2>Sastavljanje</h2>\n<p>Svaku koru izbosti viljuškom i premazati sa malo soka od ananasa (iz konzerve), pa ostaviti.</p>\n<div class=\"notebook-lines\"><div>i kora i fil i 500 g višanja ocedjenih i fil</div><div>ii kora i fil i 500 g ananasa ocedjenog i fil</div><div>iii kora i fil i 150 g seckanog badema i malo mlevenog</div></div>\n<p>Preko torte: šlag i orasi i čokolada.</p>",
     "searchText": "moskva šnit  torta 4 belanca 70 g šećera 50 g seckanih oraha 20 g mlevenih oraha 3 velike kašike brašna 3 velike kašike mlevene plazme 12 žumanaca 500 g šećera u prahu 500 g margarina 150 g plazme 500 g višanja 500 g ananasa 150 g seckanog badema",
-    "image": ""
+    "image": "/recipes/067.webp"
   },
   {
     "id": "068",
@@ -1867,7 +1867,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g šećera</div><div>250 g putera</div><div>250 g čokolade</div><div>4   jajeta</div><div>90 g gustina</div></div>\n<h2>Priprema</h2>\n<p>Otopiti čokoladu na pari, umutiti puter, šećer, žumanca.</p>\n<p>Skinuti sa pare i dodati gustin i šne.</p>\n<p>Kalup: puter — brašno. Peći na pari u kalupu 20' na 180°C.</p>",
     "searchText": "markiza od čokolade  torta 250 g šećera 250 g putera 250 g čokolade 4 jajeta 90 g gustina",
-    "image": ""
+    "image": "/recipes/068.webp"
   },
   {
     "id": "069",
@@ -1894,7 +1894,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>7   jaja</div><div>7 velikih kašika šećera</div><div>14 velikih kašika oraha</div><div>1 velika kašika brašna</div><div>2 velike kašike kakaa</div></div>\n<p>Umutiti sledeće sastojke u čvrst sneg: 7 belanaca, 7 velikih kašika šećera.</p>\n<p>Dodavati 1 po 1 žumance i 14 velikih kašika oraha i 1 velika kašika brašna i 2 velike kašike kakaa.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>3   jaja</div><div>5 velikih kašika šećera</div><div>150-200 g čokolade</div></div>\n<p>Skuvati na pari, kada se ohladi dodati 200 g putera.</p>",
     "searchText": "crna torta đadi torta 7 jaja 7 velikih kašika šećera 14 velikih kašika oraha 1 velika kašika brašna 2 velike kašike kakaa 3 jaja 5 velikih kašika šećera 150-200 g čokolade 200 g putera",
-    "image": ""
+    "image": "/recipes/069.webp"
   },
   {
     "id": "070",
@@ -1916,7 +1916,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>6   jaja</div><div>6 velikih kašika šećera</div><div>6 velikih kašika brašna oštrog</div></div>\n<h2>Priprema</h2>\n<div class=\"notebook-lines\"><div>6 belanaca</div><div>i } šne</div><div>6 velikih kašika šećera</div><div>6 žumanaca</div><div>6 velikih kašika brašna (polako dodati)</div><div>(2 velike kašike kakaa)  — opciono, za čokoladnu varijantu</div></div>",
     "searchText": "patišpanj  osnovni kolač / biskvit 6 jaja 6 velikih kašika šećera 6 velikih kašika brašna oštrog 2 velike kašike kakaa",
-    "image": ""
+    "image": "/recipes/070.webp"
   },
   {
     "id": "071",
@@ -1939,7 +1939,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4    jaja</div><div>125 g šećera</div><div>125 g oštrog brašna</div><div>40 g putera</div><div>ili sve isto i 25 g kakaa</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 4 jaja, 125 g šećera.</p>\n<p>Staviti vodu da provri i na pari umutiti smesu dok ne posvetli.</p>\n<p>Čim se smesa učetvorostruči, skinuti je sa pare i nastaviti sa mućenjem dok se ne ohladi.</p>\n<p>Odjednom sipati brašno i rastopljeni puter.</p>\n<p>Kalup: puter i brašno. Peći: 35'-40' na 180°C.</p>",
     "searchText": "đenovski biskvit  osnovni kolač / biskvit 4 jaja 125 g šećera 125 g oštrog brašna 40 g putera 25 g kakaa",
-    "image": ""
+    "image": "/recipes/071.webp"
   },
   {
     "id": "072",
@@ -1967,7 +1967,7 @@
     ],
     "bodyHtml": "<h2>Francusko testo</h2>\n<div class=\"notebook-lines\"><div>300 g oštrog brašna</div><div>200 g putera</div><div>100 g prah šećera</div><div>3   tvrdo kuvana žumanca (propasirati)</div></div>\n<p>Zamesiti testo i ostaviti u frižideru preko noći.</p>\n<p>Ako je tvrdo, dodati 1 mala kašika kisele pavlake.</p>\n<h2>Šarlota</h2>\n<div class=\"notebook-lines\"><div>1,5 kg kiselih jabuka izrendanih</div><div>1 mala kašika cimeta</div><div>2   jaja</div><div>2 velike kašike kisele pavlake</div><div>1   šolja šećera (zavisi od kiselosti jabuka)</div></div>\n<p>1,5 kg jabuka krupno izrendati i pomešati sa cimetom. Rasporediti jabuke preko testa.</p>\n<p>Kada se zapeče testo i jabuke, preliti sa: 2 jaja i 2 velike kašike kisele pavlake i 1 šolja šećera.</p>\n<p>Peći dok ne porumeni.</p>",
     "searchText": "francusko testo — šarlota đodi kolač / pita 300 g oštrog brašna 200 g putera 100 g prah šećera 3 tvrdo kuvana žumanca 1 mala kašika kisele pavlake 1,5 kg kiselih jabuka (izrendanih) 1 mala kašika cimeta 2 jaja 2 velike kašike kisele pavlake 1 šolja šećera",
-    "image": ""
+    "image": "/recipes/072.webp"
   },
   {
     "id": "073",
@@ -1990,7 +1990,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>6   jaja</div><div>i } kuvati na blagoj vatri,</div><div>250 g prah šećera} mutiti mikserom da se smlači i zapeni.</div></div>\n<p>Dodati: vanilin i 250 g brašna oštrog i 125 g rastopljenog putera.</p>\n<p>Kalup: puter — brašno. 180°C. Seći na 3 dela.</p>",
     "searchText": "biskvit kore za voćnu tortu osnovni kolač / biskvit 6 jaja 250 g prah šećera vanilin 250 g brašna oštrog 125 g rastopljenog putera",
-    "image": ""
+    "image": "/recipes/073.webp"
   },
   {
     "id": "074",
@@ -2018,7 +2018,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>200 g putera</div><div>200 g šećera</div><div>200 g brašna</div><div>1 mala kašika praška za pecivo</div><div>3 male kašike kakaa (razmutiti ga sa 1-2 velike kašike vode)</div><div>100 g badema (oraha, lešnika)</div></div>\n<h2>Glazura</h2>\n<div class=\"notebook-lines\"><div>100 g čokolade</div><div>100 g šećera (3 velike kašike)</div><div>100 g putera</div><div>3 velike kašike mleka</div></div>",
     "searchText": "jamie oliver — biskvitno testo  osnovni kolač / biskvit 200 g putera 200 g šećera 200 g brašna 1 mala kašika praška za pecivo 3 male kašike kakaa 100 g badema (ili oraha, ili lešnika) 100 g čokolade 100 g šećera (3 velike kašike) 100 g putera 3 velike kašike mleka",
-    "image": ""
+    "image": "/recipes/074.webp"
   },
   {
     "id": "075",
@@ -2045,7 +2045,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>50 g badema</div><div>50 g putera (margarina)</div><div>50 g šećera</div><div>125 g brašna</div><div>1   jaje</div><div>3 velike kašike mleka</div></div>\n<p>Napraviti glatko testo. Ostaviti 1-2 h u frižideru.</p>\n<p>Rastanjiti i obložiti dno i stranice modlica.</p>\n<p>Dno izbušiti viljuškom na više mesta i napuniti suvim graškom ili pasuljem (na taj način ostaje sačuvan oblik tortica).</p>\n<p>Peći: 12'-15' na 200°C.</p>\n<h2>Punjenje korpica</h2>\n<div class=\"notebook-lines\"><div>250 g jagoda</div><div>250 ml slatke pavlake</div><div>prah šećer</div></div>\n<p>slag — jagode — prah šećer.</p>",
     "searchText": "tortice od jagoda  sitni kolači / tortice 50 g badema 50 g putera (margarina) 50 g šećera 125 g brašna 1 jaje 3 velike kašike mleka 250 g jagoda 250 ml slatke pavlake prah šećer",
-    "image": ""
+    "image": "/recipes/075.webp"
   },
   {
     "id": "076",
@@ -2071,7 +2071,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>350 g oštrog brašna</div><div>4-5 velikih kašika kisele pavlake</div><div>270 g putera</div><div>1   žumance</div></div>\n<p>Treba da odstoji u frižideru 1 dan, ali ga previjati 2-3 puta kao salvetu.</p>\n<h2>Glazura</h2>\n<div class=\"notebook-lines\"><div>liker</div><div>2   belanca</div><div>sok 1 limuna</div><div>1,5 čaša prah šećera</div></div>\n<p>Staviti u špric.</p>\n<p>Peći: 160°C, na pola rerne.</p>",
     "searchText": "venčići đadi sitni kolači 350 g oštrog brašna 4-5 velikih kašika kisele pavlake 270 g putera 1 žumance liker 2 belanca sok 1 limuna 1,5 čaša prah šećera",
-    "image": ""
+    "image": "/recipes/076.webp"
   },
   {
     "id": "077",
@@ -2095,7 +2095,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>125 g putera</div><div>125 g brašna oštro</div><div>125 g prah šećera</div><div>3   jaja</div><div>so</div></div>\n<p>izbor voća</p>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 3 jaja, 125 g šećera.</p>\n<p>Dodati 125 g rastopljenog putera i brašno (malo po malo).</p>\n<p>U formu sipati 2/3 testa, poređati voće, a zatim ostatak testa.</p>\n<p>Malo zapeći pa onda peći 45' na 180°C.</p>",
     "searchText": "voćni kolač ena kolač 125 g putera 125 g brašna oštro 125 g prah šećera 3 jaja so izbor voća",
-    "image": ""
+    "image": "/recipes/077.webp"
   },
   {
     "id": "078",
@@ -2123,7 +2123,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg trešanja</div><div>250 g putera</div><div>i } umutiti i dodati:</div><div>250 g šećera</div></div>\n<p>6 žumanaca (1 po 1) i šne i 250 g brašna oštro (postepeno)</p>\n<h2>Priprema</h2>\n<p>Pleh: puter. 1/2 mase sipati → zapeći.</p>\n<p>Sipati: malo prezle i trešnje i cimet i 2 velike kašike šećera i 2 vanilin.</p>\n<p>Odozgo staviti drugu polovinu testa.</p>\n<p>Peći: 180°C.</p>",
     "searchText": "kolač sa trešnjama  kolač 1 kg trešanja 250 g putera 250 g šećera 6 žumanaca 250 g brašna oštro malo prezle trešnje cimet 2 velike kašike šećera 2 vanilin",
-    "image": ""
+    "image": "/recipes/078.webp"
   },
   {
     "id": "079",
@@ -2155,7 +2155,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>250 g brašna</div><div>170 g putera</div><div>so</div><div>6 velikih kašika ledene vode</div></div>\n<p>Viljuškom pomešati 250 g brašna, 170 g putera i malo soli, tako da se dobiju krupne mrvice.</p>\n<p>Uz stalno mešanje, dodati hladnu vodu 6 velikih kašika i zamesiti testo.</p>\n<p>Rastanjiti ga u 2 okrugle ploče, 1 veću, 1 manju.</p>\n<p>Formu obložiti većom, i izbockati viljuškom na više mesta.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>1 kg jabuka</div><div>sok i kora 1 limuna</div><div>2 velike kašike šećera</div><div>1   vanilin</div><div>1 mala kašika cimeta</div><div>1 mala kašika muškatnog oraščića</div><div>50 g suvog grožđa</div><div>2 male kašike gustina</div></div>\n<p>Jabuke iseći na tanke kriške, pa ih pomešati sa sokom i korom limuna, 2 velike kašike šećera, cimetom, muškatnim oraščićem, 50 g suvog grožđa i 2 male kašike gustina.</p>\n<h2>Sastavljanje</h2>\n<p>Smesom prekriti testo, odozgo spustiti drugu manju koru.</p>\n<p>Čvrsto pritisnuti ivice (istipkati i zalepiti).</p>\n<p>Peći: 40' na 200°C.</p>\n<p>Vrelu premazati zagrejanim džemom od kajsija i premazati glazurom od prah šećera.</p>",
     "searchText": "pita od jabuka  pita / kolač 250 g brašna 170 g putera so 6 velikih kašika ledene vode 1 kg jabuka sok i kora 1 limuna 2 velike kašike šećera 1 vanilin 1 mala kašika cimeta 1 mala kašika muškatnog oraščića 50 g suvog grožđa 2 male kašike gustina đem od kajsija šećer u prahu",
-    "image": ""
+    "image": "/recipes/079.webp"
   },
   {
     "id": "080",
@@ -2189,7 +2189,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>325 g brašna (oštro 1/2, meko 1/2)</div><div>20 g kvasca</div><div>1/8 l (125 g) mlakog mleka</div><div>50 g šećera</div><div>so</div><div>75 g rastopljenog putera</div><div>1   jaje</div></div>\n<p>Pomešati sledeće sastojke: kvasac, malo šećera, malo brašna, malo mleka. Ostaviti smesu da naraste.</p>\n<p>Pomešati sledeće sastojke: 325 g brašna i so i 50 g šećera i 1 jaje i 75 g rastopljenog putera i kvasac i mleko. ↓ Napraviti glatko testo.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>175 g seckanog lešnika</div><div>50 g suvog grožđa → pokvašenog u 2 velike kašike ruma</div><div>1   jaje</div><div>75 g šećera</div><div>1   vanilin</div><div>narendana kora limuna</div><div>2 velike kašike đema od kajsije</div></div>\n<h2>Sastavljanje</h2>\n<p>Testo rasvući u dugački pravougaonik. Premazati ga filom.</p>\n<p>Uroladi i seći na parčiće od 3 cm.</p>\n<p>Kalup: puter → ređati ružice.</p>\n<p>Ostaviti poklopljeno 30' da naraste.</p>\n<p>Peći: 30' na 200°C.</p>\n<p>Malo prohladiti i premazati zagrejanim džemom od kajsije ili glazurom od prah šećera.</p>\n<h2>Glazura od prah šećera</h2>\n<p>Kuvati sledeće sastojke: 250 g prah šećera, 1,5 dl vode.</p>\n<p>Sirup se spusti u hladnu vodu i ako se kap stegne u meku lopticu — gustina je dobra.</p>\n<p>Mešati dok ne pobeli (može se dodati limunov sok).</p>\n<h2>Napomena</h2>\n<p>inox tepsija ⌀25 (visina 3cm).</p>\n<p>Dugačka rolna: 60-70 cm, 20-21 komad.</p>",
     "searchText": "kolač \"ružica\" veka peciva / kvasno testo 325 g brašna (oštro 1/2, meko 1/2) 20 g kvasca 1/8 l (125 g) mlakog mleka 50 g šećera so 75 g rastopljenog putera 1 jaje 175 g seckanog lešnika 50 g suvog grožđa 2 velike kašike ruma 1 jaje 75 g šećera 1 vanilin narendana kora limuna 2 velike kašike đema od kajsije 250 g prah šećera 1,5 dl vode",
-    "image": ""
+    "image": "/recipes/080.webp"
   },
   {
     "id": "081",
@@ -2219,7 +2219,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>Pomešati sledeće sastojke: 1/2 kvasca i 2 male kašike šećera i 1 šolja mleka i malo brašna. ↓ da naraste.</p>\n<p>Pomešati sledeće sastojke: 600 g brašna (1/2 oštro, 1/2 meko) i so i 1 kisela pavlaka i 1 jaje i 1 žumance i kvasac.</p>\n<p>Zamesiti uz dodatak toplog mleka. Ostaviti testo da naraste.</p>\n<h2>Sastavljanje</h2>\n<p>Razviti koru debljine prsta i posuti sa suvim grožđem (200 g) i 4 velike kašike šećera.</p>\n<p>Uviti kao rolat, pa od pola jednu stranu uvijati u jednom smeru, a drugu stranu u drugom (kao cveti — svrdla).</p>\n<p>Uviti u pletenicu i saviti u krug.</p>\n<p>Staviti u podmazan kalup i ostaviti da naraste.</p>\n<p>Premazati belancetom i peći 40' na 180°C.</p>",
     "searchText": "kiselo testo sa suvim grožđem veka peciva / kvasno testo 1/2 kvasca 2 male kašike šećera 1 šolja mleka malo brašna 600 g brašna (oštro 1/2, meko 1/2) so 1 kisela pavlaka 1 jaje 1 žumance 200 g suvog grožđa 4 velike kašike šećera 1 belance",
-    "image": ""
+    "image": "/recipes/081.webp"
   },
   {
     "id": "082",
@@ -2248,7 +2248,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>225 g putera</div><div>250 g šećera</div><div>1   vanilin</div><div>5-6   jaja</div><div>450 g brašna meko</div><div>1   prašak za pecivo</div><div>50 g badema</div><div>1/3 l mleka (333 g)</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 225 g putera, 250 g šećera, 1 vanilin.</p>\n<p>Dodavati 1 po 1 jaje.</p>\n<p>Pomešati sledeće sastojke: brašno i prašak za pecivo i 50 g badema.</p>\n<p>Dodavati kašiku po kašiku u umućen puter. Polako dolivati mleko.</p>\n<p>Kalup oblika venca → puter.</p>\n<p>2/3 testa sipati u kalup.</p>\n<p>Ostatak pomešati sa: 3 male kašike kakaa i 1 mala kašika cimeta i 3 velike kašike mleka.</p>\n<p>Sipati na svetlo testo i malo viljuškom razmutiti.</p>\n<p>Peći: 50'-60' na 170°C.</p>\n<p>Pečeno je kada na čačkalici prestane da se lepi.</p>",
     "searchText": "mramorni kolač veka kolač 225 g putera 250 g šećera 1 vanilin 5-6 jaja 450 g brašna meko 1 prašak za pecivo 50 g badema 1/3 l mleka (333 g) 3 male kašike kakaa 1 mala kašika cimeta 3-4 velike kašike mleka",
-    "image": ""
+    "image": "/recipes/082.webp"
   },
   {
     "id": "083",
@@ -2278,7 +2278,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>150 g putera</div><div>150 g šećera</div><div>5   žumanaca</div><div>limun — strugana kora</div><div>2   vanilin šećera</div><div>1/8 l (125 g) mleka</div><div>300 g brašna meko (malo manje)</div><div>50 g suvog grožđa / orancini</div><div>malo ruma</div><div>1/2   kesice praška za pecivo (1 mala kašika)</div><div>50 g kakaa</div><div>5   belanaca — šne</div></div>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: puter, šećer, 2 vanilin.</p>\n<p>Pomešati brašno i prašak za pecivo (polako, kašiku po kašiku), pa na kraju polako dolivati mleko.</p>\n<p>U 1/2 testa dodati kakao.</p>\n<p>Kalup: puter. Prsti: vanilin šećer (2 kom).</p>\n<p>Može se dodati orancini.</p>\n<p>Peći: 45' na 170°C.</p>",
     "searchText": "kuglof dadi kolač 150 g putera 150 g šećera 5 žumanaca limun — strugana kora 2 vanilin šećera 1/8 l (125 g) mleka 300 g brašna meko (malo manje) 50 g suvog grožđa (orancini) malo ruma 1/2 kesice praška za pecivo (1 mala kašika) 50 g kakaa 5 belanaca",
-    "image": ""
+    "image": "/recipes/083.webp"
   },
   {
     "id": "084",
@@ -2324,7 +2324,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>340 g brašna (typ 450, 500 ili 550)</div><div>160 ml mleka t sobne</div><div>2   žumanceta</div><div>30 g rastopljenog i ohlađenog putera</div><div>60 g šećera u prahu</div><div>20 g svežeg kvasca</div><div>1   vanilin</div><div>prstohvat soli</div></div>\n<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 20 g šećera, 60 ml mleka i 60 g brašna od ukupne količine. Ostaviti smesu da naraste.</p>\n<p>I sipati u: 340 g brašna i malo soli i 2 žumanceta i 100 ml mleka i 40 g šećera i 30 g putera rastopljenog.</p>\n<p>Dobro umesiti. Pokriti da se udvostruči.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Fil mak (bogati, sa orasima/bademom/orancinima)</h2>\n<div class=\"notebook-lines\"><div>260 g samlevenog maka</div><div>15 g putera rastopljenog</div><div>2 velike kašike meda</div><div>2   belanceta — šne</div><div>30 g oraha (krupno isečenih)</div><div>30 g suvog grožđa</div><div>20 ml Amaretto ili Cointreau</div><div>30 g badema (krupno isečenih)</div><div>30 g orancina</div><div>Amaretto ili Cointreau</div><div>2 velike kašike šećera u prahu</div><div>izrendana kora limuna 1/2</div><div>ekstrakt badema</div></div>\n<h2>Fil orasi (jednostavniji, samo orasi)</h2>\n<div class=\"notebook-lines\"><div>400 g oraha</div><div>100 g šećera</div><div>100 g mleka kipućeg</div><div>50 g suvog grožđa</div><div>1   vanilin</div><div>kora limuna ili pomorandže</div></div>\n<p>&gt; Recept na ovoj strani nudi dva alternativna fila: bogati fil od maka (sa orasima i bademom kao dodacima) i jednostavniji fil od oraha.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<h2>Varijanta &quot;Orasi — Branka&quot; <em>(rukom dopisano na vrhu strane)</em></h2>\n<div class=\"notebook-lines\"><div>300 g (350) oraha</div><div>100 g šećera</div><div>100-160 ml mleka</div></div>\n<h2>Rukom pisana verzija u svesci (potvrda mera, ispod recepta 086)</h2>\n<div class=\"notebook-lines\"><div>340 g oštrog brašna</div><div>20 g kvasca</div><div>160 ml toplog mleka</div><div>4   žumanceta</div><div>30 g rastopljenog putera</div><div>60 g prah šećera</div><div>1   vanilin šećer</div><div>malo soli</div></div>\n<p>fil:</p>\n<div class=\"notebook-lines\"><div>500 g maka samlevenog i vruće mleko (oko 400 ml)</div><div>5 min na ringli</div><div>30 g otopljenog putera</div><div>4 velike kašike meda</div><div>4 velike kašike šećera u prahu</div><div>4   belance — šne</div><div>60 g oraha</div><div>60 g badema</div><div>60 g suvog grožđa</div><div>60   orancina</div><div>ekstrakt badema</div><div>20 ml amaretta</div></div>\n<p>Kora: 28 x 24, debljine 5mm. Rerna: 180°C — 30'. Pleh — II stepenik.</p>",
     "searchText": "strucla makowa — makowiec štampani recept, ulepljen u svesku (poljski kolač sa makom/orasima) peciva / kvasno testo 340 g brašna (typ 450, 500 ili 550) 160 ml mleka (sobne temperature) 2 žumanceta 30 g rastopljenog i ohlađenog putera 60 g šećera u prahu 20 g svežeg kvasca 1 vanilin prstohvat soli 260 g samlevenog maka 15 g putera rastopljenog 2 velike kašike meda 2 belanceta 30 g oraha (krupno isečenih) 30 g suvog grožđa 20 ml amaretto ili cointreau 30 g badema (krupno isečenih) 30 g orancina amaretto ili cointreau 2 velike kašike šećera u prahu izrendana kora limuna 1/2 ekstrakt badema 400 g oraha 100 g šećera 100 g mleka kipućeg 50 g suvog grožđa 1 vanilin kora limuna ili pomorandže 300 g (350) oraha 100 g šećera 100-160 ml mleka",
-    "image": ""
+    "image": "/recipes/084.webp"
   },
   {
     "id": "085",
@@ -2362,7 +2362,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>500 g brašna (typ 450, 500 ili 550)</div><div>250 ml mleka t sobne</div><div>3   žumanceta</div><div>125 g putera</div><div>50 g šećera u prahu</div><div>10 g svežeg kvasca</div><div>1   vanilin</div><div>prstohvat soli</div></div>\n<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 10 g kvasca, 10 g šećera, 50 ml mleka, 50 g brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti: 125 g putera i 40 g šećera i 3 žumanceta.</p>\n<p>Dodati: kvasac i brašno i mleko i prstohvat soli.</p>\n<p>Zamesiti testo, pokriti i ostaviti 60'.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Mak — 500 g</h2>\n<div class=\"notebook-lines\"><div>60 g suvog grožđa</div><div>40 ml Amaretto ili Cointreau</div><div>500 g samlevenog maka</div><div>30 g putera (rastopljenog i ohlađenog)</div><div>4 velike kašike meda</div><div>4 velike kašike šećera u prahu</div><div>3   belanceta — šne</div><div>60 g oraha (krupno isečenih)</div><div>60 g badema (krupno isečenih)</div><div>60 g orancina (ili kumkvat)</div><div>izrendana kora limuna 1/2</div><div>ekstrakt badema</div></div>\n<p>Suvo grožđe potopiti u Amaretto/Cointreau.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Fil mak. Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<h2>Majina rukom pisana beleška (dopuna, na komadu papira)</h2>\n<div class=\"notebook-lines\"><div>500 g maka</div><div>200 g mleka kipućeg    } kada se ohladi</div><div>30 g rastopljenog putera</div><div>4 velike kašike meda</div><div>4 velike kašike šećera U prahu</div><div>2 (3) belanceta — šne</div><div>suvo grožđe i 20 ml amaretta</div><div>badem (krupno)</div><div>orah (krupno)</div><div>orancini</div><div>1 mala kašika ekstrakta badema</div></div>\n<p><strong>testo:</strong></p>\n<div class=\"notebook-lines\"><div>500 g brašna</div><div>20 g  kvasca</div><div>250 ml mleka</div><div>100 g putera</div><div>50 g šećera</div><div>3    žumanceta</div><div>1    vanilin, kora limuna, prstohvat soli</div></div>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 1 mala kašika šećera, malo mleka, 1 mala kašika brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti 100 g putera, 50 g šećera, vanilin šećer i 3 žumanceta, pa dodati kvasac, brašno i mleko. Ostaviti da naraste.</p>\n<p><strong>Napomene o umotavanju:</strong> papir dužine oko 40 cm. Poklopiti (uviti) štrudlu, ali odizgo oko štrudle. Papir preklopiti 1 cm. 15 min [odmor pre pečenja]. Peći: 180°C — 30'.</p>\n<p><strong>lukri (glazura):</strong></p>\n<div class=\"notebook-lines\"><div>1 velika kašika hladne vode</div><div>1 velika kašika limuna</div><div>prah šećer</div></div>\n<p>Dimenzije kore: 28 x 24.</p>",
     "searchText": "makowiec by me štampani recept i rukom dopisan naslov 'strudel' na susednoj strani sveske peciva / kvasno testo 500 g brašna (typ 450, 500 ili 550) 250 ml mleka (sobne temperature) 3 žumanceta 125 g putera 50 g šećera u prahu 10 g svežeg kvasca 1 vanilin prstohvat soli 60 g suvog grožđa 40 ml amaretto ili cointreau 500 g samlevenog maka 30 g putera (rastopljenog i ohlađenog) 4 velike kašike meda 4 velike kašike šećera u prahu 3 belanceta 60 g oraha (krupno isečenih) 60 g badema (krupno isečenih) 60 g orancina (ili kumkvat) izrendana kora limuna 1/2 ekstrakt badema",
-    "image": ""
+    "image": "/recipes/085.webp"
   },
   {
     "id": "086",
@@ -2394,7 +2394,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>400 g brašna oštro</div><div>10 g kvasca</div><div>125 g putera</div><div>100 g mleka</div><div>50 g šećera</div><div>3   žumanceta</div><div>1   vanilin</div><div>kora limuna</div><div>50 ml jogurta (pavlake)</div></div>\n<p>Pomešati sledeće sastojke: kvasac, šećer, malo mleka. Ostaviti smesu da naraste.</p>\n<p>125 g putera, 50 g šećera i 3 žumanceta umutiti. Dodati nadošli kvasac, koru limuna, 400 g brašna, preostalo mleko i 50 ml jogurta ili pavlake.</p>\n<p>Zamesiti testo, prekriti krpom i ostaviti 40–60 minuta, odnosno dok se ne udvostruči.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>500 g oraha</div><div>200 g šećera</div><div>120 g mleka</div><div>100 g suvog grožđa</div><div>1   vanilin</div><div>kora pomorandže</div></div>\n<p>Orahe, šećer, vanilin šećer, koru pomorandže i suvo grožđe preliti vrelim mlekom i izmešati.</p>\n<p>Testo podeliti na četiri dela. Svaki deo razviti u pravougaonik debljine približno 1 cm.</p>\n<p>Premazati rastopljenim puterom, rasporediti nadev i uviti štrudlu.</p>\n<p>Pleh namazati puterom i posuti brašnom. Poređati štrudle i ostaviti ih da narastu. Premazati žumancetom.</p>\n<p>Peći približno 60 minuta na 200°C.</p>",
     "searchText": "štrudla sa orasima i makom  peciva / kvasno testo 400 g brašna oštro 10 g kvasca 125 g putera 100 g mleka 50 g šećera 3 žumanceta 1 vanilin kora limuna 50 ml jogurta (ili pavlake) 500 g oraha 200 g šećera 120 g mleka 100 g suvog grožđa 1 vanilin kora pomorandže",
-    "image": ""
+    "image": "/recipes/086.webp"
   },
   {
     "id": "087",
@@ -2432,7 +2432,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<h3>Puna mera</h3>\n<div class=\"notebook-lines\"><div>600 g brašna — 400 g mekog i 200 g oštrog</div><div>3   žumanceta</div><div>100 g šećera</div><div>150 g putera</div><div>1   kvasac</div><div>200 g mleka</div><div>malo soli</div></div>\n<h3>Manja mera testa</h3>\n<div class=\"notebook-lines\"><div>300 g brašna — 200 g mekog i 100 g oštrog</div><div>2   žumanceta</div><div>50 g šećera</div><div>75 g putera</div><div>1/2   kvasca</div><div>100 g mleka</div><div>malo soli</div></div>\n<h2>Filovi</h2>\n<div class=\"notebook-lines\"><div>300 g oraha</div><div>300 g maka</div><div>3   belanca — šne</div><div>300 g šećera — po 150 g u svaki fil</div><div>malo ruma</div><div>malo putera za fil od maka</div></div>\n<p>Orahe i mak odvojeno popariti kipućim mlekom. U svaku smesu dodati po 150 g šećera, malo ruma i odgovarajući deo šnea od belanaca. U fil od maka dodati i malo putera.</p>\n<h2>Priprema</h2>\n<p>Podeliti na 4 dela. Svaki razvaljati što tanje, filovati, zarolati.</p>\n<p>Pleh staviti u najlonsku vrećicu i ostaviti preko noći u frižideru.</p>\n<p>Pleh obložiti pouljenim pek-papirom.</p>\n<p>Ujutru peći 30 minuta na 150°C, zatim još 45 minuta na 180°C.</p>",
     "searchText": "hladna — mini orahnjača branka peciva / kvasno testo 600 g brašna (400 g mekog i 200 g oštrog) 3 žumanceta 100 g šećera 150 g putera 1 kvasac 200 g mleka malo soli 300 g oraha 300 g maka 3 belanca — šne 300 g šećera (po 150 g u svaki fil) kipuće mleko malo putera malo ruma 300 g brašna (200 g mekog i 100 g oštrog) 2 žumanceta 50 g šećera 75 g putera 1/2 kvasca 100 g mleka malo soli",
-    "image": ""
+    "image": "/recipes/087.webp"
   },
   {
     "id": "088",
@@ -2460,7 +2460,7 @@
     ],
     "bodyHtml": "<h2>Fil</h2>\n<p>Popariti 250 g oraha, 5 velikih kašika šećera i 1 vanilin šećer sa 2 dl vrelog mleka.</p>\n<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>400 g mekog brašna</div><div>250 g putera</div><div>1   jaje</div><div>1   žumance</div><div>3 velike kašike šećera</div><div>1   kvasac</div></div>\n<p>Pomešati kvasac, šećer, so i malo mleka od navedene količine. Ostaviti smesu da naraste.</p>\n<p>Umutiti sledeće sastojke: 250 g putera, 3 velike kašike šećera.</p>\n<p>Zamesiti testo i ostaviti ga 30'.</p>\n<h2>Oblikovanje i pečenje</h2>\n<p>Razviti koru debljine 3 mm, vrlo tanko.</p>\n<p>Iseći trake širine 6 cm x 15 cm (dopisano: 5 cm širine), dužine 40 cm.</p>\n<p><em>(dijagram: pravougaonik podeljen dijagonalno, fil u dva trougla, strelica &quot;ovaj kraj izdužiti&quot;)</em></p>\n<p>Ispeći i uvaljati u prah šećer.</p>",
     "searchText": "kiflice sa orasima đadi peciva / sitni kolači 250 g oraha 5 velikih kašika šećera 1 vanilin 2 dl vrelog mleka 400 g mekog brašna 250 g putera 1 jaje 1 žumance 3 velike kašike šećera 1 kvasac",
-    "image": ""
+    "image": "/recipes/088.webp"
   },
   {
     "id": "089",
@@ -2488,7 +2488,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g brašna meko</div><div>100 g šećera</div><div>200 g mleka (ili 100 g piva)</div><div>70 g putera</div><div>2   jaja</div><div>1/2   kesice praška za pecivo</div><div>2 velike kašike kakaa</div><div>125 g meda (2 velike kašike)</div><div>2   vanilin</div></div>\n<p><strong>začini:</strong> cimet, karanfilčić, đumbir, suvo grožđe, badem, kora limuna, muškatni oraščić, kardamon.</p>\n<h2>Priprema</h2>\n<p>Umutiti sledeće sastojke: 70 g putera, 100 g šećera, 2 vanilin, 2 žumanceta.</p>\n<p>Dodati 250 g brašna, prašak za pecivo, 200 g mleka, 2 velike kašike meda, 2 velike kašike kakaa i začine.</p>\n<p>Sve mešati mikserom 3'.</p>\n<p>Umutiti šne od 2 belanca i polako pomešati.</p>\n<p>Kalup: puter — brašno.</p>\n<p>Peći: 50' na 160°C.</p>",
     "searchText": "piernik  kolač 250 g brašna meko 100 g šećera 200 g mleka (ili 100 g piva) 70 g putera 2 jaja 1/2 kesice praška za pecivo 2 velike kašike kakaa 125 g meda (2 velike kašike) 2 vanilin začini: cimet, karanfilčić, đumbir, suvo grožđe, badem, kora limuna, muškatni oraščić, kardamon",
-    "image": ""
+    "image": "/recipes/089.webp"
   },
   {
     "id": "090",
@@ -2514,7 +2514,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>800 g brašna oštro</div><div>200 g putera</div><div>200 g šećera</div><div>1   šolja mleka</div><div>5   jaja</div><div>50 g kvasca</div><div>200 g suvog grožđa</div><div>so</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: kvasac, malo mleka, so, 1 mala kašika šećera. Ostaviti smesu da naraste.</p>\n<p>Rastopiti puter i vrijuće mleko → ohladiti; šećer, so → pa dodati: brašno i kvasac.</p>\n<p>Zamesiti testo i ostaviti da naraste, i onda dodati: 5 žumanaca i šne i suvo grožđe.</p>\n<p>Kalup: brašno.</p>\n<p>Sipati do 1/2 kalupa i ostaviti da naraste do kraja.</p>\n<p>Peći: 180°C.</p>",
     "searchText": "kulič  peciva / kvasno testo (uskršnji kolač) 800 g brašna oštro 200 g putera 200 g šećera 1 šolja mleka 5 jaja 50 g kvasca 200 g suvog grožđa so",
-    "image": ""
+    "image": "/recipes/090.webp"
   },
   {
     "id": "091",
@@ -2541,7 +2541,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 l   slatke pavlake</div><div>1,2 kg tvoroga</div><div>400 g putera</div><div>3   čaše šećera</div><div>10   žumanaca</div><div>1   vanilin</div><div>badem seckan</div><div>orancini</div><div>suvo grožđe</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: tvorog i puter — izmešati.</p>\n<p>Dodati: žumanca i šećer, vanilin i pavlaka i badem, orancini, suvo grožđe.</p>",
     "searchText": "pasha veka poslastica (uskršnja, sa tvorogom) 1 l slatke pavlake 1,2 kg tvoroga 400 g putera 3 čaše šećera 10 žumanaca 1 vanilin badem seckan orancini suvo grožđe",
-    "image": ""
+    "image": "/recipes/091.webp"
   },
   {
     "id": "092",
@@ -2566,7 +2566,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>8   jaja</div><div>6 velikih kašika prah šećera</div><div>60 g narendane čokolade</div><div>3 velike kašike brašna oštro</div></div>\n<p>Umutiti 8 žumanaca sa 6 velikih kašika prah šećera.</p>\n<p>Ispeći 2 kore. Pleh — puter — brašno.</p>\n<h2>Fil</h2>\n<p>Umutiti 400 g slatke pavlake sa 3 vanilin šećera.</p>\n<p>40 g kakaa</p>\n<h2>Sastavljanje</h2>\n<p>Jednu koru namazati kremom, a drugu glazurom od čokolade.</p>\n<p>Kada se glazura osuši, vrelim nožem iseći koru na 20 kocki i poređati ih preko namazane kore.</p>\n<p>Kolač onda seći zagrejanim nožem.</p>",
     "searchText": "rigo janči  kolač 8 jaja 6 velikih kašika prah šećera 60 g narendane čokolade 3 velike kašike brašna oštro 400 g slatke pavlake 3 vanilin 40 g kakaa",
-    "image": ""
+    "image": "/recipes/092.webp"
   },
   {
     "id": "093",
@@ -2594,7 +2594,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>1/2 kvasca (1 kesica)</div><div>1 šolja mleka</div><div>250 g putera</div><div>2 (3) žumanca</div><div>1 celo jaje</div><div>500 g brašna oštrog</div><div>3 velike kašike šećera</div></div>\n<p>Pomešati sledeće sastojke: puter i brašno → protrljati, usitniti.</p>\n<p>Dodati: 1 šolja mleka i kvasac i 3 velike kašike šećera i 2 žumanca.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>250 g oraha</div><div>250 g (prah) šećera</div><div>đem od kajsija</div></div>\n<h2>Priprema</h2>\n<p>Razviti 4 kore (u obliku pleha). Svaku sledeću razviti na papiru.</p>\n<p>Namazati svaku koru džemom od kajsije, posuti orasima i šećerom.</p>\n<p>Zaklopiti korom, izbockati viljuškom.</p>\n<p>Peći: 40' na 180°C.</p>\n<p>Preliti glazurom od čokolade ili samo posuti prah šećerom.</p>",
     "searchText": "žerbo kocke đadi sitni kolači 1/2 kvasca (1 kesica) 1 šolja mleka 250 g putera 2 (3) žumanca 1 celo jaje 500 g brašna oštrog 3 velike kašike šećera 250 g oraha 250 g (prah) šećera đem od kajsija",
-    "image": ""
+    "image": "/recipes/093.webp"
   },
   {
     "id": "094",
@@ -2619,7 +2619,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>800 g brašna oštro (meko)</div><div>1   jaje</div><div>1   žumance</div><div>1   kvasac</div><div>250 g margarina</div><div>1/2 l mleka</div><div>1 mala kašika soli</div></div>\n<p>Pomešati sledeće sastojke: kvasac, 1 mala kašika šećera, malo soli, malo brašna. Ostaviti smesu da naraste.</p>\n<p>U brašno dodati: 1 mala kašika soli i 1 jaje i 1/2 l mleka i kvasac.</p>\n<h2>Priprema</h2>\n<p>Zamesiti glatko testo i podeliti ga u 8 jednakih loptica — ostaviti ih da narastu (prekriti salvetom).</p>\n<p>Svaku rastanjiti u jufku veličine malog tanjira i premazati margarinom.</p>\n<p>Ređati kao tortu. Poslednju jufku ne mazati, već &quot;tortu&quot; razviti u jednu veliku jufku, pa tek onda premazati preostalim margarinom.</p>\n<p>Rezati trake širine 3 cm, umotati ih i ređati ih u podmazanu tepsiju. Početi od sredine.</p>\n<p>Prekriti i ostaviti 40' da naraste.</p>\n<p>Premazati žumancetom. Peći: 50' na 180°C.</p>",
     "searchText": "pogača \"cvetić\" mama peciva / kvasno testo 800 g brašna oštro (meko) 1 jaje 1 žumance 1 kvasac 250 g margarina 1/2 l mleka 1 mala kašika soli",
-    "image": ""
+    "image": "/recipes/094.webp"
   },
   {
     "id": "095",
@@ -2647,7 +2647,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>400 g brašna: 200 g oštrog i 200 g mekog</div><div>7 g suvog kvasca</div><div>300 ml vode</div><div>1 mala kašika šećera</div><div>1 mala kašika soli</div><div>2 velike kašike maslinovog ulja</div></div>\n<h2>Priprema</h2>\n<p>Premazati pleh (35 x 24) tanko maslinovim uljem.</p>\n<p>Razmutiti 7 g kvasca i 1 malu kašiku šećera u 300 ml vode zagrejane na 40°C, pa sipati u sledeću smesu:</p>\n<p>Mikserom umutiti 400 g brašna, 1 malu kašiku soli i 2 velike kašike maslinovog ulja.</p>\n<p>Pokriti folijom i ostaviti 40'. Premesiti i pokriti folijom i ostaviti 40'.</p>\n<p>Izručiti testo, poprskati maslinovim uljem, prekriti folijom i ostaviti 40'.</p>\n<p>Pokvasiti prste i utisnuti u testo i posuti krupnu morsku so.</p>\n<p>Rerna: 200°C — 20'-25'. Prvi stepenik.</p>\n<h2>Manja mera <em>(dopisano rukom)</em></h2>\n<div class=\"notebook-lines\"><div>300 g: 150 oštro i 150 meko</div><div>225 ml vode</div><div>5 g  kvasca</div></div>",
     "searchText": "focaccia jamie oliver peciva / hleb 400 g brašna (200 g oštrog i 200 g mekog) 7 g suvog kvasca 300 ml vode 1 mala kašika šećera 1 mala kašika soli 2 velike kašike maslinovog ulja krupna morska so 300 g brašna (150 oštro i 150 meko) 225 ml vode 5 g kvasca",
-    "image": ""
+    "image": "/recipes/095.webp"
   },
   {
     "id": "096",
@@ -2673,7 +2673,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1   kvasac</div><div>1   šolja mleka</div><div>2 male kašike šećera</div><div>600 g oštrog (mekog) brašna</div><div>1 velika kašika masti</div><div>1 velika kašika kajmaka</div><div>2   jaja</div><div>1 mala kašika soli</div></div>\n<h2>Priprema</h2>\n<p>Zamesiti i ostaviti da naraste.</p>\n<p>Premazati žumancetom i izbosti viljuškom.</p>\n<p>Peći: 35'-40' na 180°C.</p>",
     "searchText": "pogača sa kajmakom baka — mira peciva / kvasno testo 1 kvasac 1 šolja mleka 2 male kašike šećera 600 g oštrog (mekog) brašna 1 velika kašika masti 1 velika kašika kajmaka 2 jaja 1 mala kašika soli",
-    "image": ""
+    "image": "/recipes/096.webp"
   },
   {
     "id": "097",
@@ -2697,7 +2697,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g brašna meko</div><div>1   šolja kiselog mleka (jogurta)</div><div>1/2   šolje ulja</div><div>1   jaje</div><div>1   prašak za pecivo</div><div>1   mala kašika soli</div></div>\n<h2>Priprema</h2>\n<p>Ostaviti da se testo &quot;odmori&quot; 15' u podmazanom plehu.</p>\n<p>Peći: 180°C.</p>",
     "searchText": "brza pogača  peciva 500 g brašna meko 1 šolja kiselog mleka (jogurta) 1/2 šolje ulja 1 jaje 1 prašak za pecivo 1 mala kašika soli",
-    "image": ""
+    "image": "/recipes/097.webp"
   },
   {
     "id": "098",
@@ -2723,7 +2723,7 @@
     ],
     "bodyHtml": "<h2>Priprema kvasca</h2>\n<div class=\"notebook-lines\"><div>1 kvasac</div><div>1/4 l mleka</div><div>1/4 l vode</div><div>2 male kašike šećera</div><div>malo brašna</div></div>\n<p>→ da nadođe.</p>\n<h2>Testo</h2>\n<p>Zamesiti sa: 1 kg brašna O i 2 žumanceta i kvasac-smesa i 1 margarin (prethodno umućen).</p>\n<p>Premotavati kao lisnato testo 3-4 puta i svaki put ostaviti 10'-15'.</p>\n<p>Pre pečenja ostaviti da naraste.</p>\n<p>Peći: 45'-50' na 180°C. Rerna: gornja/donja grejanja.</p>",
     "searchText": "lisnata pogača veka peciva / lisnato testo 1 kvasac 1/4 l mleka 1/4 l vode 2 male kašike šećera malo brašna 1 kg brašna oštro 2 žumanceta 1 margarin (prethodno umućen)",
-    "image": ""
+    "image": "/recipes/098.webp"
   },
   {
     "id": "099",
@@ -2748,7 +2748,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g crnog brašna</div><div>200 g belog brašna</div><div>1/2   kvasca</div><div>1 mala kašika soli</div><div>1 mala kašika šećera</div><div>propržen susam</div><div>sve semenke (po izboru)</div></div>\n<h2>Priprema</h2>\n<p>Pomešati kvasac, 1 malu kašiku šećera i mlaku vodu. Ostaviti smesu da naraste.</p>\n<p>Zamesiti da bude tvrđe nego za štrudlu.</p>\n<p>Kad nadođe, pokvašenom rukom premesiti 2 puta.</p>\n<p>Testo staviti u pleh (prvo suncokret staviti na dno pleha), staviti suncokret na hleb, premazati belance.</p>\n<p>Pokriti folijom i ostaviti 20'.</p>\n<p>Peći: 200°C, kada se uhvati kora, 150°C.</p>\n<p>Kada se ispeče, malo ga poprskati i uviti u krpu — mekši.</p>\n<p>Ostaviti da stoji dok se ne ohladi.</p>",
     "searchText": "crni hleb jovan — baka hleb 500 g crnog brašna 200 g belog brašna 1/2 kvasca 1 mala kašika soli 1 mala kašika šećera propržen susam sve semenke (po izboru)",
-    "image": ""
+    "image": "/recipes/099.webp"
   },
   {
     "id": "100",
@@ -2774,7 +2774,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2 šolje kukuruznog brašna</div><div>1 šolja pšeničnog brašna</div><div>2   jaja</div><div>1 šolja mleka</div><div>150 g sira</div><div>1 mala kašika soli</div><div>1 prašak za pecivo</div><div>malo kisele vode</div></div>",
     "searchText": "proja  hleb / proja 2 šolje kukuruznog brašna 1 šolja pšeničnog brašna 2 jaja 1 šolja mleka 150 g sira 1 mala kašika soli 1 prašak za pecivo malo kisele vode",
-    "image": ""
+    "image": "/recipes/100.webp"
   },
   {
     "id": "101",
@@ -2798,7 +2798,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg kukuruznog brašna</div><div>5   jaja</div><div>300 g belog sira</div><div>150 g kajmaka</div><div>300 g čvaraka</div><div>malo soli</div></div>\n<h2>Priprema</h2>\n<p>Izgnječiti sve viljuškom i čvarci i jaja i brašno.</p>\n<p>Pleh podmastiti.</p>",
     "searchText": "užička proja  hleb / proja 1 kg kukuruznog brašna 5 jaja 300 g belog sira 150 g kajmaka 300 g čvaraka malo soli",
-    "image": ""
+    "image": "/recipes/101.webp"
   },
   {
     "id": "102",
@@ -2821,7 +2821,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g brašna o</div><div>250 g vode (ili mleka)</div><div>1 mala kašika soli</div><div>1/2   kvasca (1 suvi)</div><div>1 velika kašika ulja</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "hleb (hanna)  hleb 500 g brašna o 250 g vode (ili mleka) 1 mala kašika soli 1/2 kvasca (1 suvi) 1 velika kašika ulja",
-    "image": ""
+    "image": "/recipes/102.webp"
   },
   {
     "id": "103",
@@ -2846,7 +2846,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g ražanog brašna</div><div>500 g pšeničnog brašna</div><div>20 g kvasca</div><div>5 dl mleka</div><div>2 velike kašike šećera (žutog)</div><div>1 1/2 male kašike soli</div><div>2 male kašike kima (na kraju)</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "ražani hleb  hleb 500 g ražanog brašna 500 g pšeničnog brašna 20 g kvasca 5 dl mleka 2 velike kašike šećera (žutog) 1 1/2 male kašike soli 2 male kašike kima (na kraju)",
-    "image": ""
+    "image": "/recipes/103.webp"
   },
   {
     "id": "104",
@@ -2870,7 +2870,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4 (3)  jaja</div><div>1 čaša od jogurta kukuruznog brašna</div><div>1 čaša pšeničnog brašna</div><div>1 čaša mleka</div><div>300 g  sira</div><div>(prašak za pecivo)</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "proja jovanova baka  hleb / proja 4 (3) jaja 1 čaša od jogurta kukuruznog brašna 1 čaša pšeničnog brašna 1 čaša mleka 300 g sira prašak za pecivo",
-    "image": ""
+    "image": "/recipes/104.webp"
   },
   {
     "id": "105",
@@ -2892,7 +2892,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1200 g brašna</div><div>600 ml vode</div><div>30 ml ulja</div><div>1 mala kašika soli</div></div>\n<h2>Priprema</h2>\n<p>Zamesiti. Podeliti u 10 loptica. Ostaviti da se odmori 1-2 h.</p>\n<p>Svaku razviti oklagijom i kao pizza majstori rukama rastanjiti.</p>\n<p>Svaku premazati rastopljenim puterom.</p>\n<p>&gt; Količina putera za premazivanje nije navedena u originalu.</p>\n<p>Peći: 30' na 180°C.</p>",
     "searchText": "maslenjak — česnica andreina baka peciva (slavski/božićni hleb) 1200 g brašna 600 ml vode 30 ml ulja 1 mala kašika soli",
-    "image": ""
+    "image": "/recipes/105.webp"
   },
   {
     "id": "106",
@@ -2917,7 +2917,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg brašna</div><div>2   jaja</div><div>1 mala kašika soli</div><div>250 g vode</div><div>250 g margarina</div></div>\n<p>250 g margarina umesiti u 300 g brašna, a ostatak brašna sa 2 jaja, solju i vodom.</p>\n<h2>Priprema</h2>\n<p>Testo razvući na debljinu 4 cm, a umešeni margarin staviti na sredinu i pokriti testom.</p>\n<p>Sve to razvući i presavijati: gornja strana, donja, desna, leva.</p>\n<p>Ostaviti da odstoji 30' na hladnom mestu.</p>\n<p>Razvlačenje i presavijanje ponoviti još 2 puta, sa odmaranjem od 30' između.</p>",
     "searchText": "lisnato testo — lisnato  osnovno testo 1 kg brašna 2 jaja 1 mala kašika soli 250 g vode 250 g margarina 250 g margarina (umesiti u 300 g brašna) a ostatak brašna sa 2 jaja, solju i vodom",
-    "image": ""
+    "image": "/recipes/106.webp"
   },
   {
     "id": "107",
@@ -2947,7 +2947,7 @@
     ],
     "bodyHtml": "<h2>1 Kora</h2>\n<p>Pomešati sledeće sastojke: 1 šaka brašna m i 1-2 kapi sirćeta i soli, malo ulja.</p>\n<h2>Veća mera</h2>\n<div class=\"notebook-lines\"><div>300 g mekog brašna (ili 500)</div><div>2 velike kašike ulja</div><div>1 mala kašika oceta</div><div>150 ml vode</div><div>so</div></div>\n<h2>Najveća mera</h2>\n<div class=\"notebook-lines\"><div>500 g glatkog brašna</div><div>25 ml ulja</div><div>10 g soli</div><div>250-260 ml mlake vode</div></div>\n<h2>Priprema</h2>\n<p>Zamesiti sa mlakom vodom.</p>\n<p>Namazati uljem, ostaviti da stoji 30' pre razvijanja.</p>",
     "searchText": "testo za kore  osnovno testo 1 šaka brašna m 1-2 kapi sirćeta soli, malo ulja 300 g mekog brašna (ili 500) 2 velike kašike ulja 1 mala kašika oceta 150 ml vode so 500 g glatkog brašna 25 ml ulja 10 g soli 250-260 ml mlake vode",
-    "image": ""
+    "image": "/recipes/107.webp"
   },
   {
     "id": "108",
@@ -2973,7 +2973,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>1 kg brašna (oštro)</div><div>1 mala kašika soli</div><div>3 velike kašike ulja</div><div>1   jaje</div><div>500 ml mlake vode</div></div>\n<p>Umesiti glatko testo i ostaviti pokriveno folijom da odmori 10'.</p>\n<p>Ponovo premesiti i ostaviti još 10'.</p>\n<p>Premesiti, podeliti na 3 dela, namazati uljem i ostaviti 10'-20'.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>1,5 kg sira</div><div>1   jaje</div><div>3   žumanceta</div><div>75 g rastopljenog putera</div></div>\n<h2>Priprema (jasnija verzija iz sveske)</h2>\n<p>Zamesiti i ostaviti 10' (pokriveno folijom), pa ponovo premesiti i ostaviti 10', ponovo premesiti i premazati uljem, pokriti i ostaviti 30'-60'.</p>\n<p>Podeliti testo na 3 dela. Razviti koru debljine svilenog papira (na čaršafu). Poprskati rastopljenim puterom.</p>\n<p>Zarolati sa filom i ivicama šakom označiti štrukle, a onda seći ivicom tanjira.</p>\n<p>Kuvati 10 min. Pleh premazati puterom, poređati štrukle i preliti mlekom.</p>\n<p>Peći: 200°C-220°C — 20'-30'.</p>",
     "searchText": "zagorski štrukli grofica  peciva (sa sirom) 1 kg brašna (oštro) 1 mala kašika soli 3 velike kašike ulja 1 jaje 500 ml mlake vode 1,5 kg sira 1 jaje 3 žumanceta 75 g rastopljenog putera",
-    "image": ""
+    "image": "/recipes/108.webp"
   },
   {
     "id": "109",
@@ -3002,7 +3002,7 @@
     ],
     "bodyHtml": "<h2>Mera 1</h2>\n<div class=\"notebook-lines\"><div>200 g brašna (oštro-meko)</div><div>10 g kvasca</div><div>50 g ulja</div><div>so</div></div>\n<p>&gt; Količina tečnosti za ovu meru nije navedena u originalu.</p>\n<h2>Mera 2</h2>\n<div class=\"notebook-lines\"><div>400 g brašna (oštro-meko)</div><div>1   suvi kvasac</div><div>2,5 dl mleka</div><div>0,5 dl ulja</div><div>so</div></div>\n<p>Pre ređanja namazati uljem.</p>\n<h2>Mera 3</h2>\n<div class=\"notebook-lines\"><div>500 g brašna (oštro-meko)</div><div>20 g kvasca</div><div>2 dl ulja</div></div>\n<p>Pomešati sledeće sastojke: kvasac, 1 mala kašika šećera, malo mlake vode, brašno. Ostaviti smesu da naraste.</p>\n<p>Dodati: brašno i ulje i so i mlake vode.</p>\n<p>&gt; Količine vode i soli za ovu meru nisu navedene u originalu.</p>",
     "searchText": "pizza — testo  osnovno testo 200 g brašna (oštro-meko) 10 g kvasca 50 g ulja so 400 g brašna (oštro-meko) 1 suvi kvasac 2,5 dl mleka 0,5 dl ulja so 500 g brašna (oštro-meko) 20 g kvasca 2 dl ulja",
-    "image": ""
+    "image": "/recipes/109.webp"
   },
   {
     "id": "110",
@@ -3032,7 +3032,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>1 kg brašna oštrog</div><div>1/2 l mleka</div><div>1   kvasac</div><div>1   čaša ulja</div><div>1   jaje</div><div>2 male kašike šećera</div><div>1 mala kašika soli</div><div>1   margarin</div></div>\n<p>Pomešati sledeće sastojke: 250 g mleka, kvasac, šećer, brašno. Ostaviti smesu da naraste.</p>\n<p>Dodati: 250 g mleka i 1 šolja ulja i 1 mala kašika soli i 1 jaje.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>300 g sira</div><div>1   jaje</div><div>so</div></div>\n<h2>Oblikovanje</h2>\n<p>Testo podeliti na 8 delova. Svaku lopticu razviti u krug debljine 0,5 cm i razrezati na 8 kriški (kao picu).</p>\n<p>Margarin podeliti na 3 dela, po svaki deo na male kockice. Kockice nasloniti na svaku kiflicu.</p>\n<p>Zamotati od šireg kraja (dole) ka vrhu, sa filom unutra.</p>\n<p>Premazati belancetom/žumancetom.</p>",
     "searchText": "kiflice sa sirom mama peciva 1 kg brašna oštrog 1/2 l mleka 1 kvasac 1 čaša ulja 1 jaje 2 male kašike šećera 1 mala kašika soli 1 margarin 300 g sira 1 jaje so 1 belance 1 žumance",
-    "image": ""
+    "image": "/recipes/110.webp"
   },
   {
     "id": "111",
@@ -3058,7 +3058,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>500 g mekog brašna</div><div>2 velike kašike ulja</div><div>1   jaje</div><div>2 g soli</div><div>topla voda</div></div>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>200 g sira</div><div>3   jaja</div><div>so</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "štrukli cica cica peciva (sa sirom) 500 g mekog brašna 2 velike kašike ulja 1 jaje 2 g soli topla voda 200 g sira 3 jaja so",
-    "image": ""
+    "image": "/recipes/111.webp"
   },
   {
     "id": "112",
@@ -3092,7 +3092,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>350 (400) g mekog brašna</div><div>1   jaje</div><div>1   žumance</div><div>125 ml vode (- 200)</div><div>so</div></div>\n<p>Testo mesiti i pustiti da odstoji.</p>\n<p>Razviti koru debljine 3-4 mm i vaditi krugove ⌀7-8 cm.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>800 g ribanca (kiseli kupus)</div><div>2   crna luka</div><div>2 velike kašike putera</div><div>biber</div></div>\n<p>Kupus dodatno usitniti, zaliti sa malo vode i prokuvati <strong>kratko. ocediti!!</strong></p>\n<p>2 velike kašike luka propržiti na puteru, dodati kupus i dinstati 30'. Poluhladno na sredinu.</p>\n<h2>Alternativne mere testa <em>(dopisano na dnu strane)</em></h2>\n<p><strong>I:</strong> 1 kg brašna i 1 mala kašika soli i 2 čaše vrele vode — prvo pola brašna i so i vodu.</p>\n<p><strong>II:</strong> 300 g brašna i malo soli i 200 ml vrele vode i 40 ml ulja.</p>\n<p><strong>III:</strong> mera nije upisana u originalu.</p>",
     "searchText": "pierogi hana peciva (poljski đevreci sa kupusom) 350 (400) g brašna mekog 1 jaje 1 žumance 125 ml vode (- 200) so 800 g kiselog kupusa (ribanca) 2 crna luka 2 velike kašike putera biber 1 kg brašna 1 mala kašika soli 2 čaše vrele vode 300 g brašna malo soli 200 ml vrele vode 40 ml ulja",
-    "image": ""
+    "image": "/recipes/112.webp"
   },
   {
     "id": "113",
@@ -3121,7 +3121,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg oštrog brašna</div><div>2   kocke kvasca</div><div>2 dl ulja</div><div>3   žumanca</div><div>1 mala kašika šećera</div><div>1 mala kašika brašna</div><div>1 mala kašika soli</div><div>malo toplog mleka</div><div>malo vode</div><div>krupna morska so</div><div>kim</div></div>\n<h2>Priprema</h2>\n<p>Razmutiti kvasac, 1 malu kašiku šećera i 1 malu kašiku brašna u malo toplog mleka, pa ostaviti da naraste.</p>\n<p>Kvasac umešati u: brašno i so i 2 dl ulja i 3 žumanca.</p>\n<p>Dodati malo vode i zamesiti glatko testo.</p>\n<p>Ostaviti pokriveno 1 h. Premesiti i ostaviti još 30'.</p>\n<p>Podeliti na 5-6 manjih delova. Svaki oblikovati u loptu, lopte razviti u krug i svaku podeliti na 6-8 jednakih trouglova.</p>\n<p>Svaki trougao rolati od šireg dela prema manjem (vrhu).</p>\n<p>Premazati žumancetom, posuti kimom i krupnom solju.</p>\n<p>Pleh: puter — brašno.</p>\n<p>Ostaviti još 10'.</p>\n<p>Peći: 20' na 160°C.</p>",
     "searchText": "salcštangle  peciva (slane štangle) 1 kg oštrog brašna 2 kocke kvasca 2 dl ulja 3 žumanca 1 mala kašika šećera 1 mala kašika brašna 1 mala kašika soli malo toplog mleka malo vode krupna morska so kim",
-    "image": ""
+    "image": "/recipes/113.webp"
   },
   {
     "id": "114",
@@ -3145,7 +3145,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1     kvasac</div><div>1/2 l mleka</div><div>2 male kašike šećera</div><div>700 g brašna (oštro-meko)</div><div>1 velika kašika masti</div><div>1 mala kašika soli</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: kvasac, malo mleka, 2 male kašike šećera, brašno. Ostaviti smesu da naraste.</p>\n<p>Ostaviti testo 2 h.</p>\n<p>Razviti 5-6 okruglih kora. Svaku podeliti na 8 trouglova.</p>\n<p>Rolati od šireg dela, duži deo na dno.</p>\n<p>Ostaviti da narastu.</p>\n<p>Premazati žumancetom, posuti kimom i morskom solju.</p>\n<p>Peći: 150°C.</p>",
     "searchText": "pekarske kifle  peciva 1 kvasac 1/2 l mleka 2 male kašike šećera 700 g brašna (oštro-meko) 1 velika kašika masti 1 mala kašika soli",
-    "image": ""
+    "image": "/recipes/114.webp"
   },
   {
     "id": "115",
@@ -3172,7 +3172,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>250 g margarina</div><div>50 g putera</div><div>150 g kajmaka</div><div>150 g sira (oštro)</div><div>300 g brašna (meko)</div><div>1 mala kašika praška za pecivo</div><div>2   jaja</div><div>1   žumance</div><div>kim</div></div>\n<p><strong>Pravilo:</strong> koliko margarina, toliko kajmaka i sira, i toliko brašna ( i 2 jaja).</p>\n<p>&gt; Ovo pravilo iz originala nije usklađeno sa količinama navedenim iznad.</p>\n<h2>Priprema</h2>\n<p>Razviti jufku 1 cm debljine, seći štapiće.</p>\n<p>Premazati žumancetom, posuti kimom.</p>\n<p>Peći: 15'-20' na 180°C-200°C. III stepenik rerne.</p>",
     "searchText": "štapići — kim baka milica peciva (slani štapići) 250 g margarina 50 g putera 150 g kajmaka 150 g sira 300 g brašna (meko, oštro) 1 mala kašika praška za pecivo 2 jaja 1 žumance kim",
-    "image": ""
+    "image": "/recipes/115.webp"
   },
   {
     "id": "116",
@@ -3197,7 +3197,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1     margarin</div><div>250 g izribanog sira</div><div>1     jaje</div><div>1     belance</div><div>1 velika kašika  ulja</div><div>1 mala kašika  soli</div><div>500 g brašna</div></div>\n<h2>Priprema</h2>\n<p>Umesiti i ostaviti preko noći u frižideru.</p>\n<p>Razviti testo → 1 cm debljine.</p>\n<p>Premazati žumancetom, posuti parmezanom.</p>\n<p>Seći kvadrate 2 cm x 2 cm.</p>",
     "searchText": "paštete baka milica peciva (slane kockice sa sirom) 1 margarin 250 g izribanog sira 1 jaje 1 belance 1 velika kašika ulja 1 mala kašika soli 500 g brašna",
-    "image": ""
+    "image": "/recipes/116.webp"
   },
   {
     "id": "117",
@@ -3226,7 +3226,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<p>Umesiti testo od sledećih sastojaka: 175 g brašna, 100 g margarina, 1/4 šolje vode, so.</p>\n<p>Ostaviti 1 h na hladnom mestu.</p>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>2   crna luka</div><div>75 g slanine</div><div>1/8 l mleka</div><div>2   jaja</div><div>so, biber</div><div>50 g ementalera</div><div>(1 veza mladog luka)</div></div>\n<p>Dinstati sledeće sastojke: Crni luk, slanina (kockice)</p>\n<p>Dodati: mleko, jaja, sir (izriban), so, biber.</p>\n<h2>Sastavljanje</h2>\n<p>Razviti testo, vaditi lepinjice ⌀7 cm.</p>\n<p>Izbosti ih viljuškom. Staviti fil.</p>\n<p>Peći: 20' na 200°C.</p>",
     "searchText": "lepinje sa slaninom  peciva 175 g brašna 100 g margarina 1/4 šolje vode so 2 crna luka 75 g slanine 1/8 l mleka 2 jaja so, biber 50 g ementalera 1 veza mladog luka",
-    "image": ""
+    "image": "/recipes/117.webp"
   },
   {
     "id": "118",
@@ -3252,7 +3252,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1       margarin</div><div>1/4 l   mleka</div><div>150 g   ulja</div><div>1       kvasac</div><div>3 male kašike    šećera</div><div>1 kg    brašna meko</div><div>2 male kašike    soli</div><div>1       žumance</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "slani štapići đadi peciva 1 margarin 1/4 l mleka 150 g ulja 1 kvasac 3 male kašike šećera 1 kg brašna meko 2 male kašike soli 1 žumance",
-    "image": ""
+    "image": "/recipes/118.webp"
   },
   {
     "id": "119",
@@ -3274,7 +3274,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1     paket lisnatog testa</div><div>1     jaje</div><div>75 g  naribanog ementalera</div><div>2 male kašike  kima</div></div>\n<h2>Priprema</h2>\n<p>Rastanjiti lisnato testo (2 dela lista — dijagram).</p>\n<p>Premazati belancetom i posuti sirom, utapkati.</p>\n<p>Drugi deo premazati žumancetom i posuti kimom.</p>\n<p>Iseći na 7-8 traka. Pridržati 1 kraj trake, a drugi okretati u spiralu.</p>\n<p>Pritisnuti krajeve.</p>\n<p>Peći: 12' na 225°C.</p>",
     "searchText": "štanglice od sira i kima  peciva (od lisnatog testa) 1 paket lisnatog testa 1 jaje 75 g naribanog ementalera 2 male kašike kima",
-    "image": ""
+    "image": "/recipes/119.webp"
   },
   {
     "id": "120",
@@ -3301,7 +3301,7 @@
     ],
     "bodyHtml": "<h2>Varijanta kvasac</h2>\n<div class=\"notebook-lines\"><div>1/2   kvasca</div><div>1     šolja vode</div><div>1 mala kašika  šećera</div><div>1     jaje</div><div>brašno (oštro 1/2, meko 1/2)</div></div>\n<p>Zamesiti — gušće od palačinki.</p>\n<h2>Varijanta sa praškom za pecivo</h2>\n<div class=\"notebook-lines\"><div>1 šolja vode i 1 mala kašika soli → zagrejati</div></div>\n<p>Umutiti 3 žumanca i u to postepeno dodavati toplu vodu, pa:</p>\n<div class=\"notebook-lines\"><div>500 g mekog brašna</div><div>1/2   kesice praška za pecivo</div></div>\n<p>Mutiti testo dok se ne pojave mehurići.</p>\n<p>šne (belanaca) → polako umešati u testo.</p>\n<p>Vaditi kašičicom uštipke i pržiti na ulju.</p>",
     "searchText": "uštipci  peciva (pržena) 1/2 kvasca 1 šolja vode 1 mala kašika šećera 1 jaje brašno (oštro 1/2, meko 1/2) 1 šolja vode 1 mala kašika soli 3 žumanca 500 g mekog brašna 1/2 kesice praška za pecivo",
-    "image": ""
+    "image": "/recipes/120.webp"
   },
   {
     "id": "121",
@@ -3323,7 +3323,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/4   kvasca</div><div>1/2   šolje vode    } da naraste</div><div>oštro brašno</div><div>1 mala kašika  šećera</div></div>\n<h2>Priprema</h2>\n<p>Pa dodati brašno i vodu (testo ne sme da bude tvrdo).</p>\n<p>Ostaviti da naraste.</p>\n<p>Razviti debljine 1 cm, seći kvadrate 4 x 4 i pržiti na ulju.</p>",
     "searchText": "pačke mama peciva (pržena) 1/4 kvasca 1/2 šolje vode oštro brašno 1 mala kašika šećera",
-    "image": ""
+    "image": "/recipes/121.webp"
   },
   {
     "id": "122",
@@ -3352,7 +3352,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>1/2 š mleka   } pomešati i polako dodavati:</div><div>1/2 š vode</div></div>\n<div class=\"notebook-lines\"><div>1 mala kašika soli</div><div>16 velikih kašika oštrog brašna    } gušće od testa za palačinke</div><div>16 velikih kašika mekog brašna</div></div>\n<h2>Priprema</h2>\n<p>Pleh → puter.</p>\n<p>Ispeći kao kore. Vruće iseći na kocke 3x3 cm i zaliti sa:</p>\n<ul><li>jogurt</li><li>kiselo mleko</li><li>1 velika kašika pavlake</li><li>2-3 čena belog luka</li></ul>\n<p>Sve izmešati i preliti vrućim puterom (1 velika kašika).</p>",
     "searchText": "kljukuša mama slano jelo 2 jaja 1/2 š mleka 1/2 š vode 1 mala kašika soli 16 velikih kašika oštrog brašna 16 velikih kašika mekog brašna jogurt kiselo mleko 1 velika kašika pavlake 2-3 čena kiselog luka 1 velika kašika putera",
-    "image": ""
+    "image": "/recipes/122.webp"
   },
   {
     "id": "123",
@@ -3377,7 +3377,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 l mleka</div><div>1   kvasac</div><div>3 velike kašike šećera</div><div>1 kg brašna (oštro/meko)</div><div>1   žumance</div><div>1   jaje</div><div>kora limuna</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "krofne  peciva (pržene) 1/2 l mleka 1 kvasac 3 velike kašike šećera 1 kg oštrog brašna m 1 žumance 1 jaje kora limuna",
-    "image": ""
+    "image": "/recipes/123.webp"
   },
   {
     "id": "124",
@@ -3403,7 +3403,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>150 g brašna m</div><div>250 g mleka</div><div>3   jaja</div><div>1   vanilin</div><div>so</div><div>60 g putera (margarina)</div><div>1/4   šolje ulja</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: brašno, mleko, jaja, so, 1 vanilin, tako da se dobije testo kao za palačinke.</p>\n<p>Dodati rastopljen puter.</p>\n<p>Pleh sa rupama: staviti po kašičicu ulja u svaku rupu.</p>\n<p>Napuniti rupe do pola.</p>\n<p>Peći: 40' na 200°C.</p>\n<p>Posuti vrele prah šećerom.</p>",
     "searchText": "pečene krofne  peciva (pečene, u modli sa rupama) 150 g brašna m 250 g mleka 3 jaja 1 vanilin so 60 g putera (margarina) 1/4 šolje ulja prah šećer",
-    "image": ""
+    "image": "/recipes/124.webp"
   },
   {
     "id": "125",
@@ -3425,7 +3425,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g švapskog sira</div><div>4   žumanca</div><div>4 velike kašike griza</div><div>2 velike kašike brašna (ili više dok se ne zgusne)</div></div>\n<h2>Priprema</h2>\n<p>Praviti knedle, spustiti ih u ključalu, posoljenu vodu.</p>\n<p>Kada su skuvane, spustiti ih u proprženu prezlu.</p>",
     "searchText": "knedle od sira mama prilog / supa 500 g švapskog sira 4 žumanca 4 velike kašike griza 2 velike kašike brašna (ili više dok se ne zgusne)",
-    "image": ""
+    "image": "/recipes/125.webp"
   },
   {
     "id": "126",
@@ -3447,7 +3447,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 velika kašika margarina</div><div>1   jaje</div><div>5-6 velikih kašika griza</div><div>so</div></div>\n<h2>Priprema</h2>\n<p>Zamesiti i ostaviti 15'.</p>\n<p>&gt; Način kuvanja nije zapisan u originalu.</p>",
     "searchText": "knedle od griza za supu supa (uložak) 1 velika kašika margarina 1 jaje 5-6 velikih kašika griza so",
-    "image": ""
+    "image": "/recipes/126.webp"
   },
   {
     "id": "127",
@@ -3470,7 +3470,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>1 velika kašika ulja</div><div>2 velike kašike griza</div><div>1 mala kašika soli</div><div>oštro brašno</div></div>\n<h2>Priprema</h2>\n<p>Kuvati u malo posoljenoj vodi, vaditi rešetkom.</p>",
     "searchText": "nokllice  supa (uložak) 2 jaja 1 velika kašika ulja 2 velike kašike griza 1 mala kašika soli oštro brašno",
-    "image": ""
+    "image": "/recipes/127.webp"
   },
   {
     "id": "128",
@@ -3489,7 +3489,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>1 jaje → 100 g brašna i so (oštro).</p>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "rezanci za supu  supa (uložak) 1 jaje → 100 g brašna i so (oštro)",
-    "image": ""
+    "image": "/recipes/128.webp"
   },
   {
     "id": "129",
@@ -3511,7 +3511,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2   jaja</div><div>250 g brašna   } tvrdo testo</div><div>2 velike kašike mleka</div><div>so</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "tarana  supa (uložak / testenina) 2 jaja 250 g brašna 2 velike kašike mleka so",
-    "image": ""
+    "image": "/recipes/129.webp"
   },
   {
     "id": "130",
@@ -3534,7 +3534,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2   belanca</div><div>250 g oštrog brašna</div><div>250 g mekog brašna</div><div>1   prašak za pecivo</div><div>7 dl jako hladne vode</div></div>\n<h2>Priprema</h2>\n<p>Sve pomešati žicom i ostaviti 30' u frižideru.</p>",
     "searchText": "tempura  testo za prženje (povrće/riba) 2 belanca 250 g oštrog brašna 250 g mekog brašna 1 prašak za pecivo 7 dl jako hladne vode",
-    "image": ""
+    "image": "/recipes/130.webp"
   },
   {
     "id": "131",
@@ -3559,7 +3559,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1     suvi kvasac (1/4 svežeg)</div><div>1/2 l mleka</div><div>125 g brašna</div><div>375 g heljdinog brašna</div><div>1 mala kašika  šećera, so</div><div>100 g putera, margarina</div><div>2     jaja</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: kvasac i 1/2 šolje mleka i 1 mala kašika šećera i 1 mala kašika brašna → 30' da naraste.</p>\n<p>Pomešati sa brašnom i mleko i jaja i so.</p>\n<p>Ostaviti 15'.</p>\n<p>Peći na puteru male palačinke ⌀10 cm.</p>",
     "searchText": "blini  poslastica / palačinke (heljda) 1 suvi kvasac (1/4 svežeg) 1/2 l mleka 125 g brašna 375 g heljdinog brašna 1 mala kašika šećera, so 100 g putera (margarina) 2 jaja",
-    "image": ""
+    "image": "/recipes/131.webp"
   },
   {
     "id": "132",
@@ -3582,7 +3582,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg sremskog sira</div><div>4   jajeta</div><div>3 velike kašike kisele pavlake</div><div>100 g brašna</div><div>so</div></div>\n<h2>Priprema</h2>\n<p>Pogačice uvaljati u brašno i pržiti.</p>",
     "searchText": "sirnici  peciva (pržena, sa sirom) 1 kg sremskog sira 4 jajeta 3 velike kašike kisele pavlake 100 g brašna so",
-    "image": ""
+    "image": "/recipes/132.webp"
   },
   {
     "id": "133",
@@ -3605,7 +3605,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg krompira</div><div>2   jaja</div><div>25 g brašna</div><div>so, biber</div><div>1   crni luk</div></div>\n<h2>Priprema</h2>\n<p>&gt; Način pripreme krompira i jaja precrtan je u originalu.</p>\n<p>Pržiti na ulju.</p>",
     "searchText": "prženice od krompira  prilog / peciva (pržena) 1 kg krompira 2 jaja 25 g brašna so, biber 1 crni luk",
-    "image": ""
+    "image": "/recipes/133.webp"
   },
   {
     "id": "134",
@@ -3627,7 +3627,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg brašna oštro</div><div>1   jaje</div><div>mlaka voda</div><div>so</div></div>\n<h2>Priprema</h2>\n<p>Zamesiti polučvrsto testo kao za rezance.</p>\n<p>Podeliti u loptice od 50 g i razviti u kore tanke.</p>\n<p>Peći ih na ringli (na blagoj temperaturi).</p>\n<p>Ovako osušene staviti u činiju i preliti ključalom vodom. Pokriti poklopcem 2'.</p>",
     "searchText": "mlinci  prilog / testo (pečeno na ringli) 1 kg brašna oštro 1 jaje mlaka voda so",
-    "image": ""
+    "image": "/recipes/134.webp"
   },
   {
     "id": "135",
@@ -3650,7 +3650,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg krompira belog</div><div>300 g brašna (oštro)</div><div>1   jaje</div><div>so</div><div>muškatni oraščić</div></div>\n<h2>Priprema</h2>\n<p>Krompir skuvati u ljusci i propasirati. Napraviti udubljenje, pa dodati jaje, so i brašno.</p>\n<p>Ne mesiti dugo, samo ujednačiti.</p>\n<p>Seći viljuškom <em>(dijagram: rebra viljuške za oblikovanje žljebova na njoki)</em>.</p>",
     "searchText": "gnocchi  testenina (krompir) 1 kg krompira belog 300 g brašna oštro 1 jaje so muškatni oraščić",
-    "image": ""
+    "image": "/recipes/135.webp"
   },
   {
     "id": "136",
@@ -3678,7 +3678,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>1,5 kg krompira u ljusci skuvati → propasirati u udubljenje.</p>\n<p>Dodati:</p>\n<div class=\"notebook-lines\"><div>3     jaja</div><div>300 g brašna</div><div>300 g parmezana</div><div>cimet</div><div>muškatni oraščić</div><div>biber (vegeta) ili so</div></div>\n<h2>Priprema</h2>\n<p>Seći testo na nekoliko komada i napraviti kobasice, zatim seći na komadiće od 1,5 cm i oblikovati.</p>\n<p><strong>pravilo:</strong> ne više od 400 g brašna na 1 kg krompira.</p>\n<p>U tiganju zagrejati puter, pavlaku i peršun.</p>",
     "searchText": "gnocchi giovani  testenina (krompir) 1,5 kg krompira 3 jaja 300 g brašna 300 g parmezana cimet muškatni oraščić biber (vegeta) ili so puter pavlaka peršun",
-    "image": ""
+    "image": "/recipes/136.webp"
   },
   {
     "id": "137",
@@ -3704,7 +3704,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>250 g putera → umutiti kao krem, pa dodati so, biber, muškatni oraščić</div></div>\n<p>Posebno umutiti: 2 jaja i 2 žumanca.</p>\n<p>To dodati puteru, izmešati i dodati 250 g brašna oštro.</p>\n<h2>Oblikovanje</h2>\n<p>Od tog testa napraviti dugačke kobasice, koje treba naseći na komadiće 1-1,5 cm.</p>\n<p>Kuvati ih u slanoj vodi 5'.</p>\n<h2>Zapekanje</h2>\n<p>Pomešati 50 g otopljenog putera, 50 g parmezana i 50 g grojera.</p>\n<p>Pomešati i zapeći.</p>",
     "searchText": "zapečeni gnocchi  testenina (krompir, zapečena) 250 g putera so, biber, muškatni oraščić 2 jaja 2 žumanca 250 g brašna oštro 50 g putera 50 g parmezana 50 g grojera",
-    "image": ""
+    "image": "/recipes/137.webp"
   },
   {
     "id": "138",
@@ -3723,7 +3723,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>1 jaje — 100 g brašna (meko).</p>\n<h2>Napomena</h2>\n<p>Ako se odmah kuvaju, u testo staviti malo maslinovog ulja.</p>",
     "searchText": "tagliatelle  testenina 1 jaje — 100 g brašna meko",
-    "image": ""
+    "image": "/recipes/138.webp"
   },
   {
     "id": "139",
@@ -3750,7 +3750,7 @@
     ],
     "bodyHtml": "<h2>Bešamel</h2>\n<div class=\"notebook-lines\"><div>60 g brašna i 60 g putera i 1/2 l mleka</div><div>↓</div><div>bešamel — ohladiti i dodati: 4 žumanca</div></div>\n<h2>Spanać</h2>\n<div class=\"notebook-lines\"><div>1/2 kg obarenog, sitno iseckanog spanaća</div><div>šne 4 belanca</div></div>\n<h2>Sastavljanje</h2>\n<p>Pleh: papir.</p>\n<p><strong>fil:</strong> mocarela, ili 250 g šunke i 2 velike kašike pavlake.</p>",
     "searchText": "rolat od spanaća ljiljana slano jelo (rolat) 60 g brašna 60 g putera 1/2 l mleka 4 žumanca 1/2 kg obarenog, sitno iseckanog spanaća 4 belanca mocarela 250 g šunke 2 velike kašike pavlake",
-    "image": ""
+    "image": "/recipes/139.webp"
   },
   {
     "id": "140",
@@ -3775,7 +3775,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>120 g putera → rastopiti i dodati</div><div>120 g brašna — pa to malo propržiti, dodati</div><div>1/2 l mleka → mutiti dok se ne zgusne</div></div>\n<p>Ohladiti i dodavati 1 po 1 žumance (6 kom).</p>\n<p>Posoliti i šne — ručno pomešati.</p>\n<h2>Priprema</h2>\n<p>Pleh: papir. 200°C.</p>\n<p>Izručiti na mokru krpu.</p>\n<p><strong>fil:</strong> kisela pavlaka i 200 g šunke.</p>",
     "searchText": "žuti rolat veka slano jelo (rolat) 120 g putera 120 g brašna 1/2 l mleka 6 žumanaca so kisela pavlaka 200 g šunke",
-    "image": ""
+    "image": "/recipes/140.webp"
   },
   {
     "id": "141",
@@ -3835,7 +3835,7 @@
     ],
     "bodyHtml": "<h2>Povrće (za veliki sud)</h2>\n<div class=\"notebook-lines\"><div>paprike      4,5 kg</div><div>karfiol      5   kg</div><div>šargarepa    2   kg</div><div>paradajz zeleni 1 kg</div><div>krastavac    2   kg</div><div>2 x ren</div><div>2 x celer list</div><div>1   vinobran</div></div>\n<h2>Osnovni rastvor za veliki sud</h2>\n<div class=\"notebook-lines\"><div>15 l vode</div><div>400 g soli</div><div>300 g esencije</div><div>1 vinobran (10 g)</div></div>\n<h2>Preračunati rastvor — 10 l</h2>\n<div class=\"notebook-lines\"><div>10 l vode</div><div>300 g soli</div><div>200 g esencije</div><div>1 vinobran</div></div>\n<h2>Preračunati odnosi za manje količine</h2>\n<p>| voda | so | esencija | vinobran | |---|---|---|---| | 1 l | 27 g | 20 g | 0,6 g | | 3 l | 81 g | 60 g | 1,8 g | | 4 l (amc velika) | 108 g | 80 g | 2,4 g | | 5 l | 135 g | 100 g | 3 g |</p>\n<h2>Ćup</h2>\n<div class=\"notebook-lines\"><div>1/2 kg krastavaca</div><div>1/2 kg paradajza</div><div>1/2 kg šargarepe</div><div>3 kg karfiola</div><div>1,5 kg paprika</div><div>5 l vode</div></div>\n<h2>Tegla 5 l</h2>\n<div class=\"notebook-lines\"><div>8   paprika</div><div>650   karfiol</div><div>400   šargarepa</div><div>600   krastavci</div><div>1   ren</div><div>veza celerovog lista</div></div>",
     "searchText": "zimnica — turšija kraj septembra — oktobar zimnica / konzerviranje paprike 4,5 kg karfiol 5 kg šargarepa 2 kg paradajz zeleni 1 kg krastavac 2 kg 2 x ren 2 x celer list 1 vinobran 15 l vode 400 g soli 300 g esencije 1 vinobran (10 g) 10 l vode 300 g soli 200 g esencije 1 vinobran 1 l vode 27 g soli 20 g esencije 0,6 g vinobran 5 l vode 135 g soli 100 g esencije 3 g vinobran 3 l vode 81 g soli 60 g esencije 1,8 g vinobran 4 l vode 108 g soli 80 g esencije 2,4 g vinobran 1/2 kg krastavaca 1/2 kg paradajza 1/2 kg šargarepe 3 kg karfiola 1,5 kg paprika 5 l vode 8 paprika 650 karfiol 400 šargarepa 600 krastavci 1 ren veza celerovog lista",
-    "image": ""
+    "image": "/recipes/141.webp"
   },
   {
     "id": "142",
@@ -3861,7 +3861,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>krastavci</div><div>2 x mirodjija suva</div><div>3-4 zrna bibera</div><div>5-6 čenova belog luka</div><div>2 čena ren</div></div>\n<h2>Rastvor</h2>\n<div class=\"notebook-lines\"><div>3 l vode i 150 g soli     (za 5 kg krastavaca)</div><div>1 l vode i 50 g soli</div><div>alternativni rastvor:</div><div>1 l kipuće vode i 2 ravne velike kašike soli</div></div>",
     "searchText": "presolac za poljske krastavce  zimnica / konzerviranje krastavci 2 x mirodjija suva 3-4 zrna bibera 5-6 čenova belog luka 2 čena ren 3 l vode i 150 g soli 1 l vode i 50 g soli alternativni rastvor: 1 l kipuće vode i 2 ravne velike kašike soli",
-    "image": ""
+    "image": "/recipes/142.webp"
   },
   {
     "id": "143",
@@ -3884,7 +3884,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>3 kg paprika</div><div>7 kg kupusa</div><div>biber u zrnu</div><div>2-3 ren koren</div></div>\n<h2>Rastvor</h2>\n<div class=\"notebook-lines\"><div>1 l vode i 1 velika kašika soli (30g) i 2 velike kašike esencije (1 velika kašika = 15 g)</div></div>\n<p>1 l vode i 1 velika kašika soli → prokuvati, kada se ohladi i 2 velike kašike esencije.</p>\n<h2>Priprema</h2>\n<p>Paprike očistiti, preliti kipućom vodom i ostaviti da stoje 10'-15'.</p>\n<p>Kupus iseckati, posoliti i ostaviti 20'.</p>\n<p>Ocediti i dodati biber.</p>\n<p>Paprike ocediti, puniti kupusom i naslagati u teglu. Strugati koren rena.</p>\n<p>Naliti presolac.</p>\n<p>Na kraju sipati ulje 2 cm.</p>\n<p>Povezati papirom, a posle zatvoriti.</p>\n<h2>Napomene</h2>\n<ul><li>Cediti sa presom za pire.</li><li>Ne puniti paprike do vrha tegle!!</li><li>3 velike tegle (5 l) = 6 kg paprika i 14 kg kupusa.</li></ul>",
     "searchText": "paprike sa kupusom  zimnica / konzerviranje 3 kg paprika 7 kg kupusa biber u zrnu 2-3 ren koren 1 l vode i 1 velika kašika soli i 2 velike kašike (30g) esencije (1 velika kašika = 15 g)",
-    "image": ""
+    "image": "/recipes/143.webp"
   },
   {
     "id": "144",
@@ -3909,7 +3909,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<p>60 paprika → očistiti</p>\n<div class=\"notebook-lines\"><div>1/4 kg belog luka</div><div>1/4 kg rena        } u secko-u</div><div>1   šolja ulja</div><div>150 g soli</div><div>1   mala šoljica esencije</div></div>\n<h2>Priprema</h2>\n<p>U svaku papriku staviti 1 mala kašika ove smese.</p>\n<p>Naslagati u veliku šerpu paprike (horizontalno), pritisnuti nečim teškim i ostaviti 24-36 h na hladnom mestu.</p>\n<p>U teglu naslagati vertikalno, a u sok koji su pustile dodati 1 konzervans i zaliti teglu.</p>",
     "searchText": "crvene paprike sa renom dadi zimnica / konzerviranje 60 paprika 1/4 kg belog luka 1/4 kg rena 1 šolja ulja 150 g soli 1 mala šoljica esencije 1 konzervans",
-    "image": ""
+    "image": "/recipes/144.webp"
   },
   {
     "id": "145",
@@ -3934,7 +3934,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>5 kg crvenih paprika, oljuštene i isečene</div><div>3 kg paradajza</div></div>\n<p>Dodati: 10 feferona, malo peršuna, so, 2 velike kašike šećera, 1/2 l ulja.</p>",
     "searchText": "ljutenica dadi zimnica / namaz 5 kg crvenih paprika (oljuštene i isečene) 3 kg paradajza 10 feferona malo peršuna so 2 velike kašike šećera 1/2 l ulja",
-    "image": ""
+    "image": "/recipes/145.webp"
   },
   {
     "id": "146",
@@ -3966,7 +3966,7 @@
     ],
     "bodyHtml": "<h2>Mera 1</h2>\n<div class=\"notebook-lines\"><div>50 g putera</div><div>50 g brašna</div><div>1 l mleka</div></div>\n<p>Kuvati dok se ne zgusne. So, biber beli, 1 mala kašika soka od limuna, muškatni oraščić.</p>\n<h2>Mera 2</h2>\n<div class=\"notebook-lines\"><div>100 g putera</div><div>2 velike kašike brašna</div><div>1/2 l mleka</div></div>\n<h2>Mera 3</h2>\n<div class=\"notebook-lines\"><div>40 g putera</div><div>40 g brašna</div><div>5 dl mleka</div><div>so, biber</div><div>1 mala kašika soka limuna</div></div>",
     "searchText": "bešamel  sos / osnova 50 g putera 50 g brašna 1 l mleka so, biber beli 1 mala kašika soka od limuna muškatni oraščić 100 g putera 2 velike kašike brašna 1/2 l mleka 40 g putera 40 g brašna 5 dl mleka so, biber 1 mala kašika soka limuna",
-    "image": ""
+    "image": "/recipes/146.webp"
   },
   {
     "id": "147",
@@ -3989,7 +3989,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2/3 tube majoneza</div><div>1/2 flaše kečapa</div><div>1-2 kapi tabasca</div><div>malo belog bibera</div><div>čašica viskija</div></div>",
     "searchText": "koktel od škampa  sos / prilog za škampe 2/3 tube majoneza 1/2 flaše kečapa 1-2 kapi tabasca malo belog bibera čašica viskija",
-    "image": ""
+    "image": "/recipes/147.webp"
   },
   {
     "id": "148",
@@ -4011,7 +4011,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>75 g putera</div><div>4 1/2 velike kašike brašna</div><div>750 ml mleka</div><div>so, biber, muškatni oraščić</div></div>\n<h2>Slaganje (dopisano sa strane)</h2>\n<div class=\"notebook-lines\"><div>las</div><div>bolognese</div><div>las</div><div>parmezan</div><div>beš</div></div>",
     "searchText": "bešamel — lasagne  sos / osnova (za lazanje) 75 g putera 4 1/2 velike kašike brašna 750 ml mleka so, biber, muškatni oraščić",
-    "image": ""
+    "image": "/recipes/148.webp"
   },
   {
     "id": "149",
@@ -4032,7 +4032,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2 kg tikvica (8-9 komada)</div><div>500 g mlevenog mesa</div></div>\n<p>&gt; Postupak pripreme nije zapisan u originalu.</p>",
     "searchText": "tikvice punjene za amc slano jelo 2 kg tikvica 8-9 tikvica 500 g mlevenog mesa",
-    "image": ""
+    "image": "/recipes/149.webp"
   },
   {
     "id": "150",
@@ -4058,7 +4058,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg ribanca</div><div>400 g mlevenog mesa</div><div>100 g slanina</div><div>crni luk</div><div>beli luk</div><div>so, biber, aleva</div><div>1   jaje</div><div>kisela pavlaka</div></div>\n<h2>Priprema</h2>\n<p>Propržiti sledeće sastojke: Crni luk, kockice slanine, beli luk.</p>\n<p>Dodati: meso i aleva paprika i so i biber.</p>\n<p><strong>ribanac — dinstati</strong> (na 2 dl vode, posuti alevom paprikom, malo peći, a onda zaliti sa 1 jaje i pavlaka i malo mleka).</p>\n<h2>Slaganje</h2>\n<div class=\"notebook-lines\"><div>red ribanca</div><div>meso</div></div>",
     "searchText": "musaka od ribanca  slano jelo (musaka) 1 kg ribanca 400 g mlevenog mesa 100 g slanina crni luk beli luk so, biber, aleva 1 jaje kisela pavlaka",
-    "image": ""
+    "image": "/recipes/150.webp"
   },
   {
     "id": "151",
@@ -4089,7 +4089,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>3/4 kg junećeg mlevenog mesa</div><div>1/4 kg svinjskog</div><div>2   glavice crnog luka</div><div>3-4   čena belog luka</div><div>1   mala šoljica pirinča</div><div>100 g slanine</div><div>1   jaje</div><div>vegeta, biber, 1 velika kašika aleve paprike</div><div>1/2 kg suvih rebara</div><div>2   glavice kupusa</div></div>\n<h2>Priprema</h2>\n<p>Na ulju malo propržiti meso i dodati:</p>\n<div class=\"notebook-lines\"><div>crni luk</div><div>beli luk</div><div>vegeta</div><div>biber</div><div>aleva paprika</div><div>1 jaje</div><div>na kockice isečena slanina</div><div>1 šoljicu pirinča</div></div>\n<p>Izmešati i staviti fil u listove kupusa (od srednje glavice).</p>\n<p><strong>Red sarmi</strong> — red suvog mesa — aleva paprika — sarma...</p>\n<p>Na vrhu pokriti listovima. Naliti vodom i kuvati na blagoj temperaturi.</p>\n<h2>Napomena</h2>\n<p>Crna tučana šerpa: u 2 reda, 150°C — 4 1/2 h.</p>\n<p><strong>amc velika:</strong> 650 g mesa, 2 kg listova.</p>\n<p><strong>4,0 kg kupusa</strong> → 800 g mesa.</p>",
     "searchText": "sarma mama slano jelo 3/4 kg junećeg mlevenog mesa 1/4 kg svinjskog 2 glavice crnog luka 3-4 čena belog luka 1 mala šoljica pirinča 100 g slanine 1 jaje vegeta, biber, 1 velika kašika aleve paprike 1/2 kg suvih rebara 2 glavice kupusa 650 g mesa 2 kg listova 800 g mesa",
-    "image": ""
+    "image": "/recipes/151.webp"
   },
   {
     "id": "152",
@@ -4117,7 +4117,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4   nogice</div><div>1   teleća kolenica</div><div>4   šargarepe</div><div>2   korena peršuna</div><div>2   paškanata</div><div>3   glavice crnog luka</div><div>5   čena belog luka</div><div>lovorov list</div><div>biber u zrnu</div><div>so</div></div>\n<h2>Priprema</h2>\n<p>4 nogice dobro očistiti. Staviti u hladnu vodu da odleže.</p>\n<p>Dodati kolenicu i sve zajedno kuvati na blagoj temperaturi, skidajući penu.</p>\n<p>Dodati začine i šargarepu.</p>\n<p>Kuvati 4-5 sati.</p>\n<p>Procediti, očistiti meso.</p>\n<p>Slagati u tacne — podeliti na dno sa kolutovima šargarepe, poredati meso.</p>\n<p>U proceđenu supu iscediti 2-3 čena belog luka i polako sipati.</p>\n<h2>Ruska salata</h2>\n<div class=\"notebook-lines\"><div>1 kg šunke</div><div>1   tegla krastavaca</div><div>10  krompira</div><div>7   šargarepa</div><div>6   jaja</div></div>",
     "searchText": "pihtije  slano jelo (žele od mesa) 4 nogice 1 teleća kolenica 4 šargarepe 2 korena peršuna 2 paškanata 3 glavice crnog luka 5 čena belog luka lovorov list biber u zrnu so",
-    "image": ""
+    "image": "/recipes/152.webp"
   },
   {
     "id": "153",
@@ -4141,7 +4141,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 kg pasulja (tetovca)</div><div>1/2 kg crnog luka</div><div>3   praziluka</div></div>\n<h2>Priprema</h2>\n<p>Pasulj potopiti preko noći.</p>\n<p>Kuvati al dente sledeće sastojke: Naliti novu vodu, lorbek (lovorov list), 3-4 zrna bibera, glavica crnog luka.</p>\n<p>Procediti i posuti vegetom (so).</p>\n<p>Dinstati 1/2 kg crnog luka i 3 praziluka, pa dodati alevu papriku i so.</p>\n<h2>Slaganje</h2>\n<p>Red pasulja — red luka — biber — aleva paprika, na vrh red pasulja.</p>\n<p>Naliti vodom od kuvanja.</p>\n<p>Prekriti folijom.</p>",
     "searchText": "prebranac  slano jelo (pasulj) 1/2 kg pasulja (tetovca) 1/2 kg crnog luka 3 praziluka lovorov list, biber u zrnu aleva paprika so",
-    "image": ""
+    "image": "/recipes/153.webp"
   },
   {
     "id": "154",
@@ -4169,7 +4169,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 kg jagnjetine</div><div>5-6   krompira</div><div>4-5   šargarepa</div><div>3     crna luka</div><div>2     glavice belog luka</div><div>800 g kupusa</div><div>4     omanja patlidžana</div><div>2     paprike</div><div>so, zrna bibera</div><div>aleva paprika</div></div>\n<h2>Priprema</h2>\n<p>Obariti jagnjetinu, pa dinstati dok ne porumeni.</p>\n<p>Iseći kupus na 1/4 i obariti.</p>\n<p>Pomastiti pleh.</p>\n<p>Staviti meso i povrće.</p>\n<p>Doliti vode.</p>\n<p>Poklopiti folijom, peći u rerni.</p>\n<p>Pred kraj skinuti foliju da se zapeče.</p>",
     "searchText": "tagarica  slano jelo (jagnjetina zapečena) 1/2 kg jagnjetine 5-6 krompira 4-5 šargarepa 3 crna luka 2 glavice belog luka 800 g kupusa 4 omanja patlidžana 2 paprike so, zrna bibera aleva paprika",
-    "image": ""
+    "image": "/recipes/154.webp"
   },
   {
     "id": "155",
@@ -4196,7 +4196,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Dinstati meso → izvaditi.</p>\n<p>U ulje gde se dinstalo meso, dodati 2 glavice crnog luka i 3 čena belog luka (sitno sečeni).</p>\n<p>Dinstati.</p>\n<p>Dodati usitnjeni paradajz.</p>\n<p>Na kraju vratiti meso.</p>\n<p>&gt; Količine mesa i paradajza nisu navedene u originalu.</p>\n<h2>Noklice</h2>\n<div class=\"notebook-lines\"><div>2   cela jaja</div><div>1 velika kašika ulja</div><div>2 velike kašike griza</div><div>oštro brašno</div><div>so</div></div>",
     "searchText": "pileći paprikaš sa noklicama  slano jelo (paprikaš) pileće meso 2 glavice crnog luka 3 čena belog luka (sitno sečena) usitnjeni paradajz 2 cela jaja 1 velika kašika ulja 2 velike kašike griza oštro brašno so",
-    "image": ""
+    "image": "/recipes/155.webp"
   },
   {
     "id": "156",
@@ -4221,7 +4221,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1/2 kg jagnjetine</div><div>1 kg spanaća</div><div>1   velika glavica crnog luka</div><div>3   veze mladog luka</div><div>3   čena belog luka</div><div>aleva paprika</div><div>so, biber</div></div>\n<h2>Priprema</h2>\n<p>1/2 kg jagnjetine → iseći na krupnije komade, posoliti, uvaljati u brašno i pržiti na ulju dok ne porumeni.</p>\n<p>Izvaditi na tanjir.</p>\n<p>U istom ulju dinstati crni i mladi luk, uz dodatak malo vode.</p>\n<p>Vratiti meso u to, dobro izmešati i dodati sitno seckan beli luk.</p>\n<p>1 kg spanaća obariti i spustiti u meso (doliti vode) i alevu papriku i biber.</p>\n<p>Služiti sa kiselim mlekom.</p>",
     "searchText": "kapama đadi slano jelo (jagnjetina sa spanaćem) 1/2 kg jagnjetine 1 kg spanaća 1 velika glavica crnog luka 3 veze mladog luka 3 čena belog luka aleva paprika so, biber",
-    "image": ""
+    "image": "/recipes/156.webp"
   },
   {
     "id": "157",
@@ -4244,7 +4244,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Jagnjetinu staviti u vodu da se kuva.</p>\n<p>U tiganju propržiti 4 veze mladog luka i 1 velika kašika brašna i aleva paprika.</p>\n<p>Sipati u vodu sa mesom. Peršun.</p>\n<p>&gt; Količine jagnjetine, vode i peršuna nisu navedene u originalu.</p>",
     "searchText": "jagnjeća čorba  supa / čorba jagnjetina 4 veze mladog luka 1 velika kašika brašna aleva paprika peršun",
-    "image": ""
+    "image": "/recipes/157.webp"
   },
   {
     "id": "158",
@@ -4269,7 +4269,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg bakalara</div><div>4   slane srdele</div><div>150 g zelenih maslinki</div><div>3   čena belog luka</div><div>60 g maslinovog ulja</div><div>40 g prezle</div><div>peršun, biber</div></div>\n<h2>Priprema</h2>\n<p>Bakalar naliti vodom da ogrezne i onda kuvati.</p>\n<p>Kada se skuva, očistiti ga od kože i koščica.</p>\n<p>U vatrostalnoj posudi pomešati maslinovo ulje, bakalar, sitno isečen beli luk, isečene masline, biber i peršun.</p>\n<p>Sve izmešati i posuti prezlom i uljem i zapeći.</p>",
     "searchText": "bakalar sa maslinama  slano jelo (riba) 1 kg bakalara 4 slane srdele 150 g zelenih maslinki 3 čena belog luka 60 g maslinovog ulja 40 g prezle peršun, biber",
-    "image": ""
+    "image": "/recipes/158.webp"
   },
   {
     "id": "159",
@@ -4294,7 +4294,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>veliki pleh od rerne</div><div>očišćene male lignje</div><div>maslinovo ulje</div><div>beli luk, so, biber</div><div>peršun</div><div>krompir (na kriške)</div><div>paradajz (svež) ili pelat</div><div>2 dl belog vina</div></div>\n<h2>Priprema</h2>\n<p>Prvo poklopiti folijom, a kada je krompir polumekan otklopiti i zapeći, ali da ostane soka.</p>\n<p>Posuti peršunom.</p>",
     "searchText": "lignje na dubrovački  slano jelo (riba/plodovi mora) očišćene male lignje maslinovo ulje beli luk, so, biber peršun krompir (na kriške) paradajz (svež) ili pelat 2 dl belog vina",
-    "image": ""
+    "image": "/recipes/159.webp"
   },
   {
     "id": "160",
@@ -4317,7 +4317,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Oljuštiti plavi patlidžan <em>(oljuštiti prugasto — dijagram)</em>.</p>\n<p>Preseći na pola → izvaditi sredinu.</p>\n<p>Posoliti i ostaviti 30'.</p>\n<p>Propržiti na ulju.</p>\n<p>Propržiti isečenu sredinu patlidžana, crni luk i paradajz.</p>\n<p>Dodati 4-5 čena belog luka i peršun.</p>\n<p>U vatrostalni sud naslagati, napuniti patlidžane i zapeći.</p>",
     "searchText": "imam bajaldi dadi slano jelo (patlidžan, posno) plavi patlidžan crni luk paradajz 4-5 čena belog luka peršun",
-    "image": ""
+    "image": "/recipes/160.webp"
   },
   {
     "id": "161",
@@ -4342,7 +4342,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Propržiti 1 crni luk i 1 praziluk, pa dodati alevu papriku.</p>\n<p>Pirinač ispržiti u luku i biber.</p>\n<p>Kiseli kupus → savijati male sarmice, 1/2 male kašike pirinča na list (veličine cigarete).</p>\n<p>Naliti vodom, kuvati, kada su gotove zagrejati malo ulja i aleva paprika i preliti (1 ključ).</p>",
     "searchText": "posne sarmice dadi slano jelo (posno) 1 crni luk 1 praziluk aleva paprika pirinač biber kiseli kupus 1/2 male kašike pirinča na list",
-    "image": ""
+    "image": "/recipes/161.webp"
   },
   {
     "id": "162",
@@ -4371,7 +4371,7 @@
     ],
     "bodyHtml": "<h2>Marinada</h2>\n<p>Pomešati sledeće sastojke: sok 1 limuna i maslinovo ulje.</p>\n<p>Losos staviti u marinadu pa u frižider.</p>\n<h2>Sos</h2>\n<div class=\"notebook-lines\"><div>1   crni luk</div><div>3   čena belog</div><div>1 velika kašika maslinovog ulja</div></div>\n<p>→ polako dinstati na pola dinstanja, doliti 1 dl belog vina i pustiti da ispari.</p>\n<p>4-5 velikih oljuštenih paradajza, očistiti pulpu, a mesnati deo iseckati na kockice.</p>\n<p>Staviti u luk, dodati: 1 grančicu ruzmarina i majčinu dušicu i lorber i so, biber.</p>\n<p>I pustiti da se na blagoj vatri ukuva.</p>\n<h2>Priprema</h2>\n<p>Losos u tiganju propržiti na pola.</p>\n<p>Poređati u pleh, sipati paradajz, peći u rerni, a pred kraj sipati sok od marinade i još malo zapeći.</p>",
     "searchText": "losos sa paradajzom france slano jelo (riba) sok 1 limuna maslinovo ulje 1 crni luk 3 čena belog luka 1 velika kašika maslinovog ulja 1 dl belog vina 4-5 velikih oljuštenih paradajza 1 grančica ruzmarina majčina dušica lorber so, biber",
-    "image": ""
+    "image": "/recipes/162.webp"
   },
   {
     "id": "163",
@@ -4400,7 +4400,7 @@
     ],
     "bodyHtml": "<h2>Kuvanje mesa</h2>\n<div class=\"notebook-lines\"><div>2-3 šargarepe</div><div>1   celer (manji)</div><div>lorber</div><div>1 velika kašika vegete</div><div>parče limuna</div><div>1   karanfilčić</div><div>so, biber</div></div>\n<p>Kada provri, ubaciti meso i kuvati 1 - 1 1/2 h na tiho.</p>\n<p>&gt; Količina telećeg frikandoa nije navedena u originalu.</p>\n<p>Ostaviti da se ohladi u supi. Izvaditi meso na tanjir i pritisnuti da izađe voda.</p>\n<h2>Sos</h2>\n<div class=\"notebook-lines\"><div>250 g tunjevine (bez ulja)</div><div>1 velika kašika kapara        } secko</div><div>2   ringlice</div><div>200 g majoneza</div></div>\n<p><em>(ostaviti malo majoneza za 2. put)</em></p>\n<p>Po potrebi razrediti sa supom.</p>",
     "searchText": "teleći frikando u sosu od tunjevine lile slano jelo (vitello tonnato) 2-3 šargarepe 1 celer (manji) lorber 1 velika kašika vegete parče limuna 1 karanfilčić so, biber 250 g tunjevine (bez ulja) 1 velika kašika kapara 2 ringlice 200 g majoneza",
-    "image": ""
+    "image": "/recipes/163.webp"
   },
   {
     "id": "164",
@@ -4429,7 +4429,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1,5 kg goveđeg filea</div><div>100 g ulja</div><div>2 velike kašike senfa Dijon</div><div>1   veza peršuna</div><div>1   crni luk</div><div>100 g pečurki</div><div>50 g kiselih krastavaca</div><div>1 velika kašika kapara</div><div>2   jaja</div><div>2   žumanca</div><div>500 g lisnatog testa</div></div>\n<h2>Meso</h2>\n<p>Očistiti, posoliti, namazati senfom, ostaviti 2 h.</p>\n<p>Zagrejati ulje u rerni i naglo ga ispržiti sa svih strana.</p>\n<p>Ostaviti da se ohladi.</p>\n<h2>Fil</h2>\n<p>Na ulju propržiti: luk i pečurke i krastavci i peršun i kapari.</p>\n<p>Ohladiti i dodati 2 jaja.</p>\n<h2>Sastavljanje</h2>\n<p>Sa ovom smesom obložiti file.</p>\n<p>Lisnato testo rastanjiti. Na njega staviti file. Rubove namočiti žumancem i zalepiti.</p>\n<p>Ostatke testa iseći na trake i ukrasiti veknu. Premazati žumancem i peći.</p>",
     "searchText": "filé velington  slano jelo (beef wellington) 1,5 kg goveđeg filea 100 g ulja 2 velike kašike senfa dijon 1 veza peršuna 1 crni luk 100 g pečurki 50 g kiselih krastavaca 1 velika kašika kapara 2 jaja 2 žumanca 500 g lisnatog testa",
-    "image": ""
+    "image": "/recipes/164.webp"
   },
   {
     "id": "165",
@@ -4454,7 +4454,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>6   jaja</div><div>100 g putera</div><div>1/2 male kašike aleve paprike</div><div>so</div><div>200 g struganog ementalera</div><div>2 dl mleka (ili kis. pavl.)</div><div>3 velike kašike brašna</div></div>\n<h2>Priprema</h2>\n<p>Penasto umutiti: puter i so i aleva.</p>\n<p>Umešati 1 po 1 žumance.</p>\n<p>Zatim polako umešati: sir, mleko, brašno, šne.</p>\n<p>Kalup: puter — brašno.</p>\n<p>Peći: 10' na 180°C.</p>",
     "searchText": "švajcarski sufle od ementalera  sufle (slano) 6 jaja 100 g putera 1/2 male kašike aleve paprike so 200 g struganog ementalera 2 dl mleka (ili kis. pavlake) 3 velike kašike brašna",
-    "image": ""
+    "image": "/recipes/165.webp"
   },
   {
     "id": "166",
@@ -4478,7 +4478,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>150 g parmezana</div><div>100 g putera</div><div>50 g brašna</div><div>250 g mleka</div><div>4   jaja</div><div>so, biber, muškatni oraščić</div></div>\n<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 50 g puter i brašno. ↓ Dodati mleko i neprekidno mešati na ringli dok se smesa ne zgusne.</p>\n<p>Izmaći sa vatre i dodati: ostatak putera 50 g i sir i 1 po 1 žumance i začini.</p>\n<p>Na kraju šne.</p>\n<p>Kalup: puter — brašno.</p>\n<p>Peći: 45' na 180°C.</p>",
     "searchText": "sufle od parmezana dada sufle (slano) 150 g parmezana 100 g putera 50 g brašna 250 g mleka 4 jaja so, biber, muškatni oraščić",
-    "image": ""
+    "image": "/recipes/166.webp"
   },
   {
     "id": "167",
@@ -4502,7 +4502,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>4   jaja</div><div>500 g krompira</div><div>50 g putera</div><div>50 g kis. pavlake</div><div>30 g parmezana</div><div>so, biber</div></div>\n<h2>Priprema</h2>\n<p>Krompir iseći na kocke i skuvati u slanoj vodi.</p>\n<p>Propasirati i umešati puter i kiselu pavlaku.</p>\n<p>Vratiti na ringlu i mešati dok se ne zgusne.</p>\n<p>Malo prohladiti i dodati 1 po 1 žumance, i na kraju šne. Polako ga mešati.</p>\n<p>Kalup: puter i gustin.</p>\n<p>Peći: 18'-20' na 180°C.</p>\n<p>Posuti parmezanom.</p>",
     "searchText": "francuski sufle od krompira  sufle (slano) 4 jaja 500 g krompira 50 g putera 50 g kisele pavlake 30 g parmezana so, biber",
-    "image": ""
+    "image": "/recipes/167.webp"
   },
   {
     "id": "168",
@@ -4527,7 +4527,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 1/2 šolja pirinča</div><div>5   velikih glavica crnog luka</div><div>2   čena belog</div><div>1 kg šampinjona (1 kg 200 g)</div><div>100 g suvih vrganja (50)</div><div>1/2   tartufa</div><div>malo ulja tartuf</div></div>\n<h2>Priprema</h2>\n<p>Na kašici putera i malo maslinovog ulja propržiti luk.</p>\n<p>Dodati pirinač i zalivati sa bujonom.</p>\n<p>Pečurke na puteru prodinstati.</p>\n<p>Pomešati sa pirinčem, dodati sok od 2 čena belog luka, bibera, 2-3 kapi tartuf ulja, nariban tartuf, sitno iseckati peršun i sve dobro promešati.</p>\n<p>Posuti parmezanom.</p>\n<h2>Pilav</h2>\n<div class=\"notebook-lines\"><div>250 g kočanskog pirinča (odnos pirinča i tečnosti 1:6)</div><div>1,5 l vode (supa)</div></div>\n<p>Rerna 220°C, u hladnu, 15'-30'.</p>",
     "searchText": "rižoto sa 3 vrste pečuraka à la maja slano jelo (rižoto) 1 1/2 šolja pirinča 5 velikih glavica crnog luka 2 čena belog 1 kg šampinjona (ili 1 kg 200 g) 100 g suvih vrganja (ili 50) 1/2 tartufa malo ulja tartuf",
-    "image": ""
+    "image": "/recipes/168.webp"
   },
   {
     "id": "169",
@@ -4559,7 +4559,7 @@
     ],
     "bodyHtml": "<h2>Priprema komponenti</h2>\n<p><strong>krompir:</strong> na kolutiće → pola obariti.</p>\n<p><strong>patlidžan:</strong> na kolutiće, uvaljati u brašno i propržiti.</p>\n<p><strong>meso mleveno:</strong> maslinovo ulje i crni luk i beli luk i crvena paprika!</p>\n<p>Dinstati, na kraju dodati 1 jaje i peršun.</p>\n<h2>Slaganje (od dna ka vrhu)</h2>\n<div class=\"notebook-lines\"><div>red krompira (pokriti kompletno dno pleha)</div><div>red patlidžana</div><div>meso</div><div>krompir ...</div></div>\n<p>Završiti patlidžanom.</p>\n<p>Preko patlidžana staviti paradajz — samo mesnati deo, oljušten, bez semenki i isečen na kockice.</p>\n<p>Peći: 180°C.</p>\n<p>Pred kraj zaliti: 1 jaje i 1 velika kašika pavlake i 1 velika kašika brašna i mleko.</p>\n<p>Posuti fetom i peršunom.</p>",
     "searchText": "musaka à la maria callas  slano jelo (musaka) krompir (na kolutiće, pola obariti) patlidžan (na kolutiće, uvaljati u brašno i propržiti) mleveno meso maslinovo ulje crni luk beli luk crvena paprika 1 jaje peršun paradajz (samo meso, oljušten, bez semenki) 1 jaje 1 velika kašika pavlake 1 velika kašika brašna mleko feta peršun",
-    "image": ""
+    "image": "/recipes/169.webp"
   },
   {
     "id": "170",
@@ -4585,7 +4585,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Pomešati sledeće sastojke: 2 velike kašike ulja i 25 cl pavlake → smlačiti (ne da provri).</p>\n<p>1 Žumance. ↓ Mešati ručno na blagoj vatri So, biber. 2 Velike kašike senfa.</p>\n<p>Mešati 2 minuta, pa dodati 3 velike kašike parmezana.</p>\n<p>Sud premazati puterom i beli luk.</p>\n<p>250 g penne → obariti → staviti u sud i sipati sos, posuti parmezanom i zapeći.</p>",
     "searchText": "penne sa sosom od moutarde de dijon  testenina (sos) 2 velike kašike ulja 25 cl pavlake 1 žumance so, biber 2 velike kašike senfa 3 velike kašike parmezana 250 g penne beli luk",
-    "image": ""
+    "image": "/recipes/170.webp"
   },
   {
     "id": "171",
@@ -4610,7 +4610,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1     veza bosiljka</div><div>1/2   veze peršuna</div><div>3     čena belog luka</div><div>50 g  pinjola</div><div>2 dl maslinovog ulja</div><div>so</div><div>sir (pecorino / chedar / parmezan)</div></div>\n<h2>Priprema</h2>\n<p>Sastojke usitniti u secku i pomalo dolivati ulje, kao pri pripremi majoneza.</p>\n<p>U zgusnut sos umešati sir.</p>",
     "searchText": "pesto genovese  sos 1 veza bosiljka 1/2 veze peršuna 3 čena belog luka 50 g pinjola 2 dl maslinovog ulja so sir (pecorino/chedar/parmezan)",
-    "image": ""
+    "image": "/recipes/171.webp"
   },
   {
     "id": "172",
@@ -4631,7 +4631,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>300 g oštrog brašna</div><div>1/2 male kašike soli</div><div>3   jaja</div></div>\n<h2>Priprema</h2>\n<p>Brašno i so → pomešati, napraviti rupu i u nju staviti 3 jaja.</p>\n<p>Izraditi testo 10'.</p>\n<p>Ostaviti 30' do 60'.</p>\n<p>12 kora, debljine oko 0,5 mm.</p>\n<h2>Redosled slaganja <em>(skica)</em></h2>\n<div class=\"notebook-lines\"><div>parmezan</div><div>bešamel</div><div>bolognese ragù</div><div>bešamel</div><div>puter</div></div>",
     "searchText": "lasagne — testo za kore  osnovno testo (testenina) 300 g oštrog brašna 1/2 male kašike soli 3 jaja",
-    "image": ""
+    "image": "/recipes/172.webp"
   },
   {
     "id": "173",
@@ -4657,7 +4657,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>Iseći pancetu na tanke kriške, staviti je u teflonski tiganj i pržiti oko 1 minut. Nastaviti još oko 1 minut, dok ne postane reš.</p>\n<p>Izvaditi ih na papirni ubrus, da se ocedi masnoća i onda ih razdrobiti u suvoj papirnoj salveti.</p>\n<p>Umutiti: onoliko jaja koliko osoba i dodati 1 poveliko žumance i 1 šolju vrele vode i so i biber.</p>\n<p>Preliti preko skuvanih (procedjenih) špageta, promešati tek toliko da bi se jaja termički obradila (skuvala od toplote testenine).</p>\n<p>Uzeti 2 čena belog luka, provući ih kroz presu i dodati origano i parmezan.</p>",
     "searchText": "carbonara me testenina panceta (slanina) jaja (koliko osoba) 1 poveliko žumance 1 šolja vrele vode so, biber 2 čena belog luka origano parmezan",
-    "image": ""
+    "image": "/recipes/173.webp"
   },
   {
     "id": "174",
@@ -4683,7 +4683,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>350 g celera</div><div>350 g jabuka</div><div>100 g oraha</div><div>150 g majoneza</div><div>0,5 dl slatke pavlake</div><div>senf, šećer, so, biber</div><div>sok limuna</div><div>1   čašica konjaka</div></div>\n<h2>Priprema</h2>\n<p>Celer — rezanci, preliti kipućom vodom, a zatim oprati hladnom i ocediti.</p>\n<p>Jabuke iseći na sitne kocke i preliti limunovim sokom.</p>\n<p>Dodati so i biber i šećer.</p>\n<p>Sve pomešati sa majonezom i senf i slatka pavlaka i 1 čašica konjaka.</p>\n<p>Posuti orasima isečenim na listiće.</p>",
     "searchText": "waldorf salata  salata 350 g celera 350 g jabuka 100 g oraha 150 g majoneza 0,5 dl slatke pavlake senf, šećer, so, biber sok limuna 1 čašica konjaka",
-    "image": ""
+    "image": "/recipes/174.webp"
   },
   {
     "id": "175",
@@ -4711,7 +4711,7 @@
     ],
     "bodyHtml": "<h2>Preliv</h2>\n<p>Pomešati sledeće sastojke: 3 polupoširana žumanca i maslinovo ulje → majonez.</p>\n<p>Dodati secko: 1 inćun i 5 kapara i 1 mala kašika Dijon senfa.</p>\n<h2>Salata</h2>\n<div class=\"notebook-lines\"><div>ajsberg salata</div><div>radič</div><div>krutoni</div><div>pileće belo (isečeno na rezance i isprženo)</div><div>parmezan</div></div>",
     "searchText": "cesare salata  salata 3 poluposirana žumanca maslinovo ulje 1 inćun 5 kapara 1 mala kašika dijon senfa ajsberg salata radič krutoni pileće belo (isečeno na rezance i isprženo) parmezan",
-    "image": ""
+    "image": "/recipes/175.webp"
   },
   {
     "id": "176",
@@ -4733,7 +4733,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg guščije džigerice</div><div>i } sotirati</div><div>125 g putera</div></div>\n<h2>Priprema</h2>\n<p>Dodati so, biber.</p>\n<p>Procediti džigericu → masnoću sačuvati.</p>\n<p>Staviti džigericu u blender, dodati 1/2 masnoće.</p>\n<p>Razliti u modlu, malo ohladiti i preliti sa masnoćom (ostalom). Ohladiti.</p>\n<p>Kada se ohladi, izvaditi iz modle i premazati želatinom.</p>\n<p><strong>\\* džigerica treba da ostane živkasta.</strong></p>",
     "searchText": "foie gras by jovan slano jelo (paštet) 1 kg guščije džigerice 125 g putera so, biber želatin",
-    "image": ""
+    "image": "/recipes/176.webp"
   },
   {
     "id": "177",
@@ -4760,7 +4760,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>250 g brašna</div><div>125 g umućenog putera</div><div>5 g soli</div><div>0,5 dl vode</div></div>\n<p>Brašno → napraviti udubljenje, staviti puter i trljati ga dlanovima.</p>\n<p>Dodati so i vodu. Ostaviti testo da odstoji 10 minuta, pa ga premesiti.</p>\n<p>Umotati u providnu foliju i ostaviti u frižideru 1 h.</p>\n<h2>Sastavljanje</h2>\n<p>Tepsija ⌀22 cm, podmastiti puterom.</p>\n<p>Rastanjiti testo šire od tepsije i obložiti tepsiju i stranice.</p>\n<p>250 g slanine iseći na tanke režnjeve, prokuvati (blanširati), ocediti pa propržiti na malo putera.</p>\n<p>Poredati slaninu preko testa i preliti sa:</p>\n<div class=\"notebook-lines\"><div>4   jaja</div><div>4 dl pavlake</div><div>so, biber</div></div>\n<p>Razbacati male komadiće putera (ili sir — grojer).</p>\n<p>Peći: 30'-35' na 250°C.</p>",
     "searchText": "quiche lorraine  slano jelo (pita/kiš) 250 g brašna 125 g umućenog putera 5 g soli 0,5 dl vode 250 g slanine 4 jaja 4 dl pavlake so, biber komadići putera (ili sir)",
-    "image": ""
+    "image": "/recipes/177.webp"
   },
   {
     "id": "178",
@@ -4797,7 +4797,7 @@
     ],
     "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>800 g mekog brašna</div><div>350-400 ml vode</div><div>1 mala kašika soli</div></div>\n<p>Treba da odstoji 30'. Pokriti sa krpom ili folijom.</p>\n<p>Iseći na 16 loptica.</p>\n<p>Svaku razviti na krug 15 cm, premazati svaku otopljenim puterom.</p>\n<p>Da odstoji 10'.</p>\n<h2>Slaganje kora</h2>\n<p>Uzeti jednu i razviti u veličinu desertnog tanjira, premazati puterom, pa na nju staviti sledeću. I tako redom 8. Dobićemo 2 jufke po 8 kora.</p>\n<p>Svaku razviti u pravougaonik, premazati puterom i iseći 5x5 cm kvadrate. Staviti meso i dijagonalno motati kao pismo.</p>\n<p>Okrugli pleh premazati puterom, ređati u krug (smotani deo na dno).</p>\n<p>Peći na donjoj rešetki 35'-40' na 180-200°C.</p>\n<h2>Meso</h2>\n<div class=\"notebook-lines\"><div>500 g mlevenog junećeg</div><div>250-300 g luka (u secko-u)</div><div>5   čenova luka</div><div>so</div><div>biber</div></div>\n<h2>Tabela: prečnik tepsije → broj kora</h2>\n<p>| ⌀ tepsije | broj kora | |---|---| | 23 | 38 | | 26 | 41 | | 28 | 50-51 | | 30 | — |</p>\n<p>---</p>\n<p># Pazarske mantije — Binim</p>\n<h2>Sastav</h2>\n<div class=\"notebook-lines\"><div>700-800 g brašna meko t400</div><div>2 male kašike soli</div><div>2 velike kašike ulja</div><div>420-430 ml vode</div></div>\n<p>Treba da odstoji 30'. Pokriti sa krpom ili folijom.</p>\n<p>Loptice 70 g — 16 jufki, da odstoji 15'.</p>\n<p>Svaku razviti na krug 20 cm, da odstoji 10', pa premazati svaku otopljenim puterom, pa ređati jednu na drugu. Dobićemo 2 jufke po 8 kora.</p>\n<p>Razviti kvadrat 35x35, premazati puterom i iseći na kvadratiće 5x5 (98 kom) ili 4x4 i puniti mesom (12 g mesa), dijagonalno motati kao pismo.</p>\n<p>Tepsiju 40 cm premazati puterom.</p>\n<h2>Punjenje</h2>\n<div class=\"notebook-lines\"><div>700 g mlevene junetine</div><div>70 ml hladne vode</div><div>50 ml ulja</div><div>400 g seckanog crnog luka</div><div>1 mala kašika soli</div><div>biber po ukusu</div></div>\n<p>1200 : 98 = 12 g mesa po komadu.</p>\n<p><strong>masnoća za jufke:</strong> 150 g putera i 70 ml ulja.</p>\n<p>Peći na donjoj rešetki 35'-40' na 180-200°C.</p>\n<p>Peći na donjoj rešetki 20 min, pa prekriti papirom i peći još 15 min.</p>",
     "searchText": "mantije  peciva (sa mesom, uvijene kore) 800 g mekog brašna 350-400 ml vode 1 mala kašika soli 500 g mlevenog junećeg 250-300 g luka 5 čenova luka so biber 700-800 g brašna mekog t 400 2 male kašike soli 2 velike kašike ulja 420-430 ml vode 700-800 g mlevene junetine 70-80 ml hladne vode 50-60 ml ulja 400-450 g seckanog crnog luka 1-2 male kašike soli biber po ukusu 150 g putera i 70 ml ulja",
-    "image": ""
+    "image": "/recipes/178.webp"
   },
   {
     "id": "179",
@@ -4821,7 +4821,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1,5 kg spanaća (neočišćenog; 1,2 kg očišćenog)</div><div>700 g kora (deblji)</div><div>3   jaja</div><div>1   kisela pavlaka</div><div>mleko</div><div>kisela voda</div></div>\n<h2>Priprema</h2>\n<p>1,5 kg spanaća oprati, posoliti i ostaviti da omekša.</p>\n<p>Iscediti ga i iseći.</p>\n<p>Umutiti 3 žumanca, pavlaku, gaziranu kiselu vodu i mleko.</p>\n<p>Dodati šne od 3 belanca.</p>\n<p>To dodati u spanać.</p>\n<h2>Slaganje</h2>\n<p>Pleh → ulje → 3 kore → fil → kora <em>(ponoviti postupak sa vodom i malo ulja, kap)</em>.</p>\n<p>Vrh → zaviti sa 3 kore. Zagrejati rernu.</p>\n<p>Peći: 180°C — 40'. Rerna dole.</p>",
     "searchText": "zeljanica \"spanaćica\" mama peciva (pita sa spanaćem) 1,5 kg spanaća (neočišćenog; 1,2 kg očišćenog) 700 g kora (deblji) 3 jaja 1 kisela pavlaka mleko kisela voda (gazirana)",
-    "image": ""
+    "image": "/recipes/179.webp"
   },
   {
     "id": "180",
@@ -4845,7 +4845,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>800 g brašna        (400 g)</div><div>450 ml vode           (225 ml)</div><div>1 mala kašika soli</div><div>250 g margarina</div></div>\n<p><strong>fil:</strong> 300 g sira i 2 jaja</p>\n<h2>Priprema</h2>\n<p>Umesiti testo, ostaviti 20' da odstoji.</p>\n<p>Podeliti na 2 dela: 1 veći i 1 manji (da odstoji 10').</p>\n<p>Razviti koru, premazati margarinom, urolati i umotati kao puž <em>(dijagram: spirala)</em>.</p>\n<p>To staviti u kesu i ostaviti u frižideru.</p>\n<p>Manje puža rastanjiti i staviti u podmazanu tepsiju, tako da ivice budu uzdignute po ivici tepsije.</p>\n<p>Staviti fil.</p>\n<p>Veći ruliti u veliku jufku i polako spustiti, izgužvati, a ivice zavrnuti i zatvoriti.</p>\n<p>Izbockati viljuškom, premazati uljem.</p>\n<p>Peći: 30'-40' na 180°C.</p>",
     "searchText": "lisnata turska pita  peciva (pita sa sirom, lisnata) 800 g brašna 450 ml vode 1 mala kašika soli 250 g margarina 300 g sira 2 jaja",
-    "image": ""
+    "image": "/recipes/180.webp"
   },
   {
     "id": "181",
@@ -4877,7 +4877,7 @@
     ],
     "bodyHtml": "<h2>Bolonjeze</h2>\n<div class=\"notebook-lines\"><div>500-600 g junećeg mlevenog mesa</div><div>80 g pancete (odstraniti belo, iseći na sitne kockice)</div><div>1   velika (2 male) gl. crnog luka</div><div>5   čenova belog luka</div><div>1   šargarepa</div><div>1   manji celer (1/2 većeg)</div><div>1 dl suvog belog vina</div><div>300 g paradajza</div><div>so, biber, muskatni oraščić</div></div>\n<h3>Priprema</h3>\n<p>Tiganj: maslinovo ulje zagrejati i panceta (izvaditi na tanjir).</p>\n<p>secko: crni luk i beli luk i šargarepa i celer i dinstati na blagoj vatri uz dolivanje vode, pa dodati pancetu.</p>\n<p>Dodati meso i 30' dinstati (dodavati vodu).</p>\n<p>Posoliti, pobiberiti, muskatni oraščić.</p>\n<p>Dodati paradajz, pojačati temperaturu, na kraju sipati 1 dl vina i kuvati dok ne ispari.</p>\n<h2>Bešamel</h2>\n<p>| | manja mera | veća mera | |---|---|---| | puter | 50 g | 75 | | brašno | 50 g | 56 | | mleko | 1 l | 1,5 l |</p>\n<p>So, biber, muskatni oraščić.</p>\n<h2>Parmezan</h2>\n<ul><li>Napomena uz meru nije čitka: 500 g</li><li>Veća/deblja mera: 600 g</li></ul>\n<h2>Slaganje <em>(nalepnica sa strane)</em></h2>\n<div class=\"notebook-lines\"><div>parmezan (kraj)</div><div>bešamel</div><div>meso</div><div>lasagne</div><div>parmezan</div><div>bešamel</div><div>meso</div><div>lasagne</div><div>bešamel</div></div>",
     "searchText": "lasagne me — bolonjeze i bešamel  testenina (punjenje za lazanje) 500-600 g junećeg mlevenog mesa 80 g pancete 1 velika (ili 2 male) glavica crnog luka 5 čenova belog luka 1 šargarepa 1 manji celer (ili 1/2 većeg) 1 dl suvog belog vina 300 g paradajza so, biber, muškatni oraščić 50 g putera 50 g brašna 1 l mleka so, biber, muškatni oraščić 500 g parmezana (napomena nečitka) 600 g parmezana (veća/deblja mera)",
-    "image": ""
+    "image": "/recipes/181.webp"
   },
   {
     "id": "182",
@@ -4903,7 +4903,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>2   čena sitno iseckanog belog luka</div><div>2   čili papričice         } na blagoj temp.</div><div>2 male kašike kapara                } dinstati</div><div>8   inćuna</div><div>10  maslina</div><div>so, biber</div></div>\n<p>Malo peršuna (a može i bosiljak).</p>\n<p>Dodati 500 g paradajza.</p>\n<p>Posuti svežim peršunom.</p>",
     "searchText": "pasta puttanesca  testenina (sos) 2 čena sitno iseckanog belog luka 2 čili papričice 2 male kašike kapara 8 inćuna 10 maslina so, biber malo peršuna (ili bosiljak) 500 g paradajza",
-    "image": ""
+    "image": "/recipes/182.webp"
   },
   {
     "id": "183",
@@ -4924,7 +4924,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>1 kg čeri paradajza (ne prepolovljavati)</div><div>maslinovo ulje</div><div>so, biber, čili</div></div>\n<h2>Priprema</h2>\n<p>Peći: 40' na 180°C.</p>",
     "searchText": "čeri paradajz sa belim lukom (rerna)  prilog / sos (pečeni paradajz) 1 kg čeri paradajza (ne prepolovljavati) maslinovo ulje so, biber, čili",
-    "image": ""
+    "image": "/recipes/183.webp"
   },
   {
     "id": "184",
@@ -4955,7 +4955,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>60 g putera</div><div>2 velike kašike maslinovog ulja</div><div>60 g pancete</div><div>1   luk</div><div>1   šargarepa</div><div>1   celer (štapić)</div><div>1   čen belog luka</div><div>1   lovorov list</div></div>\n<div class=\"notebook-lines\"><div>500 g junećeg mlevenog mesa</div><div>2 velike kašike pelata</div><div>150 ml crnog vina</div><div>150 ml mleka</div><div>so, biber, muškatni oraščić</div></div>\n<h2>Priprema</h2>\n<p>Na 60 g putera i 2 velike kašike maslinovog ulja pržiti 60 g pancete isečene na kockice oko 5 minuta.</p>\n<p>Dodati 1 glavicu crnog luka, 1 šargarepu, 1 štapić celera, 1 čen belog luka i lovorov list.</p>\n<p>8 min dinstati.</p>\n<p>Dodati mleveno meso i smanjiti temperaturu na srednju jačinu.</p>\n<p>Dodati paradajz pire. Mešati 1 minut, a zatim smanjiti temperaturu.</p>\n<p>Polako dodavati po 2 velike kašike mleka i vina, sve dok ne prestanu (16'-30').</p>\n<p>Kuvati 2 h. Dodati so, biber, muškatni oraščić.</p>",
     "searchText": "klasični bolonjeze ragu crno vino sos (za testeninu) 60 g putera 2 velike kašike maslinovog ulja 60 g pancete 1 luk 1 šargarepa 1 celer (štapić) 1 čen belog luka 1 lovorov list 500 g junećeg mlevenog mesa 2 velike kašike pelata 150 ml crnog vina 150 ml mleka so, biber, muškatni oraščić",
-    "image": ""
+    "image": "/recipes/184.webp"
   },
   {
     "id": "185",
@@ -4981,7 +4981,7 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>500 g sira neutralnog, kremastog</div><div>3   male čaše kiselog mleka (180 ml x 3)</div><div>1 mala kašika soli</div><div>1 mala kašika sode bikarbone (ili prašak za pecivo)</div><div>80 g brašna mekog</div><div>5   jaja</div><div>100 ml ulja</div></div>\n<p>500 g debljih kora.</p>\n<h2>Priprema</h2>\n<p>Razlistati kore, pa ih ponovo složiti i zarolati → seći na trake 5-6 cm širine.</p>\n<p>Rastresti ih i deo po deo stavljati u fil.</p>\n<p>Sipati u pleh (emajlirani).</p>\n<p>Peći na 180°C — 30'-40' (45').</p>\n<p>Kada je gotova, okrenuti je naopako da se ohladi.</p>",
     "searchText": "gibanica naopačke  pita (sa sirom) 500 g sira neutralnog, kremastog 3 male čaše kiselog mleka (180 ml x 3) 1 mala kašika soli 1 mala kašika sode bikarbone (ili prašak za pecivo) 80 g brašna mekog 5 jaja 100 ml ulja 500 g debljih kora",
-    "image": ""
+    "image": "/recipes/185.webp"
   },
   {
     "id": "186",
@@ -5010,7 +5010,7 @@
     ],
     "bodyHtml": "<h2>Priprema</h2>\n<p>1 jaje i 1 žumance umutiti varjačom, dodati jednu šoljicu od ulja, 1 supenu kašiku soli, 1/2 l toplog mleka.</p>\n<p>Jedan kvasac rastopljen u 1/4 mleka, sa kašičicom šećera ostaviti da nadođe, pa dodati u mleko sa žumancima i 1 kg brašna, sve zajedno izmešati varjačom.</p>\n<p>Ostaviti da nadođe. Pa sve tako 2-3 puta.</p>\n<p>Rastanjiti testo oklagijom, iseći na kocke. Svaku kocku namazati sa malo margarina (Dobro jutro). Po želji dodati sira ili kajmaka i zaviti u kiflicu.</p>\n<p>Pleh namazati puterom. Ređati kiflice, premazati sa celim jajetom. Na svaku kiflicu staviti parčence putera.</p>\n<p>Ostaviti da nadođu i peći na temperaturi od 180-200°C.</p>\n<p>Poželjno je da bude sirov kvasac 50 g.</p>\n<p>Brašno tip 400, Stari mlinar (žuta kesa).</p>\n<h2>Tajna 🙂</h2>\n<p>Za sva testa pored kvasca dodati na vrh noža prašak za pecivo.</p>\n<p>Testo ne treba premesivati, nego takvo izručiti na stolnjak koji je posut brašnom i lagano rastanjiti oklagijom.</p>",
     "searchText": "slane kiflice  peciva 1 jaje i 1 žumance 1 šoljica ulja 1 supena kašika soli 1/2 l toplog mleka 1 kvasac (50 g sirovog) 1 kašičica šećera 1 kg brašna (tip 400, stari mlinar, žuta kesa) margarin (dobro jutro) sir ili kajmak 1 celo jaje parčence putera",
-    "image": ""
+    "image": "/recipes/186.webp"
   },
   {
     "id": "187",
@@ -5055,7 +5055,7 @@
     ],
     "bodyHtml": "<h2>Kora <em>(sastojci za jednu koru)</em></h2>\n<div class=\"notebook-lines\"><div>5   belanaca</div><div>5   kašika šećera</div><div>100 grama seckanih oraha</div><div>2   kašike brašna</div><div>2   kašike mlevenog keksa</div></div>\n<h2>Fil</h2>\n<div class=\"notebook-lines\"><div>20  žumanaca</div><div>800 grama šećera</div><div>600 grama putera</div><div>200 grama putera</div><div>200-300 grama seckanih višanja</div><div>200-300 grama seckanog ananasa ili kivija (mogu i kajsije, breskve...)</div><div>100 grama badema</div><div>4 dl slatke pavlake ili šlaga</div></div>\n<h2>Način pripreme</h2>\n<p>Umutiti 5 belanaca sa 5 kašika šećera, 100 grama seckanih oraha, 2 kašike brašna i 2 kašike mlevenog keksa. Ispeći 4 ovakve kore u podmazanom i brašnom posutom plehu.</p>\n<p>Umutiti 20 žumanaca sa 800 grama šećera i 600 grama putera, pa kuvati na pari tako da fil postane staklast. Ohladiti, pa u to dodati još 200 grama putera (ili margarina, ako ne volite puter).</p>\n<p>Fil podeliti na dva dela: jedna polovina ostaje žuta i njome se premazuje treća i četvrta kora, kao i torta sa strane, a drugu polovinu fila podeliti na dva dela — u jedan staviti seckane višnje (ne više od 200-300 grama), a u drugi deo istu količinu seckanog ananasa ili kivija (kajsija, breskva...).</p>\n<p>Ređati koru, fil sa višnjama, koru, fil sa ananasom, treću i četvrtu koru i tortu sa strane premazati žutim filom. Popariti 100 grama badema ključalom vodom, oljuštiti i propeći u rerni, pa iseckati na listiće. Listićima posuti tortu odozgo i sa strane. Umućenom slatkom pavlakom ili šlagom ukrasiti tortu (po želji). Tortu seći na šnite debljine 2 cm.</p>\n<h2>Manje/uvećane mere <em>(dopisano rukom sa strane)</em></h2>\n<p>| sastojak | 1 kora (mala) | 3 belanceta | |---|---|---| | belanca | 1 | 3 | | šećer | 1 kašika | 3 kašike | | orasi | 20 g | 60 g | | brašno | 6 g | 18 g | | plazma | 6 g | 18 g |</p>\n<p><strong>Fil — mala mera:</strong> 1 žumance i 40 g šećera i 30 g putera ( i 10 g putera dodatno, posle hlađenja).</p>",
     "searchText": "moskva šnite (originalni recept) kuvar krstarice — 20.11.2004. — jelena žitić-filipov, beograd torta 5 belanaca 5 kašika šećera 100 grama seckanih oraha 2 kašike brašna 2 kašike mlevenog keksa (plazme) 20 žumanaca 800 grama šećera 600 grama putera 200 grama putera 200-300 grama seckanih višanja 200-300 grama seckanog ananasa ili kivija 100 grama badema 4 dl slatke pavlake ili šlaga 1 belance 1 kašika šećera 20 g oraha 6 g brašna 6 g plazme 3 belanceta 3 kašike šećera 60 g oraha 18 g brašna 18 g plazme 1 žumance 40 g šećera 30 g putera 10 g putera",
-    "image": ""
+    "image": "/recipes/187.webp"
   },
   {
     "id": "188",
@@ -5078,6 +5078,6 @@
     ],
     "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>100 g zakwasa</div><div>400 g ražanog brašna</div><div>415 ml vode</div><div>9 g soli</div><div>120 g suncokretovih semenki</div></div>\n<h2>I faza <em>(oko 13h-14h)</em></h2>\n<p>Pomešati sledeće sastojke: 100 g zakwasa u 40 ml vode 20°C i 75 g brašna — dobro promešati.</p>\n<p>Pokriti i ostaviti na toplom 8-10 h.</p>\n<h2>II faza <em>(oko 23h-24h)</em></h2>\n<p><strong>prva posuda (450 g):</strong> u 135 ml vode 30°C dodati 215 g testa i 100 g brašna.</p>\n<p><strong>druga posuda (574 g):</strong> u drugoj posudi pomešati: u 240 ml vode 40°C i 225 g brašna i 9 g soli i 100 g suncokreta — dobro promešati.</p>\n<p>Obe posude pokriti i ostaviti 6-8 h.</p>\n<h2>III faza</h2>\n<p>Obe mase pomešati — sipati do 1/2 u formu (30 x 12) puter i griz — istresti.</p>\n<p>Dobro utapkati testo, poprskati vodom i posuti sa 20 g suncokreta.</p>\n<p>Pokriti folijom i ostaviti 2-3 h.</p>\n<p>Rerna: pleh sa vodom na dnu.</p>\n<p>230°C prvih 5' — prskati vodom.</p>\n<p>Posle smanjiti na 200°C i peći još 30'-35'.</p>",
     "searchText": "ražani hleb sa suncokretom  hleb (na kvascu/zakvasci, 3 faze) 100 g zakwasa 400 g ražanog brašna 415 ml vode 9 g soli 120 g suncokretovih semenki",
-    "image": ""
+    "image": "/recipes/188.webp"
   }
 ]
