@@ -1,98 +1,61 @@
-# vinext-starter
+# Majin kuvar
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+Sajt porodične zbirke recepata iz Majine rukom pisane sveske. Izvor recepata je
+markdown repo `~/Documents/Kuvar` (`recepti/*.md` + `assets/izrazeni-akvarel/*.png`);
+ovaj repo sadrži samo sajt i generisane podatke.
 
-## Prerequisites
+Živi sajt: https://majin-kuvar-188.jovanjox600373.chatgpt.site
 
-- Node.js `>=22.13.0`
+## Struktura
 
-## Quick Start
+- `app/page.tsx` — cela aplikacija (lista, pretraga, filteri, prikaz recepta)
+- `app/layout.tsx` — meta podaci, ikonice, manifest
+- `app/globals.css` — stil
+- `app/recipes-data.json` — generisani podaci (ne uređivati ručno)
+- `public/recipes/NNN.webp` — ilustracije (800 px, generisane)
+- `public/icons/` — PWA ikonice (generisane)
+- `scripts/generate-recipes.mjs` — markdown → JSON
+- `scripts/build-images.mjs` — PNG → webp + ikonice
+
+## Komande
 
 ```bash
-npm install
-npm run dev
-npm run build
+pnpm install
+pnpm dev            # http://localhost:3000
+pnpm recipes        # regeneriši app/recipes-data.json iz ~/Documents/Kuvar/recepti
+pnpm images         # regeneriši webp ilustracije i ikonice (dodaj -- --force za sve)
+pnpm build
+pnpm test           # build + provera podataka i renderovanja
 ```
 
-This starter does not use `wrangler.jsonc`.
+Folder sa receptima se traži redom: `RECEPTI_DIR`, `../recepti`,
+`~/Documents/Kuvar/recepti`. Isto važi za ilustracije (`ILUSTRACIJE_DIR`,
+`../assets/izrazeni-akvarel`, `~/Documents/Kuvar/assets/izrazeni-akvarel`).
 
-## Included Shape
+## Kad se promeni recept u svesci
 
-- edit site code under `app/`
-- `.openai/hosting.json` declares optional Sites D1 and R2 bindings
-- `vite.config.ts` simulates declared bindings for local development
-- `db/schema.ts` starts intentionally empty
-- `examples/d1/` contains an optional D1 example surface
-- `drizzle.config.ts` supports local migration generation when needed
-
-## Workspace Auth Headers
-
-OpenAI workspace sites can read the current user's email from
-`oai-authenticated-user-email`.
-
-SIWC-authenticated workspace sites may also receive
-`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty
-`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by
-`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.
-
-Treat the full name as optional and fall back to email when it is absent:
-
-```tsx
-import { headers } from "next/headers";
-
-export default async function Home() {
-  const requestHeaders = await headers();
-  const email = requestHeaders.get("oai-authenticated-user-email");
-  const encodedFullName = requestHeaders.get("oai-authenticated-user-full-name");
-  const fullName =
-    encodedFullName &&
-    requestHeaders.get("oai-authenticated-user-full-name-encoding") ===
-      "percent-encoded-utf-8"
-      ? decodeURIComponent(encodedFullName)
-      : null;
-
-  const displayName = fullName ?? email;
-  // ...
-}
+```bash
+pnpm recipes && pnpm images && pnpm build
 ```
 
-## Optional Dispatch-Owned ChatGPT Sign-In
+Generator čita YAML zaglavlje (grupe `sastojci_*`, `varijante`, `prinos`,
+`izvor`, `napomena`, `napomena_ispravke`) i telo recepta (naslovi, pasusi,
+liste, tabele). Blokovi sa sastojcima u telu se preskaču kada zaglavlje već
+ima grupe sastojaka, da se ne dupliraju.
 
-Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs
-optional or required ChatGPT sign-in:
+## Funkcije sajta
 
-- Use `getChatGPTUser()` for optional signed-in UI.
-- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send
-  anonymous visitors through Sign in with ChatGPT.
-- Use `chatGPTSignInPath(returnTo)` and `chatGPTSignOutPath(returnTo)` for
-  browser links or actions.
-- Pass a same-origin relative `returnTo` path for the destination after sign-in
-  or sign-out. The helper validates and safely encodes it.
-- Mark protected pages with `export const dynamic = "force-dynamic"` because
-  they depend on per-request identity headers.
+- pretraga bez dijakritika po nazivu, sastojku, broju i tekstu postupka
+- kategorije sa brojem recepata, sortiranje (preporučeno / po broju / po nazivu)
+- omiljeni i nedavno gledani recepti (lokalno u pregledaču)
+- recept: grupe sastojaka sa štikliranjem, skaliranje mere (½× do 3×),
+  tabele, varijante iz sveske, Majina beleška, napomena o prepisu
+- deljenje linka (`#recept-059`), štampanje, „ekran upaljen“ dok se kuva
+- listanje sveske (prethodni / sledeći, strelice na tastaturi)
+- PWA manifest — može da se doda na početni ekran telefona
 
-Dispatch owns `/signin-with-chatgpt`, `/signout-with-chatgpt`, `/callback`, the
-OAuth cookies, and identity header injection. Do not implement app routes for
-those reserved paths. Routes that do not import and call the helper remain
-anonymous-compatible.
+## Hosting
 
-SIWC establishes identity only; it does not prove workspace membership. Use the
-Sites hosting platform's access policy controls for workspace-wide restrictions,
-or enforce explicit server-side membership or allowlist checks.
-
-Use SIWC for account pages, user-specific dashboards, saved records, and write
-actions tied to the current ChatGPT user. Leave public content anonymous.
-
-## Useful Commands
-
-- `npm run dev`: start local development
-- `npm run build`: verify the vinext build output
-- `npm test`: build the starter and verify its rendered loading skeleton
-- `npm run db:generate`: generate Drizzle migrations after schema changes
-
-## Learn More
-
-- [vinext Documentation](https://github.com/cloudflare/vinext)
-- [Drizzle D1 Guide](https://orm.drizzle.team/docs/get-started/d1-new)
+Sajt je objavljen preko ChatGPT Sites (`.openai/hosting.json`). Aplikacija je
+standardni vinext (Next.js na Vite-u) + Cloudflare Worker, pa može da se
+objavi i direktno na Cloudflare Workers uz `wrangler.jsonc`.

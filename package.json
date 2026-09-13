@@ -12,7 +12,8 @@
     "test": "vinext build && node --test tests/rendered-html.test.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "recipes": "node scripts/generate-recipes.mjs",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "images": "node scripts/build-images.mjs"
   },
   "dependencies": {
     "drizzle-orm": "0.45.2",
@@ -36,7 +37,8 @@
     "typescript": "5.9.3",
     "vinext": "0.0.50",
     "vite": "8.0.13",
-    "wrangler": "4.92.0"
+    "wrangler": "4.92.0",
+    "sharp": "0.34.5"
   },
   "type": "module",
   "packageManager": "pnpm@11.9.0"

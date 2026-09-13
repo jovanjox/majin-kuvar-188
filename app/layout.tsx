@@ -1,9 +1,24 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { headers } from "next/headers";
+import recipes from "./recipes-data.json";
 import "./globals.css";
 
-const title = "Majin kuvar — 188 porodičnih recepata";
-const description = "Porodična zbirka od 188 pažljivo prepisanih recepata — od torti i peciva do tradicionalnih slanih jela.";
+const count = recipes.length;
+const plural = (n: number, forms: [string, string, string]) => {
+  const mod10 = n % 10;
+  const mod100 = n % 100;
+  if (mod10 === 1 && mod100 !== 11) return forms[0];
+  if (mod10 >= 2 && mod10 <= 4 && !(mod100 >= 12 && mod100 <= 14)) return forms[1];
+  return forms[2];
+};
+const title = `Majin kuvar — ${count} ${plural(count, ["porodični recept", "porodična recepta", "porodičnih recepata"])}`;
+const description = `Porodična zbirka od ${count} ${plural(count, ["pažljivo prepisanog recepta", "pažljivo prepisana recepta", "pažljivo prepisanih recepata"])} — od torti i peciva do tradicionalnih slanih jela.`;
+
+export const viewport: Viewport = {
+  themeColor: "#39432f",
+  width: "device-width",
+  initialScale: 1,
+};
 
 export async function generateMetadata(): Promise<Metadata> {
   const requestHeaders = await headers();
@@ -14,13 +29,19 @@ export async function generateMetadata(): Promise<Metadata> {
   return {
     title,
     description,
-    icons: { icon: "/recipes/001.webp", shortcut: "/recipes/001.webp" },
+    manifest: "/manifest.webmanifest",
+    icons: {
+      icon: [{ url: "/favicon.svg", type: "image/svg+xml" }],
+      shortcut: "/favicon.svg",
+      apple: "/icons/apple-touch-icon.png",
+    },
+    appleWebApp: { capable: true, title: "Majin kuvar", statusBarStyle: "default" },
     openGraph: {
       title,
       description,
       type: "website",
       locale: "sr_RS",
-      images: [{ url: imageUrl, width: 1730, height: 909, alt: "Majin kuvar — 188 porodičnih recepata" }],
+      images: [{ url: imageUrl, width: 1730, height: 909, alt: title }],
     },
     twitter: { card: "summary_large_image", title, description, images: [imageUrl] },
   };
