@@ -185,13 +185,13 @@ const titleFromKey = (key) => {
 };
 
 const toIngredient = (item) => {
-  if (typeof item === "string") return { text: item, qty: null, unit: null, item: item, note: null };
+  if (typeof item === "string") return { text: cleanText(item), qty: null, unit: null, item: item, note: null };
   return {
-    text: item.linija ?? "",
+    text: cleanText(item.linija ?? ""),
     qty: typeof item.kolicina === "number" ? item.kolicina : null,
     unit: item.jedinica ?? null,
     item: item.sastojak ?? null,
-    note: item.napomena ?? null,
+    note: cleanText(item.napomena ?? "") || null,
   };
 };
 
@@ -294,6 +294,33 @@ function markdownToHtml(markdown, { dropCodeBlocks }) {
   return html.join("\n");
 }
 
+// ---------- čišćenje uredničkih napomena (nisu za sajt) ----------
+const ARCHIVAL = /nečitk|necitk|nejasn|original|dopisan|prepis|fragment|verovatno|precrtan|prekrižen|zamagljen|rukom (do)?pisan|rukopis|img_|fotograf|stranic|svesci|sveske|sveska|nalepljen|isečen|štampani|potvrđuje|potvrd|vlasnik|nedostaje|nije zapisan|nije naveden|nisu naveden|nije upisan|nije cela|hemijsk|olovkom|crvenim|plavim|plavom|zeleni okvir|vidi dole|na dnu strane|na vrhu strane|na dnu:|na vrhu:|komadu papira|ispod recepta|zaglavlje sekcije|uz naslov|uz sastojke|naslov je|naslov na vrhu|takođe pominje|glavni spisak|\[\?\]|\(\?\)/i;
+
+// Skida zagrade sa uredničkim sadržajem i rečenice koje govore o svesci, a ne o jelu.
+function cleanText(value) {
+  if (!value || typeof value !== "string") return value ?? "";
+  let text = value.replace(/\s*\[\?\]/g, "").replace(/\s*\([^()]*\)/g, (m) => (ARCHIVAL.test(m) ? "" : m));
+  const sentences = text.split(/(?<=[.!?])\s+(?=[A-ZČĆŠŽĐ0-9'"„])/);
+  text = sentences.filter((sentence) => !ARCHIVAL.test(sentence)).join(" ").trim();
+  return ARCHIVAL.test(text) ? "" : text;
+}
+
+function cleanBody(markdown) {
+  return markdown
+    .split("\n")
+    .filter((line) => !/^\s*>/.test(line))
+    .map((line) =>
+      line
+        .replace(/\s*\([^()]*\)/g, (m) => (ARCHIVAL.test(m) ? "" : m))
+        .replace(/\s*\[\?\]/g, "")
+        .replace(/\*\*\s*\*\*/g, "")
+        .replace(/\s\*+\s*$/, ""),
+    )
+    .filter((line) => /^\s*\|/.test(line) || line.trim() === "```" || !ARCHIVAL.test(line))
+    .join("\n");
+}
+
 const stripHtml = (html) => html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 
 function broadCategory(raw, id) {
@@ -335,7 +362,7 @@ const recipes = files.map((file) => {
   const [, frontMatterText, markdownBody] = match;
   const fm = parseFrontMatter(frontMatterText);
   const id = String(fm.id ?? file.slice(0, 3)).padStart(3, "0");
-  const name = fm.naziv || file.replace(/^\d{3}-|\.md$/g, "");
+  const name = cleanText(fm.naziv) || file.replace(/^\d{3}-|\.md$/g, "");
   const category = fm.kategorija || "";
 
   const groupKeys = Object.keys(fm).filter((key) => key === "sastojci" || key.startsWith("sastojci_"));
@@ -343,7 +370,7 @@ const recipes = files.map((file) => {
   const bodyHeadings = [...markdownBody.matchAll(/^##\s+(.+)\n+```/gm)].map((m) => m[1].replace(/\*/g, "").trim());
   const ingredientGroups = groupKeys
     .map((key, index) => ({
-      title: bodyHeadings.length === groupKeys.length ? bodyHeadings[index] : titleFromKey(key),
+      title: cleanText(bodyHeadings.length === groupKeys.length ? bodyHeadings[index] : titleFromKey(key)),
       items: (fm[key] || []).map(toIngredient),
     }))
     .filter((group) => group.items.length);
@@ -354,13 +381,13 @@ const recipes = files.map((file) => {
     ? fm.varijante
         .filter((variant) => variant && typeof variant === "object")
         .map((variant) => ({
-          title: variant.naziv || "Varijanta",
-          note: variant.napomena || null,
+          title: cleanText(variant.naziv) || "Varijanta",
+          note: cleanText(variant.napomena) || null,
           items: (variant.sastojci || []).map(toIngredient),
         }))
     : [];
 
-  const cleanedBody = markdownBody
+  const cleanedBody = cleanBody(markdownBody)
     .replace(/^#\s+.*$/m, "")
     .replace(/^\*[^\n]+\*\s*$/m, "")
     .trim();
@@ -372,7 +399,7 @@ const recipes = files.map((file) => {
   const image = fs.existsSync(path.join(imageDir, `${id}.webp`)) ? `/recipes/${id}.webp` : "";
   if (!image) warnings.push(`${file}: nema slike public/recipes/${id}.webp`);
 
-  const subtitle = fm.podnaslov || "";
+  const subtitle = cleanText(fm.podnaslov);
   return {
     id,
     slug,
@@ -384,10 +411,8 @@ const recipes = files.map((file) => {
     time: fm.vreme_pecenja || fm.vreme || "",
     yield: fm.prinos || "",
     source: fm.izvor || "",
-    note: fm.napomena || "",
-    correctionNote: fm.napomena_ispravke || "",
+    note: cleanText(fm.napomena),
     status: fm.status || "",
-    hasQuestion: Number(fm.nejasno || 0) > 0,
     ingredientGroups,
     variants,
     bodyHtml,

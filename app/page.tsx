@@ -18,9 +18,7 @@ type Recipe = {
   yield: string;
   source: string;
   note: string;
-  correctionNote: string;
   status: string;
-  hasQuestion: boolean;
   ingredientGroups: IngredientGroup[];
   variants: Variant[];
   bodyHtml: string;
@@ -541,17 +539,10 @@ function RecipeView({
             {recipe.bodyHtml ? (
               <div className="recipe-prose" dangerouslySetInnerHTML={{ __html: recipe.bodyHtml }} />
             ) : (
-              <p className="muted">U svesci su zapisani samo sastojci — postupak nije naveden.</p>
+              <p className="muted">Zapisani su samo sastojci.</p>
             )}
           </section>
         </div>
-
-        {(recipe.correctionNote || recipe.hasQuestion) && (
-          <aside className="transcription-note">
-            {recipe.correctionNote && <p><b>Napomena o prepisu:</b> {recipe.correctionNote}</p>}
-            {recipe.hasQuestion && <p>Ovaj recept sadrži belešku označenu za proveru prema originalnoj svesci.</p>}
-          </aside>
-        )}
 
         <nav className="sheet-nav" aria-label="Listaj svesku">
           {previous ? (
