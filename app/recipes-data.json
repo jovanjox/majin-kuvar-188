@@ -4618,7 +4618,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Testo</h2>\n<p>Sa žicom mešati 5', da naraste, pa sipati u činiji u kojoj je izmešano:</p>\n<p>Mesiti testo 10'.</p>\n<p>Malo pomastiti činiju, staviti testo, prekriti providnom folijom i ostaviti 1 h, dok se zapremina ne utrostruči.</p>\n<p>Istresti testo na radnu ploču i — <strong>ne dodavati brašno</strong> — oblikovati i staviti u providnu foliju i 30' u frižider, pa onda drugu stranu 30'.</p>\n<h2>List putera</h2>\n<p>puter 250 g → od papira napraviti kvadrat 20 x 20 cm, 2 lista putera, formirati oklagijom.</p>\n<p>Pre stavljanja na testo, ostaviti 45' na sobnoj temperaturi.</p>\n<h2>Laminacija (presavijanje testa)</h2>\n<p>Razviti koru: kvadrat sa oznakama <strong>20</strong> (gore) i <strong>40</strong> (sa strane), puter u sredini, preklopiti na pola.</p>\n<p>Okrenuti (oznaka „knjiga“) i polako oklagijom razviti traku <strong>72 x 20</strong>, presaviti na trećinu, a zatim još jednom na pola <em>(jednostruko/dvostruko presavijanje — dijagram)</em>.</p>\n<p>U providnu foliju, 30' u frižideru.</p>\n<p><strong>ako se tog dana prave</strong> → <strong>dvostruko presavijanje</strong> (presaviti na trećinu, pa još na trećinu).</p>\n<p><strong>A ako ne</strong> — preko noći pa ujutru → <strong>jednostruko presavijanje</strong>.</p>\n<p>Razviti traku <strong>85 x 18</strong>, okrenuti (knjiga), premotati na trećinu, okrenuti 2. Ostaviti u frižideru 1 h.</p>\n<p>Sutradan razviti testo debljine <strong>3 mm</strong>, dužine <strong>90-100 cm</strong>, širine <strong>20 cm</strong>.</p>\n<p>Razrezati trouglove: na dnu obeležiti tačke na <strong>5,5 — 10,5 — 10,5 — 10,5 ...</strong> cm, seći dijagonalno u trouglove <em>(zig-zag dijagram)</em>.</p>\n<p>Zaseći 1,5 cm na osnovi trougla i zarolati od široke strane ka vrhu.</p>\n<h2>Završna faza</h2>\n<p>Odmah premazati <strong>premaz od jajeta</strong>: 1 celo jaje i 1 mala kašika vode.</p>\n<p>Ostaviti 2 h da naraste, pa ponovo premazati jajetom.</p>\n<p>Zagrejati rernu na <strong>200°C</strong>.</p>\n<p>Pleh obložiti papirom za pečenje i staviti na I stepenik odozdo.</p>\n<p>Peći na <strong>200°C — 10'</strong>, pa <strong>190°C-180°C — 12'</strong>.</p>",
+    "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>30 g svežeg kvasca (14 g suvo) i 10 g šećer i 250 ml mlake vode</div></div>\n<p>Sa žicom mešati 5', da naraste, pa sipati u činiji u kojoj je izmešano:</p>\n<p>Mesiti testo 10'.</p>\n<p>Malo pomastiti činiju, staviti testo, prekriti providnom folijom i ostaviti 1 h, dok se zapremina ne utrostruči.</p>\n<p>Istresti testo na radnu ploču i — <strong>ne dodavati brašno</strong> — oblikovati i staviti u providnu foliju i 30' u frižider, pa onda drugu stranu 30'.</p>\n<h2>List putera</h2>\n<p>puter 250 g → od papira napraviti kvadrat 20 x 20 cm, 2 lista putera, formirati oklagijom.</p>\n<p>Pre stavljanja na testo, ostaviti 45' na sobnoj temperaturi.</p>\n<h2>Laminacija (presavijanje testa)</h2>\n<p>Razviti koru: kvadrat sa oznakama <strong>20</strong> (gore) i <strong>40</strong> (sa strane), puter u sredini, preklopiti na pola.</p>\n<p>Okrenuti (oznaka „knjiga“) i polako oklagijom razviti traku <strong>72 x 20</strong>, presaviti na trećinu, a zatim još jednom na pola <em>(jednostruko/dvostruko presavijanje — dijagram)</em>.</p>\n<p>U providnu foliju, 30' u frižideru.</p>\n<p><strong>ako se tog dana prave</strong> → <strong>dvostruko presavijanje</strong> (presaviti na trećinu, pa još na trećinu).</p>\n<p><strong>A ako ne</strong> — preko noći pa ujutru → <strong>jednostruko presavijanje</strong>.</p>\n<p>Razviti traku <strong>85 x 18</strong>, okrenuti (knjiga), premotati na trećinu, okrenuti 2. Ostaviti u frižideru 1 h.</p>\n<p>Sutradan razviti testo debljine <strong>3 mm</strong>, dužine <strong>90-100 cm</strong>, širine <strong>20 cm</strong>.</p>\n<p>Razrezati trouglove: na dnu obeležiti tačke na <strong>5,5 — 10,5 — 10,5 — 10,5 ...</strong> cm, seći dijagonalno u trouglove <em>(zig-zag dijagram)</em>.</p>\n<p>Zaseći 1,5 cm na osnovi trougla i zarolati od široke strane ka vrhu.</p>\n<h2>Završna faza</h2>\n<p>Odmah premazati <strong>premaz od jajeta</strong>: 1 celo jaje i 1 mala kašika vode.</p>\n<p>Ostaviti 2 h da naraste, pa ponovo premazati jajetom.</p>\n<p>Zagrejati rernu na <strong>200°C</strong>.</p>\n<p>Pleh obložiti papirom za pečenje i staviti na I stepenik odozdo.</p>\n<p>Peći na <strong>200°C — 10'</strong>, pa <strong>190°C-180°C — 12'</strong>.</p>",
     "image": "/recipes/053.webp"
   },
   {
@@ -7824,12 +7824,12 @@
             "qty": null,
             "unit": "ml",
             "item": "mleko",
-            "note": "broj nije potpuno čitljiv"
+            "note": null
           }
         ]
       }
     ],
-    "bodyHtml": "<p>**</p>\n<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 20 g šećera, 60 ml mleka i 60 g brašna od ukupne količine. Ostaviti smesu da naraste.</p>\n<p>I sipati u: 340 g brašna i malo soli i 2 žumanceta i 100 ml mleka i 40 g šećera i 30 g putera rastopljenog.</p>\n<p>Dobro umesiti. Pokriti da se udvostruči.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<h2>Varijanta &quot;Orasi — Branka&quot;</h2>\n<p>fil:</p>\n<p>Kora: 28 x 24, debljine 5mm. Rerna: 180°C — 30'. Pleh — II stepenik.</p>",
+    "bodyHtml": "<p>**</p>\n<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 20 g šećera, 60 ml mleka i 60 g brašna od ukupne količine. Ostaviti smesu da naraste.</p>\n<p>I sipati u: 340 g brašna i malo soli i 2 žumanceta i 100 ml mleka i 40 g šećera i 30 g putera rastopljenog.</p>\n<p>Dobro umesiti. Pokriti da se udvostruči.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<h2>Varijanta &quot;Orasi — Branka&quot;</h2>\n<p>fil:</p>\n<div class=\"notebook-lines\"><div>500 g maka samlevenog i vruće mleko (oko 400 ml)</div><div>5 min na ringli</div><div>30 g otopljenog putera</div><div>4 velike kašike meda</div><div>4 velike kašike šećera u prahu</div><div>4   belance — šne</div><div>60 g oraha</div><div>60 g badema</div><div>60 g suvog grožđa</div><div>60   orancina</div><div>ekstrakt badema</div><div>20 ml amaretta</div></div>\n<p>Kora: 28 x 24, debljine 5mm. Rerna: 180°C — 30'. Pleh — II stepenik.</p>",
     "image": "/recipes/084.webp"
   },
   {
@@ -7998,7 +7998,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 10 g kvasca, 10 g šećera, 50 ml mleka, 50 g brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti: 125 g putera i 40 g šećera i 3 žumanceta.</p>\n<p>Dodati: kvasac i brašno i mleko i prstohvat soli.</p>\n<p>Zamesiti testo, pokriti i ostaviti 60'.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Mak — 500 g</h2>\n<p>Suvo grožđe potopiti u Amaretto/Cointreau.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Fil mak. Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<p>**</p>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 1 mala kašika šećera, malo mleka, 1 mala kašika brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti 100 g putera, 50 g šećera, vanilin šećer i 3 žumanceta, pa dodati kvasac, brašno i mleko. Ostaviti da naraste.</p>\n<p><strong>Napomene o umotavanju:</strong> papir dužine oko 40 cm. Poklopiti (uviti) štrudlu, ali odizgo oko štrudle. Papir preklopiti 1 cm. 15 min [odmor pre pečenja]. Peći: 180°C — 30'.</p>\n<p><strong>lukri (glazura):</strong></p>\n<p>Dimenzije kore: 28 x 24.</p>",
+    "bodyHtml": "<h3>Priprema testa</h3>\n<p>Pomešati sledeće sastojke: 10 g kvasca, 10 g šećera, 50 ml mleka, 50 g brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti: 125 g putera i 40 g šećera i 3 žumanceta.</p>\n<p>Dodati: kvasac i brašno i mleko i prstohvat soli.</p>\n<p>Zamesiti testo, pokriti i ostaviti 60'.</p>\n<p>Testo: na 2. Razviti koru 28 x 24 cm, debljine 4 mm.</p>\n<h2>Mak — 500 g</h2>\n<p>Suvo grožđe potopiti u Amaretto/Cointreau.</p>\n<h2>Sastavljanje i pečenje</h2>\n<p>Fil mak. Umotati u pek papir (40 cm), ostaviti 1 cm lufta.</p>\n<p>Rerna: 180°C — 30'. Pleh — III stepenik.</p>\n<p>**</p>\n<div class=\"notebook-lines\"><div>500 g maka</div><div>200 g mleka kipućeg    } kada se ohladi</div><div>30 g rastopljenog putera</div><div>4 velike kašike meda</div><div>4 velike kašike šećera U prahu</div><div>2 (3) belanceta — šne</div><div>suvo grožđe i 20 ml amaretta</div><div>badem (krupno)</div><div>orah (krupno)</div><div>orancini</div><div>1 mala kašika ekstrakta badema</div></div>\n<div class=\"notebook-lines\"><div>500 g brašna</div><div>20 g  kvasca</div><div>250 ml mleka</div><div>100 g putera</div><div>50 g šećera</div><div>3    žumanceta</div><div>1    vanilin, kora limuna, prstohvat soli</div></div>\n<p>Pomešati sledeće sastojke: 20 g kvasca, 1 mala kašika šećera, malo mleka, 1 mala kašika brašna. Ostaviti smesu da naraste.</p>\n<p>Umutiti 100 g putera, 50 g šećera, vanilin šećer i 3 žumanceta, pa dodati kvasac, brašno i mleko. Ostaviti da naraste.</p>\n<p><strong>Napomene o umotavanju:</strong> papir dužine oko 40 cm. Poklopiti (uviti) štrudlu, ali odizgo oko štrudle. Papir preklopiti 1 cm. 15 min [odmor pre pečenja]. Peći: 180°C — 30'.</p>\n<p><strong>lukri (glazura):</strong></p>\n<div class=\"notebook-lines\"><div>1 velika kašika hladne vode</div><div>1 velika kašika limuna</div><div>prah šećer</div></div>\n<p>Dimenzije kore: 28 x 24.</p>",
     "image": "/recipes/085.webp"
   },
   {
@@ -12262,7 +12262,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Testo</h2>\n<p>Posebno umutiti: 2 jaja i 2 žumanca.</p>\n<p>To dodati puteru, izmešati i dodati 250 g brašna oštro.</p>\n<h2>Oblikovanje</h2>\n<p>Od tog testa napraviti dugačke kobasice, koje treba naseći na komadiće 1-1,5 cm.</p>\n<p>Kuvati ih u slanoj vodi 5'.</p>\n<h2>Zapekanje</h2>\n<p>Pomešati 50 g otopljenog putera, 50 g parmezana i 50 g grojera.</p>\n<p>Pomešati i zapeći.</p>",
+    "bodyHtml": "<h2>Testo</h2>\n<div class=\"notebook-lines\"><div>250 g putera → umutiti kao krem, pa dodati so, biber, muškatni oraščić</div></div>\n<p>Posebno umutiti: 2 jaja i 2 žumanca.</p>\n<p>To dodati puteru, izmešati i dodati 250 g brašna oštro.</p>\n<h2>Oblikovanje</h2>\n<p>Od tog testa napraviti dugačke kobasice, koje treba naseći na komadiće 1-1,5 cm.</p>\n<p>Kuvati ih u slanoj vodi 5'.</p>\n<h2>Zapekanje</h2>\n<p>Pomešati 50 g otopljenog putera, 50 g parmezana i 50 g grojera.</p>\n<p>Pomešati i zapeći.</p>",
     "image": "/recipes/137.webp"
   },
   {
@@ -12390,7 +12390,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Sastavljanje</h2>\n<p>Pleh: papir.</p>\n<p><strong>fil:</strong> mocarela, ili 250 g šunke i 2 velike kašike pavlake.</p>",
+    "bodyHtml": "<h2>Bešamel</h2>\n<div class=\"notebook-lines\"><div>60 g brašna i 60 g putera i 1/2 l mleka</div><div>↓</div><div>bešamel — ohladiti i dodati: 4 žumanca</div></div>\n<h2>Sastavljanje</h2>\n<p>Pleh: papir.</p>\n<p><strong>fil:</strong> mocarela, ili 250 g šunke i 2 velike kašike pavlake.</p>",
     "image": "/recipes/139.webp"
   },
   {
@@ -12468,7 +12468,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Sastojci</h2>\n<p>Ohladiti i dodavati 1 po 1 žumance (6 kom).</p>\n<p>Posoliti i šne — ručno pomešati.</p>\n<h2>Priprema</h2>\n<p>Pleh: papir. 200°C.</p>\n<p>Izručiti na mokru krpu.</p>\n<p><strong>fil:</strong> kisela pavlaka i 200 g šunke.</p>",
+    "bodyHtml": "<h2>Sastojci</h2>\n<div class=\"notebook-lines\"><div>120 g putera → rastopiti i dodati</div><div>120 g brašna — pa to malo propržiti, dodati</div><div>1/2 l mleka → mutiti dok se ne zgusne</div></div>\n<p>Ohladiti i dodavati 1 po 1 žumance (6 kom).</p>\n<p>Posoliti i šne — ručno pomešati.</p>\n<h2>Priprema</h2>\n<p>Pleh: papir. 200°C.</p>\n<p>Izručiti na mokru krpu.</p>\n<p><strong>fil:</strong> kisela pavlaka i 200 g šunke.</p>",
     "image": "/recipes/140.webp"
   },
   {
@@ -12701,7 +12701,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "",
+    "bodyHtml": "<h2>Rastvor</h2>\n<div class=\"notebook-lines\"><div>3 l vode i 150 g soli     (za 5 kg krastavaca)</div><div>1 l vode i 50 g soli</div><div>alternativni rastvor:</div><div>1 l kipuće vode i 2 ravne velike kašike soli</div></div>",
     "image": "/recipes/142.webp"
   },
   {
@@ -12753,7 +12753,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Rastvor</h2>\n<p>1 l vode i 1 velika kašika soli → prokuvati, kada se ohladi i 2 velike kašike esencije.</p>\n<h2>Priprema</h2>\n<p>Paprike očistiti, preliti kipućom vodom i ostaviti da stoje 10'-15'.</p>\n<p>Kupus iseckati, posoliti i ostaviti 20'.</p>\n<p>Ocediti i dodati biber.</p>\n<p>Paprike ocediti, puniti kupusom i naslagati u teglu. Strugati koren rena.</p>\n<p>Naliti presolac.</p>\n<p>Na kraju sipati ulje 2 cm.</p>\n<p>Povezati papirom, a posle zatvoriti.</p>\n<h2>Napomene</h2>\n<ul><li>Cediti sa presom za pire.</li><li>Ne puniti paprike do vrha tegle!!</li><li>3 velike tegle (5 l) = 6 kg paprika i 14 kg kupusa.</li></ul>",
+    "bodyHtml": "<h2>Rastvor</h2>\n<div class=\"notebook-lines\"><div>1 l vode i 1 velika kašika soli (30g) i 2 velike kašike esencije (1 velika kašika = 15 g)</div></div>\n<p>1 l vode i 1 velika kašika soli → prokuvati, kada se ohladi i 2 velike kašike esencije.</p>\n<h2>Priprema</h2>\n<p>Paprike očistiti, preliti kipućom vodom i ostaviti da stoje 10'-15'.</p>\n<p>Kupus iseckati, posoliti i ostaviti 20'.</p>\n<p>Ocediti i dodati biber.</p>\n<p>Paprike ocediti, puniti kupusom i naslagati u teglu. Strugati koren rena.</p>\n<p>Naliti presolac.</p>\n<p>Na kraju sipati ulje 2 cm.</p>\n<p>Povezati papirom, a posle zatvoriti.</p>\n<h2>Napomene</h2>\n<ul><li>Cediti sa presom za pire.</li><li>Ne puniti paprike do vrha tegle!!</li><li>3 velike tegle (5 l) = 6 kg paprika i 14 kg kupusa.</li></ul>",
     "image": "/recipes/143.webp"
   },
   {
@@ -13142,7 +13142,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "",
+    "bodyHtml": "<h2>Slaganje</h2>\n<div class=\"notebook-lines\"><div>las</div><div>bolognese</div><div>las</div><div>parmezan</div><div>beš</div></div>",
     "image": "/recipes/148.webp"
   },
   {
@@ -13267,7 +13267,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Priprema</h2>\n<p>Propržiti sledeće sastojke: Crni luk, kockice slanine, beli luk.</p>\n<p>Dodati: meso i aleva paprika i so i biber.</p>\n<p><strong>ribanac — dinstati</strong> (na 2 dl vode, posuti alevom paprikom, malo peći, a onda zaliti sa 1 jaje i pavlaka i malo mleka).</p>",
+    "bodyHtml": "<h2>Priprema</h2>\n<p>Propržiti sledeće sastojke: Crni luk, kockice slanine, beli luk.</p>\n<p>Dodati: meso i aleva paprika i so i biber.</p>\n<p><strong>ribanac — dinstati</strong> (na 2 dl vode, posuti alevom paprikom, malo peći, a onda zaliti sa 1 jaje i pavlaka i malo mleka).</p>\n<h2>Slaganje</h2>\n<div class=\"notebook-lines\"><div>red ribanca</div><div>meso</div></div>",
     "image": "/recipes/150.webp"
   },
   {
@@ -13395,7 +13395,7 @@
         ]
       }
     ],
-    "bodyHtml": "<h2>Priprema</h2>\n<p>Na ulju malo propržiti meso i dodati:</p>\n<p>Izmešati i staviti fil u listove kupusa (od srednje glavice).</p>\n<p><strong>Red sarmi</strong> — red suvog mesa — aleva paprika — sarma...</p>\n<p>Na vrhu pokriti listovima. Naliti vodom i kuvati na blagoj temperaturi.</p>\n<h2>Napomena</h2>\n<p>Crna tučana šerpa: u 2 reda, 150°C — 4 1/2 h.</p>\n<p><strong>amc velika:</strong> 650 g mesa, 2 kg listova.</p>\n<p><strong>4,0 kg kupusa</strong> → 800 g mesa.</p>",
+    "bodyHtml": "<h2>Priprema</h2>\n<p>Na ulju malo propržiti meso i dodati:</p>\n<div class=\"notebook-lines\"><div>crni luk</div><div>beli luk</div><div>vegeta</div><div>biber</div><div>aleva paprika</div><div>1 jaje</div><div>1 šoljicu pirinča</div></div>\n<p>Izmešati i staviti fil u listove kupusa (od srednje glavice).</p>\n<p><strong>Red sarmi</strong> — red suvog mesa — aleva paprika — sarma...</p>\n<p>Na vrhu pokriti listovima. Naliti vodom i kuvati na blagoj temperaturi.</p>\n<h2>Napomena</h2>\n<p>Crna tučana šerpa: u 2 reda, 150°C — 4 1/2 h.</p>\n<p><strong>amc velika:</strong> 650 g mesa, 2 kg listova.</p>\n<p><strong>4,0 kg kupusa</strong> → 800 g mesa.</p>",
     "image": "/recipes/151.webp"
   },
   {
@@ -13489,7 +13489,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Priprema</h2>\n<p>4 nogice dobro očistiti. Staviti u hladnu vodu da odleže.</p>\n<p>Dodati kolenicu i sve zajedno kuvati na blagoj temperaturi, skidajući penu.</p>\n<p>Dodati začine i šargarepu.</p>\n<p>Kuvati 4-5 sati.</p>\n<p>Procediti, očistiti meso.</p>\n<p>Slagati u tacne — podeliti na dno sa kolutovima šargarepe, poredati meso.</p>\n<p>U proceđenu supu iscediti 2-3 čena belog luka i polako sipati.</p>\n<h2>Ruska salata</h2>\n<p>**</p>",
+    "bodyHtml": "<h2>Priprema</h2>\n<p>4 nogice dobro očistiti. Staviti u hladnu vodu da odleže.</p>\n<p>Dodati kolenicu i sve zajedno kuvati na blagoj temperaturi, skidajući penu.</p>\n<p>Dodati začine i šargarepu.</p>\n<p>Kuvati 4-5 sati.</p>\n<p>Procediti, očistiti meso.</p>\n<p>Slagati u tacne — podeliti na dno sa kolutovima šargarepe, poredati meso.</p>\n<p>U proceđenu supu iscediti 2-3 čena belog luka i polako sipati.</p>\n<h2>Ruska salata</h2>\n<div class=\"notebook-lines\"><div>1 kg šunke</div><div>1   tegla krastavaca</div><div>10  krompira</div><div>7   šargarepa</div><div>6   jaja</div></div>\n<p>**</p>",
     "image": "/recipes/152.webp"
   },
   {
@@ -14742,7 +14742,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Priprema</h2>\n<p>Na kašici putera i malo maslinovog ulja propržiti luk.</p>\n<p>Dodati pirinač i zalivati sa bujonom.</p>\n<p>Pečurke na puteru prodinstati.</p>\n<p>Pomešati sa pirinčem, dodati sok od 2 čena belog luka, bibera, 2-3 kapi tartuf ulja, nariban tartuf, sitno iseckati peršun i sve dobro promešati.</p>\n<p>Posuti parmezanom.</p>\n<h2>Pilav</h2>\n<p>Rerna 220°C, u hladnu, 15'-30'.</p>",
+    "bodyHtml": "<h2>Priprema</h2>\n<p>Na kašici putera i malo maslinovog ulja propržiti luk.</p>\n<p>Dodati pirinač i zalivati sa bujonom.</p>\n<p>Pečurke na puteru prodinstati.</p>\n<p>Pomešati sa pirinčem, dodati sok od 2 čena belog luka, bibera, 2-3 kapi tartuf ulja, nariban tartuf, sitno iseckati peršun i sve dobro promešati.</p>\n<p>Posuti parmezanom.</p>\n<h2>Pilav</h2>\n<div class=\"notebook-lines\"><div>250 g kočanskog pirinča (odnos pirinča i tečnosti 1:6)</div><div>1,5 l vode (supa)</div></div>\n<p>Rerna 220°C, u hladnu, 15'-30'.</p>",
     "image": "/recipes/168.webp"
   },
   {
@@ -14888,7 +14888,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Priprema komponenti</h2>\n<p><strong>krompir:</strong> na kolutiće → pola obariti.</p>\n<p><strong>patlidžan:</strong> na kolutiće, uvaljati u brašno i propržiti.</p>\n<p><strong>meso mleveno:</strong> maslinovo ulje i crni luk i beli luk i crvena paprika!</p>\n<p>Dinstati, na kraju dodati 1 jaje i peršun.</p>\n<h2>Slaganje (od dna ka vrhu)</h2>\n<p>Završiti patlidžanom.</p>\n<p>Peći: 180°C.</p>\n<p>Pred kraj zaliti: 1 jaje i 1 velika kašika pavlake i 1 velika kašika brašna i mleko.</p>\n<p>Posuti fetom i peršunom.</p>",
+    "bodyHtml": "<h2>Priprema komponenti</h2>\n<p><strong>krompir:</strong> na kolutiće → pola obariti.</p>\n<p><strong>patlidžan:</strong> na kolutiće, uvaljati u brašno i propržiti.</p>\n<p><strong>meso mleveno:</strong> maslinovo ulje i crni luk i beli luk i crvena paprika!</p>\n<p>Dinstati, na kraju dodati 1 jaje i peršun.</p>\n<h2>Slaganje (od dna ka vrhu)</h2>\n<div class=\"notebook-lines\"><div>red krompira (pokriti kompletno dno pleha)</div><div>red patlidžana</div><div>meso</div><div>krompir ...</div></div>\n<p>Završiti patlidžanom.</p>\n<p>Peći: 180°C.</p>\n<p>Pred kraj zaliti: 1 jaje i 1 velika kašika pavlake i 1 velika kašika brašna i mleko.</p>\n<p>Posuti fetom i peršunom.</p>",
     "image": "/recipes/169.webp"
   },
   {
@@ -15086,7 +15086,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h2>Priprema</h2>\n<p>Brašno i so → pomešati, napraviti rupu i u nju staviti 3 jaja.</p>\n<p>Izraditi testo 10'.</p>\n<p>Ostaviti 30' do 60'.</p>\n<p>12 kora, debljine oko 0,5 mm.</p>",
+    "bodyHtml": "<h2>Priprema</h2>\n<p>Brašno i so → pomešati, napraviti rupu i u nju staviti 3 jaja.</p>\n<p>Izraditi testo 10'.</p>\n<p>Ostaviti 30' do 60'.</p>\n<p>12 kora, debljine oko 0,5 mm.</p>\n<h2>Redosled slaganja <em>(skica)</em></h2>\n<div class=\"notebook-lines\"><div>parmezan</div><div>bešamel</div><div>bolognese ragù</div><div>bešamel</div><div>puter</div></div>",
     "image": "/recipes/172.webp"
   },
   {
@@ -15934,7 +15934,7 @@
       }
     ],
     "variants": [],
-    "bodyHtml": "<h3>Priprema</h3>\n<p>Tiganj: maslinovo ulje zagrejati i panceta (izvaditi na tanjir).</p>\n<p>secko: crni luk i beli luk i šargarepa i celer i dinstati na blagoj vatri uz dolivanje vode, pa dodati pancetu.</p>\n<p>Dodati meso i 30' dinstati (dodavati vodu).</p>\n<p>Posoliti, pobiberiti, muskatni oraščić.</p>\n<p>Dodati paradajz, pojačati temperaturu, na kraju sipati 1 dl vina i kuvati dok ne ispari.</p>\n<h2>Bešamel</h2>\n<div class=\"table-wrap\"><table><thead><tr><th></th><th>manja mera</th><th>veća mera</th></tr></thead><tbody><tr><td>puter</td><td>50 g</td><td>75</td></tr><tr><td>brašno</td><td>50 g</td><td>56</td></tr><tr><td>mleko</td><td>1 l</td><td>1,5 l</td></tr></tbody></table></div>\n<p>So, biber, muskatni oraščić.</p>\n<h2>Parmezan</h2>\n<ul><li>Napomena uz meru nije čitka: 500 g</li><li>Veća/deblja mera: 600 g</li></ul>",
+    "bodyHtml": "<h3>Priprema</h3>\n<p>Tiganj: maslinovo ulje zagrejati i panceta (izvaditi na tanjir).</p>\n<p>secko: crni luk i beli luk i šargarepa i celer i dinstati na blagoj vatri uz dolivanje vode, pa dodati pancetu.</p>\n<p>Dodati meso i 30' dinstati (dodavati vodu).</p>\n<p>Posoliti, pobiberiti, muskatni oraščić.</p>\n<p>Dodati paradajz, pojačati temperaturu, na kraju sipati 1 dl vina i kuvati dok ne ispari.</p>\n<h2>Bešamel</h2>\n<div class=\"table-wrap\"><table><thead><tr><th></th><th>manja mera</th><th>veća mera</th></tr></thead><tbody><tr><td>puter</td><td>50 g</td><td>75</td></tr><tr><td>brašno</td><td>50 g</td><td>56</td></tr><tr><td>mleko</td><td>1 l</td><td>1,5 l</td></tr></tbody></table></div>\n<p>So, biber, muskatni oraščić.</p>\n<h2>Slaganje</h2>\n<div class=\"notebook-lines\"><div>parmezan (kraj)</div><div>bešamel</div><div>meso</div><div>lasagne</div><div>parmezan</div><div>bešamel</div><div>meso</div><div>lasagne</div><div>bešamel</div></div>",
     "image": "/recipes/181.webp"
   },
   {

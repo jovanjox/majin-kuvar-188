@@ -196,7 +196,25 @@ const toIngredient = (item) => {
 };
 
 // ---------- markdown -> html ----------
-function markdownToHtml(markdown, { dropCodeBlocks }) {
+const normLine = (line) => line.toLocaleLowerCase("sr").replace(/\s+/g, " ").trim();
+
+function markdownToHtml(markdown, { ingredientLines }) {
+  // Blok iz sveske se preskače samo ako ponavlja sastojke iz zaglavlja; redosled slaganja i slično ostaje.
+  const tokens = (line) => new Set(normLine(line).replace(/[^\p{L}\p{N} ]/gu, " ").split(" ").filter((t) => t.length > 1));
+  const ingredientTokens = [...ingredientLines].map(tokens);
+  const similar = (row) => {
+    const a = tokens(row);
+    if (!a.size) return false;
+    return ingredientTokens.some((b) => {
+      const shared = [...a].filter((t) => b.has(t)).length;
+      return shared / (a.size + b.size - shared) >= 0.5;
+    });
+  };
+  const isIngredientBlock = (rows) => {
+    if (!ingredientLines.size) return false;
+    const hits = rows.filter((row) => ingredientLines.has(normLine(row)) || similar(row)).length;
+    return hits / rows.length >= 0.5;
+  };
   const lines = markdown.replace(/\r/g, "").split("\n");
   const html = [];
   let paragraph = [];
@@ -227,7 +245,7 @@ function markdownToHtml(markdown, { dropCodeBlocks }) {
   const flushCode = () => {
     const rows = code.filter((line) => line.trim());
     code = [];
-    if (!rows.length || dropCodeBlocks) return;
+    if (!rows.length || isIngredientBlock(rows)) return;
     emitHeading();
     html.push(`<div class="notebook-lines">${rows.map((line) => `<div>${inlineMarkdown(line.trim())}</div>`).join("")}</div>`);
   };
@@ -295,7 +313,7 @@ function markdownToHtml(markdown, { dropCodeBlocks }) {
 }
 
 // ---------- čišćenje uredničkih napomena (nisu za sajt) ----------
-const ARCHIVAL = /nečitk|necitk|nejasn|original|dopisan|prepis|fragment|verovatno|precrtan|prekrižen|zamagljen|rukom (do)?pisan|rukopis|img_|fotograf|stranic|svesci|sveske|sveska|nalepljen|isečen|štampani|potvrđuje|potvrd|vlasnik|nedostaje|nije zapisan|nije naveden|nisu naveden|nije upisan|nije cela|hemijsk|olovkom|crvenim|plavim|plavom|zeleni okvir|vidi dole|na dnu strane|na vrhu strane|na dnu:|na vrhu:|komadu papira|ispod recepta|zaglavlje sekcije|uz naslov|uz sastojke|naslov je|naslov na vrhu|takođe pominje|glavni spisak|\[\?\]|\(\?\)/i;
+const ARCHIVAL = /nečitk|necitk|nejasn|original|dopisan|prepis|fragment|verovatno|precrtan|prekrižen|zamagljen|rukom (do)?pisan|rukopis|img_|fotograf|stranic|svesci|sveske|sveska|nalepljen|isečen|štampani|potvrđuje|potvrd|vlasnik|nedostaje|nije zapisan|nije naveden|nisu naveden|nije upisan|nije cela|hemijsk|olovkom|crvenim|plavim|plavom|zeleni okvir|vidi dole|na dnu strane|na vrhu strane|na dnu:|na vrhu:|komadu papira|ispod recepta|zaglavlje sekcije|uz naslov|uz sastojke|naslov je|čitka|čitljiv|nalepnic|naslov na vrhu|takođe pominje|glavni spisak|\[\?\]|\(\?\)/i;
 
 // Skida zagrade sa uredničkim sadržajem i rečenice koje govore o svesci, a ne o jelu.
 function cleanText(value) {
@@ -306,9 +324,35 @@ function cleanText(value) {
   return ARCHIVAL.test(text) ? "" : text;
 }
 
-function cleanBody(markdown) {
-  return markdown
-    .split("\n")
+// Sekcije koje samo ponavljaju spisak sastojaka (naslov = naslov grupe, sadržaj samo lista) ne trebaju u postupku.
+function dropIngredientSections(lines, groupTitles) {
+  const titles = new Set(groupTitles.map((title) => title.toLocaleLowerCase("sr")));
+  const out = [];
+  let i = 0;
+  while (i < lines.length) {
+    const heading = lines[i].match(/^##\s+(.+)$/);
+    if (heading) {
+      let j = i + 1;
+      while (j < lines.length && !/^##\s/.test(lines[j])) j += 1;
+      const body = lines.slice(i + 1, j).filter((line) => line.trim());
+      const onlyList = body.length > 0 && body.every((line) => /^\s*[-*]\s/.test(line) || line.trim() === "```" || /^\s{2,}/.test(line));
+      const title = heading[1].replace(/\*/g, "").trim().toLocaleLowerCase("sr");
+      if (titles.has(title) && onlyList) {
+        droppedSections.push(`${currentFile}: ## ${heading[1]}`);
+        i = j;
+        continue;
+      }
+    }
+    out.push(lines[i]);
+    i += 1;
+  }
+  return out;
+}
+const droppedSections = [];
+let currentFile = "";
+
+function cleanBody(markdown, groupTitles = []) {
+  return dropIngredientSections(markdown.split("\n"), groupTitles)
     .filter((line) => !/^\s*>/.test(line))
     .map((line) =>
       line
@@ -387,11 +431,15 @@ const recipes = files.map((file) => {
         }))
     : [];
 
-  const cleanedBody = cleanBody(markdownBody)
+  currentFile = file;
+  const cleanedBody = cleanBody(markdownBody, ingredientGroups.map((group) => group.title))
     .replace(/^#\s+.*$/m, "")
     .replace(/^\*[^\n]+\*\s*$/m, "")
     .trim();
-  const bodyHtml = markdownToHtml(cleanedBody, { dropCodeBlocks: ingredientGroups.length > 0 });
+  const ingredientLines = new Set(
+    [...ingredientGroups, ...variants].flatMap((group) => group.items.map((item) => normLine(item.text))),
+  );
+  const bodyHtml = markdownToHtml(cleanedBody, { ingredientLines });
   const bodyText = stripHtml(bodyHtml);
   if (!bodyText) warnings.push(`${file}: prazan postupak`);
 
@@ -426,3 +474,4 @@ if (ids.size !== recipes.length) throw new Error("Dupli ID recepta");
 fs.writeFileSync(outputFile, `${JSON.stringify(recipes, null, 2)}\n`, "utf8");
 console.log(`Generisano ${recipes.length} recepata iz ${sourceDir} -> ${outputFile}`);
 for (const warning of warnings) console.warn(`  ! ${warning}`);
+if (process.env.DEBUG_SECTIONS) for (const item of droppedSections) console.log(`  - izbačena sekcija ${item}`);
