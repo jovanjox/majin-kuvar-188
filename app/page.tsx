@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState, useSyncExternalStore } from "react";
 import recipesData from "./recipes-data.json";
 
-type Ingredient = { text: string; qty: number | null; unit: string | null; item: string | null; note: string | null };
+type Ingredient = { text: string; qty: number | null; qtyTo?: number | null; unit: string | null; item: string | null; note: string | null };
 type IngredientGroup = { title: string; items: Ingredient[] };
 type Variant = { title: string; note: string | null; items: Ingredient[] };
 type Recipe = {
@@ -244,6 +244,11 @@ const parseLeading = (token: string): number | null => {
 
 function scaledText(ingredient: Ingredient, factor: number): string {
   if (factor === 1 || ingredient.qty === null) return ingredient.text;
+  // Opseg ("3-4 čena"): skaliraj obe granice i zameni samo vodeći "3-4".
+  if (ingredient.qtyTo) {
+    const range = ingredient.text.match(/^(\d+(?:[.,]\d+)?)\s*-\s*(\d+(?:[.,]\d+)?)/);
+    if (range) return `${formatQty(ingredient.qty * factor)}-${formatQty(ingredient.qtyTo * factor)}${ingredient.text.slice(range[0].length)}`;
+  }
   let qty = ingredient.qty * factor;
   let unit = ingredient.unit;
   let converted = false;

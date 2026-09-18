@@ -176,6 +176,13 @@ const groupTitles = {
   dodatna_varijanta_punjenja_zeleni_okvir_u_originalu: "Dodatna varijanta punjenja",
   pzp: "PZP",
   cup: "Cup",
+  rastvor: "Rastvor",
+  rastvor_veliki_sud: "Osnovni rastvor (veliki sud)",
+  rastvor_10l: "Rastvor za 10 l",
+  rastvor_1l: "Rastvor za 1 l",
+  rastvor_3l: "Rastvor za 3 l",
+  rastvor_4l_amc: "Rastvor za 4 l (AMC)",
+  rastvor_5l: "Rastvor za 5 l",
 };
 
 const titleFromKey = (key) => {
@@ -185,10 +192,11 @@ const titleFromKey = (key) => {
 };
 
 const toIngredient = (item) => {
-  if (typeof item === "string") return { text: cleanText(item), qty: null, unit: null, item: item, note: null };
+  if (typeof item === "string") return { text: cleanText(item), qty: null, qtyTo: null, unit: null, item: item, note: null };
   return {
     text: cleanText(item.linija ?? ""),
     qty: typeof item.kolicina === "number" ? item.kolicina : null,
+    qtyTo: typeof item.kolicina_do === "number" ? item.kolicina_do : null,
     unit: item.jedinica ?? null,
     item: item.sastojak ?? null,
     note: cleanText(item.napomena ?? "") || null,
