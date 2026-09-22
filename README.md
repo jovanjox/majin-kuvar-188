@@ -25,8 +25,14 @@ pnpm dev            # http://localhost:3000
 pnpm recipes        # regeneriši app/recipes-data.json iz ~/Documents/Kuvar/recepti
 pnpm images         # regeneriši webp ilustracije i ikonice (dodaj -- --force za sve)
 pnpm build
-pnpm test           # build + provera podataka i renderovanja
+pnpm lint
+pnpm typecheck      # provera TypeScript tipova (tsc --noEmit)
+pnpm test:unit      # unit testovi skaliranja količina (lib/scale.ts)
+pnpm test           # unit testovi + build + provera podataka i renderovanja
 ```
+
+GitHub Actions (`.github/workflows/ci.yml`) na svaki push i pull request
+pokreće `pnpm lint`, `pnpm typecheck` i `pnpm test`.
 
 Folder sa receptima se traži redom: `RECEPTI_DIR`, `../recepti`,
 `~/Documents/Kuvar/recepti`. Isto važi za ilustracije (`ILUSTRACIJE_DIR`,

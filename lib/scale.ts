@@ -45,6 +45,16 @@ export function unitLabel(unit: string | null, value: number): string {
   return pluralForm(value, forms);
 }
 
+// Ako ostatak linije počinje oblikom jedinice ("kašika", "male kašike"), uskladi ga sa novom količinom.
+function adjustUnitWord(rest: string, unit: string | null, value: number): string {
+  const forms = unit ? unitForms[unit] : undefined;
+  if (!forms) return rest;
+  const word = [...forms]
+    .sort((a, b) => b.length - a.length)
+    .find((form) => rest.startsWith(form) && !/\p{L}/u.test(rest.charAt(form.length)));
+  return word ? unitLabel(unit, value) + rest.slice(word.length) : rest;
+}
+
 const parseLeading = (token: string): number | null => {
   const frac = token.match(/^(\d+)\/(\d+)$/);
   if (frac) return Number(frac[1]) / Number(frac[2]);
@@ -69,7 +79,10 @@ export function scaledText(ingredient: Ingredient, factor: number): string {
   // Prvo pokušaj da zameniš samo broj u originalnoj liniji — čuva Majin način zapisa.
   const match = ingredient.text.match(/^(\d+\/\d+|\d+(?:[.,]\d+)?)(\s*)(\S+)?/);
   if (match && parseLeading(match[1]) !== null && Math.abs((parseLeading(match[1]) as number) - ingredient.qty) < 0.001) {
-    if (!converted) return `${formatQty(qty)}${ingredient.text.slice(match[1].length)}`;
+    if (!converted) {
+      const rest = ingredient.text.slice(match[1].length + match[2].length);
+      return `${formatQty(qty)}${match[2]}${adjustUnitWord(rest, unit, qty)}`;
+    }
     if (match[3] === ingredient.unit) {
       return `${formatQty(qty)} ${unit}${ingredient.text.slice(match[1].length + match[2].length + match[3].length)}`;
     }
