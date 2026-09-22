@@ -4,7 +4,6 @@ export type IngredientGroup = { title: string; items: Ingredient[] };
 export type Variant = { title: string; note: string | null; items: Ingredient[] };
 export type Recipe = {
   id: string;
-  slug: string;
   name: string;
   subtitle: string;
   category: string;
