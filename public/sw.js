@@ -1,7 +1,7 @@
 /*
  * Service worker za Majin kuvar — da kuvar radi i kad u kuhinji nema signala.
  *
- * - Navigacije (HTML): prvo mreža, pa keš; ako nema ničeg, keširana početna "/".
+ * - Navigacije (HTML): prvo mreža (najviše 4 s ako postoji keš), pa keš; ako nema ničeg, keširana početna "/".
  * - Statički fajlovi sa istog origin-a (build JS/CSS, slike recepata, ikonice,
  *   manifest, favicon): heširani /assets/* iz keša, ostalo stale-while-revalidate.
  * - Ne keširamo ne-GET zahteve, druge origin-e ni /_vinext/image.
@@ -66,7 +66,7 @@ self.addEventListener("fetch", (event) => {
   if (url.pathname === "/_vinext/image" || url.pathname === "/sw.js") return;
 
   if (request.mode === "navigate") {
-    event.respondWith(handleNavigation(request, url));
+    event.respondWith(handleNavigation(event, request, url));
     return;
   }
 
@@ -80,17 +80,21 @@ function pageKey(url) {
   return url.pathname;
 }
 
-async function handleNavigation(request, url) {
+// Slab signal u kuhinji: ako mreža ne odgovori za NETWORK_TIMEOUT, a imamo keširanu stranu, prikaži nju
+// (odgovor sa mreže i dalje osveži keš u pozadini).
+const NETWORK_TIMEOUT = 4000;
+
+async function handleNavigation(event, request, url) {
   const cache = await caches.open(PAGES_CACHE);
-  try {
-    const response = await fetch(request);
+  const cached = (await cache.match(pageKey(url))) ?? (await cache.match("/"));
+  const network = fetch(request).then(async (response) => {
     if (response.ok && response.type === "basic") await cache.put(pageKey(url), response.clone());
     return response;
-  } catch (error) {
-    const cached = (await cache.match(pageKey(url))) ?? (await cache.match("/"));
-    if (cached) return cached;
-    throw error;
-  }
+  });
+  event.waitUntil(network.catch(() => undefined));
+  if (!cached) return network;
+  const timeout = new Promise((resolve) => setTimeout(() => resolve(cached), NETWORK_TIMEOUT));
+  return Promise.race([network.catch(() => cached), timeout]);
 }
 
 function isCacheable(response) {

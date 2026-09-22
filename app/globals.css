@@ -514,3 +514,7 @@ footer > a:last-child { font-size: 9px; font-weight: 700; letter-spacing: .1em; 
   .recipe-prose tbody tr:nth-child(even) { background: rgba(255,240,210,.035); }
   .toast { box-shadow: 0 16px 40px rgba(0,0,0,.5); }
 }
+@media screen and (prefers-color-scheme: dark) {
+  .shopping-button { color: var(--olive); }
+  .shopping-button:hover { background: rgba(163,174,134,.1); }
+}
