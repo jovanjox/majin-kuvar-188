@@ -1,4 +1,5 @@
 import type { Metadata, Viewport } from "next";
+import ServiceWorker from "@/components/ServiceWorker";
 import { SITE_NAME, SITE_URL, THEME_COLOR, siteDescription, siteTitle } from "@/lib/site";
 import "./globals.css";
 
@@ -33,7 +34,10 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
   return (
     <html lang="sr">
-      <body>{children}</body>
+      <body>
+        {children}
+        <ServiceWorker />
+      </body>
     </html>
   );
 }
