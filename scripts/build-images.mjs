@@ -19,7 +19,12 @@ const iconDir = path.resolve("public/icons");
 fs.mkdirSync(outDir, { recursive: true });
 fs.mkdirSync(iconDir, { recursive: true });
 
-const files = fs.readdirSync(sourceDir).filter((file) => /^\d{3}-.+\.png$/.test(file)).sort();
+// Samo ilustracije za recepte koji postoje u app/recipes-data.json (npr. 060 je izbačen iz zbirke).
+const recipeIds = new Set(JSON.parse(fs.readFileSync(path.resolve("app/recipes-data.json"), "utf8")).map((recipe) => recipe.id));
+const allFiles = fs.readdirSync(sourceDir).filter((file) => /^\d{3}-.+\.png$/.test(file)).sort();
+const files = allFiles.filter((file) => recipeIds.has(file.slice(0, 3)));
+const skipped = allFiles.filter((file) => !recipeIds.has(file.slice(0, 3)));
+if (skipped.length) console.log(`Preskočeno (nema recepta): ${skipped.join(", ")}`);
 let made = 0;
 for (const file of files) {
   const id = file.slice(0, 3);
@@ -43,4 +48,13 @@ if (hero) {
     await base.clone().resize(size, size, { fit: "cover" }).png().toFile(path.join(iconDir, name));
   }
   console.log(`Ikonice: ${icons.map(([name]) => name).join(", ")}`);
+}
+
+// Obriši webp ilustracije za recepte kojih više nema.
+for (const file of fs.readdirSync(outDir)) {
+  const match = file.match(/^(\d{3})\.webp$/);
+  if (match && !recipeIds.has(match[1])) {
+    fs.rmSync(path.join(outDir, file));
+    console.log(`Obrisano: public/recipes/${file} (nema recepta)`);
+  }
 }

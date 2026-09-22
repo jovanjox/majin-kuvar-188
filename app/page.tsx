@@ -474,6 +474,9 @@ function RecipeView({
             <p className="eyebrow">Recept № {recipe.id} · {recipe.broadCategory}</p>
             <h1 id="recipe-title" ref={titleRef} tabIndex={-1}>{recipe.name}</h1>
             {recipe.subtitle && <p className="recipe-subtitle">{recipe.subtitle}</p>}
+            {recipe.status === "delimičan" && (
+              <p className="partial-note">Zapis u svesci je nepotpun — deo mera ili koraka treba dopuniti po osećaju.</p>
+            )}
             <div className="recipe-meta">
               {recipe.temperature && <span><b>Temperatura</b>{recipe.temperature}</span>}
               {recipe.time && <span><b>Vreme</b>{recipe.time}</span>}

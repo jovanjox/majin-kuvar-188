@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { access, readFile } from "node:fs/promises";
+import { access, readdir, readFile } from "node:fs/promises";
 import test from "node:test";
 
 const root = new URL("../", import.meta.url);
@@ -30,6 +30,13 @@ test("podaci o receptima su konzistentni", async () => {
   }
 });
 
+test("svaka ilustracija pripada nekom receptu", async () => {
+  const ids = new Set(recipes.map((recipe) => recipe.id));
+  const images = (await readdir(new URL("public/recipes/", root))).filter((file) => file.endsWith(".webp"));
+  const orphans = images.filter((file) => !ids.has(file.slice(0, 3)));
+  assert.deepEqual(orphans, [], "ilustracije bez recepta");
+});
+
 test("početna strana se renderuje sa svim receptima", async () => {
   const response = await render();
   assert.equal(response.status, 200);
@@ -40,5 +47,6 @@ test("početna strana se renderuje sa svim receptima", async () => {
   assert.match(html, /Šta danas spremamo\?/);
   assert.match(html, /manifest\.webmanifest/);
   assert.match(html, /favicon\.svg/);
+  assert.match(html, /property="og:image" content="https:\/\/[^"]+\/og\.jpg"/);
   assert.doesNotMatch(html, /188 recepata/, "broj recepata ne sme biti hardkodovan");
 });
