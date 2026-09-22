@@ -30,6 +30,18 @@ test("podaci o receptima su konzistentni", async () => {
   }
 });
 
+test("kuracija početne strane pokazuje na postojeće recepte", async () => {
+  const curation = JSON.parse(await readFile(new URL("app/curation.json", root), "utf8"));
+  const ids = new Set(recipes.map((recipe) => recipe.id));
+  const referenced = [
+    curation.hero.id,
+    ...curation.featured.map((item) => item.id),
+    ...curation.recommendedOrder,
+    ...Object.keys(curation.badges),
+  ];
+  assert.deepEqual(referenced.filter((id) => !ids.has(id)), [], "nepostojeći ID-jevi u app/curation.json");
+});
+
 test("svaka ilustracija pripada nekom receptu", async () => {
   const ids = new Set(recipes.map((recipe) => recipe.id));
   const images = (await readdir(new URL("public/recipes/", root))).filter((file) => file.endsWith(".webp"));

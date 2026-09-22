@@ -1,0 +1,64 @@
+{
+  "_opis": "Ručno birani recepti za početnu stranu. Svi ID-jevi moraju postojati u recipes-data.json (test to proverava).",
+  "hero": {
+    "id": "001",
+    "tagline": "za trenutke koji se pamte",
+    "alt": "Akvarel čokoladnog musa u staklenoj činiji"
+  },
+  "featured": [
+    {
+      "id": "054",
+      "story": "Čokoladni slojevi, višnja i šlag — torta koja je obeležila porodična slavlja."
+    },
+    {
+      "id": "181",
+      "story": "Slojevi domaćih kora, bogat bolonjeze i bešamel: recept za okupljanje za stolom."
+    },
+    {
+      "id": "022",
+      "story": "Hrskave korpice, nežan krem i šećer u prahu — princes krofne za posebne porodične dane."
+    }
+  ],
+  "recommendedOrder": [
+    "059",
+    "181",
+    "054",
+    "151",
+    "095",
+    "178",
+    "173",
+    "018",
+    "053",
+    "043",
+    "184",
+    "080",
+    "153",
+    "067",
+    "050",
+    "123",
+    "175",
+    "162",
+    "135",
+    "079",
+    "145",
+    "094",
+    "169",
+    "187",
+    "001",
+    "057",
+    "069",
+    "026",
+    "025",
+    "047",
+    "188",
+    "192"
+  ],
+  "badges": {
+    "059": "Najtraženije",
+    "181": "Porodični favorit",
+    "054": "Klasik",
+    "151": "Nedeljni favorit",
+    "095": "Za deljenje",
+    "018": "Omiljeni desert"
+  }
+}
