@@ -451,14 +451,12 @@ const recipes = files.map((file) => {
   const bodyText = stripHtml(bodyHtml);
   if (!bodyText) warnings.push(`${file}: prazan postupak`);
 
-  const slug = file.replace(/\.md$/, "");
   const image = fs.existsSync(path.join(imageDir, `${id}.webp`)) ? `/recipes/${id}.webp` : "";
   if (!image) warnings.push(`${file}: nema slike public/recipes/${id}.webp`);
 
   const subtitle = cleanText(fm.podnaslov);
   return {
     id,
-    slug,
     name,
     subtitle,
     category,

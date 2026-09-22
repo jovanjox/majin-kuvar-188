@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { access, readFile } from "node:fs/promises";
+import { access, readdir, readFile } from "node:fs/promises";
 import test from "node:test";
 
 const root = new URL("../", import.meta.url);
@@ -30,6 +30,32 @@ test("podaci o receptima su konzistentni", async () => {
   }
 });
 
+test("kuracija početne strane pokazuje na postojeće recepte", async () => {
+  const curation = JSON.parse(await readFile(new URL("app/curation.json", root), "utf8"));
+  const ids = new Set(recipes.map((recipe) => recipe.id));
+  const referenced = [
+    curation.hero.id,
+    ...curation.featured.map((item) => item.id),
+    ...curation.recommendedOrder,
+    ...Object.keys(curation.badges),
+  ];
+  assert.deepEqual(referenced.filter((id) => !ids.has(id)), [], "nepostojeći ID-jevi u app/curation.json");
+});
+
+test("svaka ilustracija pripada nekom receptu", async () => {
+  const ids = new Set(recipes.map((recipe) => recipe.id));
+  const images = (await readdir(new URL("public/recipes/", root))).filter((file) => file.endsWith(".webp"));
+  const orphans = images.filter((file) => !ids.has(file.slice(0, 3)));
+  assert.deepEqual(orphans, [], "ilustracije bez recepta");
+});
+
+test("svaka ilustracija ima i 400 px varijantu za kartice", async () => {
+  const expected = recipes.filter((recipe) => recipe.image).map((recipe) => recipe.image.replace("/recipes/", "")).sort();
+  const small = (await readdir(new URL("public/recipes/400/", root))).filter((file) => file.endsWith(".webp")).sort();
+  assert.deepEqual(expected.filter((file) => !small.includes(file)), [], "nedostaju 400 px varijante");
+  assert.deepEqual(small.filter((file) => !expected.includes(file)), [], "višak u public/recipes/400/");
+});
+
 test("početna strana se renderuje sa svim receptima", async () => {
   const response = await render();
   assert.equal(response.status, 200);
@@ -40,5 +66,21 @@ test("početna strana se renderuje sa svim receptima", async () => {
   assert.match(html, /Šta danas spremamo\?/);
   assert.match(html, /manifest\.webmanifest/);
   assert.match(html, /favicon\.svg/);
+  assert.match(html, /property="og:image" content="https:\/\/[^"]+\/og\.jpg"/);
   assert.doesNotMatch(html, /188 recepata/, "broj recepata ne sme biti hardkodovan");
+});
+
+test("stranica recepta ima svoj naslov, opis i ilustraciju za deljenje", async () => {
+  const recipe = recipes.find((item) => item.image);
+  const response = await render(`/recept/${recipe.id}`);
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.ok(html.includes(`<title>${recipe.name.replaceAll("&", "&amp;")} — Majin kuvar</title>`), "naslov recepta");
+  assert.match(html, new RegExp(`property="og:image" content="https://[^"]+${recipe.image}"`));
+  assert.match(html, new RegExp(`rel="canonical" href="https://[^"]+/recept/${recipe.id}"`));
+  assert.match(html, /id="recipe-title"/, "recept je otvoren već u HTML-u sa servera");
+});
+
+test("nepostojeći recept vraća 404", async () => {
+  assert.equal((await render("/recept/999")).status, 404);
 });

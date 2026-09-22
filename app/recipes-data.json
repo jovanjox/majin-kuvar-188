@@ -1,7 +1,6 @@
 [
   {
     "id": "001",
-    "slug": "001-mousse-au-chocolat",
     "name": "Mousse au chocolat",
     "subtitle": "",
     "category": "krem / poslastica",
@@ -73,7 +72,6 @@
   },
   {
     "id": "002",
-    "slug": "002-poslasticarski-krem",
     "name": "Poslastičarski krem",
     "subtitle": "",
     "category": "krem",
@@ -145,7 +143,6 @@
   },
   {
     "id": "003",
-    "slug": "003-ganache-creme",
     "name": "Ganache crème",
     "subtitle": "/za punjenje kolača/",
     "category": "krem / fil",
@@ -193,7 +190,6 @@
   },
   {
     "id": "004",
-    "slug": "004-grand-marnier-krem",
     "name": "Grand Marnier krem",
     "subtitle": "",
     "category": "krem",
@@ -257,7 +253,6 @@
   },
   {
     "id": "005",
-    "slug": "005-engleska-krema",
     "name": "Engleska krema",
     "subtitle": "",
     "category": "krem",
@@ -305,7 +300,6 @@
   },
   {
     "id": "006",
-    "slug": "006-zabajone-krem",
     "name": "Zabajone krem",
     "subtitle": "",
     "category": "krem",
@@ -361,7 +355,6 @@
   },
   {
     "id": "007",
-    "slug": "007-creme-bavarois",
     "name": "Crème Bavarois",
     "subtitle": "",
     "category": "krem",
@@ -425,7 +418,6 @@
   },
   {
     "id": "008",
-    "slug": "008-creme-frangipane",
     "name": "Crème frangipane",
     "subtitle": "krem od badema",
     "category": "krem",
@@ -537,7 +529,6 @@
   },
   {
     "id": "009",
-    "slug": "009-creme-brulee",
     "name": "Crème brûlée",
     "subtitle": "",
     "category": "poslastica",
@@ -601,7 +592,6 @@
   },
   {
     "id": "010",
-    "slug": "010-chantilly-creme-diplomate",
     "name": "Chantilly crème (Diplomate)",
     "subtitle": "",
     "category": "krem",
@@ -681,7 +671,6 @@
   },
   {
     "id": "011",
-    "slug": "011-sorbet-od-jagoda",
     "name": "Sorbet od jagoda",
     "subtitle": "",
     "category": "poslastica / sladoled",
@@ -737,7 +726,6 @@
   },
   {
     "id": "012",
-    "slug": "012-zele-od-jagoda",
     "name": "Žele od jagoda",
     "subtitle": "",
     "category": "poslastica / preliv",
@@ -793,7 +781,6 @@
   },
   {
     "id": "013",
-    "slug": "013-sufle-od-badema",
     "name": "Sufle od badema",
     "subtitle": "",
     "category": "poslastica",
@@ -865,7 +852,6 @@
   },
   {
     "id": "014",
-    "slug": "014-sufle-od-cokolade",
     "name": "Sufle od čokolade",
     "subtitle": "",
     "category": "poslastica",
@@ -945,7 +931,6 @@
   },
   {
     "id": "015",
-    "slug": "015-cokoladni-sufle-ena-jovan",
     "name": "Čokoladni sufle (Ena & Jovan)",
     "subtitle": "Absinte restoran",
     "category": "poslastica",
@@ -1033,7 +1018,6 @@
   },
   {
     "id": "016",
-    "slug": "016-sne-nokle",
     "name": "Šne nokle",
     "subtitle": "",
     "category": "poslastica",
@@ -1097,7 +1081,6 @@
   },
   {
     "id": "017",
-    "slug": "017-damske-tortice",
     "name": "Damske tortice",
     "subtitle": "Ena",
     "category": "kolač",
@@ -1185,7 +1168,6 @@
   },
   {
     "id": "018",
-    "slug": "018-tiramisu",
     "name": "Tiramisu",
     "subtitle": "",
     "category": "poslastica",
@@ -1265,7 +1247,6 @@
   },
   {
     "id": "019",
-    "slug": "019-rozata-creme-caramel",
     "name": "Rozata (Crème caramel)",
     "subtitle": "",
     "category": "poslastica",
@@ -1350,7 +1331,6 @@
   },
   {
     "id": "020",
-    "slug": "020-krem-pita-baka",
     "name": "Krem pita (baka)",
     "subtitle": "",
     "category": "kolač / pita",
@@ -1438,7 +1418,6 @@
   },
   {
     "id": "021",
-    "slug": "021-majina-krempita-sa-visnjama",
     "name": "Majina krempita sa višnjama",
     "subtitle": "",
     "category": "kolač / pita",
@@ -1621,7 +1600,6 @@
   },
   {
     "id": "022",
-    "slug": "022-princez-krofne",
     "name": "Princes krofne",
     "subtitle": "",
     "category": "kolač / peciva",
@@ -1746,7 +1724,6 @@
   },
   {
     "id": "023",
-    "slug": "023-palacinke-meli-sa-visnjama",
     "name": "Palačinke meli sa višnjama zapečene",
     "subtitle": "",
     "category": "poslastica / palačinke",
@@ -1932,7 +1909,6 @@
   },
   {
     "id": "024",
-    "slug": "024-gundel-crepes",
     "name": "Gundel crêpes",
     "subtitle": "",
     "category": "poslastica / palačinke",
@@ -2158,7 +2134,6 @@
   },
   {
     "id": "025",
-    "slug": "025-puslica-kolac-sa-malinama",
     "name": "Puslica kolač sa malinama",
     "subtitle": "",
     "category": "torta / kolač",
@@ -2293,7 +2268,6 @@
   },
   {
     "id": "026",
-    "slug": "026-mille-feuille-sa-kremom-i-jagodama",
     "name": "Mille-feuille sa kremom i jagodama",
     "subtitle": "Mille-feuille avec la crème et les fraises",
     "category": "kolač",
@@ -2410,7 +2384,6 @@
   },
   {
     "id": "027",
-    "slug": "027-crepes-suzette",
     "name": "Crêpes Suzette",
     "subtitle": "",
     "category": "poslastica / palačinke",
@@ -2519,7 +2492,6 @@
   },
   {
     "id": "028",
-    "slug": "028-sos-od-visanja",
     "name": "Sos od višanja",
     "subtitle": "",
     "category": "preliv / sos",
@@ -2599,7 +2571,6 @@
   },
   {
     "id": "029",
-    "slug": "029-grijaz-stapici",
     "name": "Grijaž štapići",
     "subtitle": "",
     "category": "sitni kolači / dekoracija",
@@ -2647,7 +2618,6 @@
   },
   {
     "id": "030",
-    "slug": "030-krokante",
     "name": "Krokante",
     "subtitle": "",
     "category": "sitni kolači",
@@ -2703,7 +2673,6 @@
   },
   {
     "id": "031",
-    "slug": "031-croquant-of-cordes",
     "name": "Croquant of Cordes",
     "subtitle": "sur-file — Bruno Albouze",
     "category": "sitni kolači",
@@ -2775,7 +2744,6 @@
   },
   {
     "id": "032",
-    "slug": "032-marcipan",
     "name": "Marcipan",
     "subtitle": "baka Milica",
     "category": "sitni kolači / masa",
@@ -2823,7 +2791,6 @@
   },
   {
     "id": "033",
-    "slug": "033-orancini",
     "name": "Orancini",
     "subtitle": "",
     "category": "sitni kolači / kandirano voće",
@@ -2879,7 +2846,6 @@
   },
   {
     "id": "034",
-    "slug": "034-zito-slavski-kolaci",
     "name": "Žito",
     "subtitle": "Slavski kolači — Dadi",
     "category": "slavsko jelo",
@@ -2951,7 +2917,6 @@
   },
   {
     "id": "035",
-    "slug": "035-cokoladne-korpice-sa-grijazom",
     "name": "Čokoladne korpice sa grijažom",
     "subtitle": "",
     "category": "sitni kolači",
@@ -3052,7 +3017,6 @@
   },
   {
     "id": "036",
-    "slug": "036-cigancici-cokoladne-korpice-sa-visnjama",
     "name": "Cigančići",
     "subtitle": "Dadi (čokoviš)",
     "category": "sitni kolači",
@@ -3132,7 +3096,6 @@
   },
   {
     "id": "037",
-    "slug": "037-stangle-sa-dva-nadeva",
     "name": "Štangle sa dva nadeva",
     "subtitle": "baka Mira",
     "category": "sitni kolači",
@@ -3278,7 +3241,6 @@
   },
   {
     "id": "038",
-    "slug": "038-rum-kuglice",
     "name": "Rum kuglice",
     "subtitle": "mama — 35 kom",
     "category": "sitni kolači",
@@ -3379,7 +3341,6 @@
   },
   {
     "id": "039",
-    "slug": "039-kic-moce",
     "name": "Kic-moce",
     "subtitle": "Dadi",
     "category": "sitni kolači",
@@ -3443,7 +3404,6 @@
   },
   {
     "id": "040",
-    "slug": "040-pisinger",
     "name": "Pišinger",
     "subtitle": "Sanja S.",
     "category": "sitni kolači",
@@ -3515,7 +3475,6 @@
   },
   {
     "id": "041",
-    "slug": "041-orasnice",
     "name": "Orašnice",
     "subtitle": "Cica",
     "category": "sitni kolači",
@@ -3571,7 +3530,6 @@
   },
   {
     "id": "042",
-    "slug": "042-vanilice",
     "name": "Vanilice",
     "subtitle": "baka Milica",
     "category": "sitni kolači",
@@ -3736,7 +3694,6 @@
   },
   {
     "id": "043",
-    "slug": "043-bajadera",
     "name": "Bajadera",
     "subtitle": "",
     "category": "sitni kolači",
@@ -3808,7 +3765,6 @@
   },
   {
     "id": "044",
-    "slug": "044-grijaz-oblande",
     "name": "Grijaž oblande",
     "subtitle": "Dadi",
     "category": "sitni kolači",
@@ -3888,7 +3844,6 @@
   },
   {
     "id": "045",
-    "slug": "045-limun-stangle",
     "name": "Limun štangle",
     "subtitle": "",
     "category": "sitni kolači",
@@ -3960,7 +3915,6 @@
   },
   {
     "id": "046",
-    "slug": "046-bombice-sa-orancinima",
     "name": "Bombice sa orancinima",
     "subtitle": "Dadi",
     "category": "sitni kolači",
@@ -4048,7 +4002,6 @@
   },
   {
     "id": "047",
-    "slug": "047-jafa-kolac",
     "name": "Jafa kolač",
     "subtitle": "Veka",
     "category": "kolač",
@@ -4186,7 +4139,6 @@
   },
   {
     "id": "048",
-    "slug": "048-urmasice",
     "name": "Urmašice",
     "subtitle": "mama",
     "category": "sitni kolači",
@@ -4303,7 +4255,6 @@
   },
   {
     "id": "049",
-    "slug": "049-kasato",
     "name": "Kasato",
     "subtitle": "baka Milica",
     "category": "sitni kolači",
@@ -4428,7 +4379,6 @@
   },
   {
     "id": "050",
-    "slug": "050-cinnamon-rolls",
     "name": "Rolnice sa cimetom",
     "subtitle": "",
     "category": "peciva",
@@ -4714,7 +4664,6 @@
   },
   {
     "id": "051",
-    "slug": "051-harvest-jovanove-cinnamon-rolls",
     "name": "Jovanove rolnice sa cimetom",
     "subtitle": "",
     "category": "peciva",
@@ -4913,7 +4862,6 @@
   },
   {
     "id": "052",
-    "slug": "052-pain-aux-raisins",
     "name": "Pain aux raisins",
     "subtitle": "BrunosKitchen",
     "category": "peciva / lisnato testo",
@@ -5117,7 +5065,6 @@
   },
   {
     "id": "053",
-    "slug": "053-croissant",
     "name": "Croissant",
     "subtitle": "",
     "category": "peciva / lisnato testo",
@@ -5231,7 +5178,6 @@
   },
   {
     "id": "054",
-    "slug": "054-schwarzwald-torta",
     "name": "Schwarzwald torta",
     "subtitle": "by ME",
     "category": "torta",
@@ -5494,7 +5440,6 @@
   },
   {
     "id": "055",
-    "slug": "055-krcko-orascic",
     "name": "Krcko Oraščić",
     "subtitle": "Щелкунчик — Dadi",
     "category": "sitni kolači",
@@ -5550,7 +5495,6 @@
   },
   {
     "id": "056",
-    "slug": "056-vocna-torta",
     "name": "Voćna torta",
     "subtitle": "by ME",
     "category": "torta",
@@ -5696,7 +5640,6 @@
   },
   {
     "id": "057",
-    "slug": "057-reform-torta",
     "name": "Reform torta",
     "subtitle": "Dadi",
     "category": "torta",
@@ -5805,7 +5748,6 @@
   },
   {
     "id": "058",
-    "slug": "058-torta-sa-orancinima",
     "name": "Torta sa orancinima",
     "subtitle": "Dadi",
     "category": "torta",
@@ -5906,7 +5848,6 @@
   },
   {
     "id": "059",
-    "slug": "059-sacher-torta",
     "name": "Sacher torta",
     "subtitle": "",
     "category": "torta",
@@ -5999,7 +5940,6 @@
   },
   {
     "id": "061",
-    "slug": "061-napoleon-torta",
     "name": "Napoleon torta",
     "subtitle": "Veka",
     "category": "torta",
@@ -6116,7 +6056,6 @@
   },
   {
     "id": "062",
-    "slug": "062-pariska-torta",
     "name": "Pariska torta",
     "subtitle": "Veka",
     "category": "torta",
@@ -6262,7 +6201,6 @@
   },
   {
     "id": "063",
-    "slug": "063-hranislava-torta",
     "name": "Hranislava torta",
     "subtitle": "Ilana",
     "category": "torta",
@@ -6395,7 +6333,6 @@
   },
   {
     "id": "064",
-    "slug": "064-bela-torta-orah",
     "name": "Bela torta",
     "subtitle": "Orah — mama",
     "category": "torta",
@@ -6496,7 +6433,6 @@
   },
   {
     "id": "065",
-    "slug": "065-valentino-torta",
     "name": "Valentino torta",
     "subtitle": "by ME — Maja",
     "category": "torta",
@@ -6658,7 +6594,6 @@
   },
   {
     "id": "066",
-    "slug": "066-srneca-ledja",
     "name": "Srneća leđa",
     "subtitle": "Dadi",
     "category": "kolač",
@@ -6759,7 +6694,6 @@
   },
   {
     "id": "067",
-    "slug": "067-moskva-snit",
     "name": "Moskva šnit",
     "subtitle": "",
     "category": "torta",
@@ -6905,7 +6839,6 @@
   },
   {
     "id": "068",
-    "slug": "068-markiza-od-cokolade",
     "name": "Markiza od čokolade",
     "subtitle": "",
     "category": "torta",
@@ -6977,7 +6910,6 @@
   },
   {
     "id": "069",
-    "slug": "069-crna-torta",
     "name": "Crna torta",
     "subtitle": "Dadi",
     "category": "torta",
@@ -7078,7 +7010,6 @@
   },
   {
     "id": "070",
-    "slug": "070-patispanj",
     "name": "Patišpanj",
     "subtitle": "",
     "category": "osnovni kolač / biskvit",
@@ -7134,7 +7065,6 @@
   },
   {
     "id": "071",
-    "slug": "071-djenovski-biskvit",
     "name": "Đenovski biskvit",
     "subtitle": "",
     "category": "osnovni kolač / biskvit",
@@ -7198,7 +7128,6 @@
   },
   {
     "id": "072",
-    "slug": "072-francusko-testo-sarlota",
     "name": "Francusko testo — Šarlota",
     "subtitle": "Dadi",
     "category": "kolač / pita",
@@ -7307,7 +7236,6 @@
   },
   {
     "id": "073",
-    "slug": "073-biskvit-kore",
     "name": "Biskvit kore",
     "subtitle": "za voćnu tortu",
     "category": "osnovni kolač / biskvit",
@@ -7379,7 +7307,6 @@
   },
   {
     "id": "074",
-    "slug": "074-jamie-oliver-biskvitno-testo",
     "name": "Jamie Oliver — biskvitno testo",
     "subtitle": "",
     "category": "osnovni kolač / biskvit",
@@ -7488,7 +7415,6 @@
   },
   {
     "id": "075",
-    "slug": "075-tortice-od-jagoda",
     "name": "Tortice od jagoda",
     "subtitle": "",
     "category": "sitni kolači / tortice",
@@ -7597,7 +7523,6 @@
   },
   {
     "id": "076",
-    "slug": "076-vencici",
     "name": "Venčići",
     "subtitle": "Dadi",
     "category": "sitni kolači",
@@ -7690,7 +7615,6 @@
   },
   {
     "id": "077",
-    "slug": "077-vocni-kolac-ena",
     "name": "Voćni kolač",
     "subtitle": "Ena",
     "category": "kolač",
@@ -7762,7 +7686,6 @@
   },
   {
     "id": "078",
-    "slug": "078-kolac-sa-tresnjama",
     "name": "Kolač sa trešnjama",
     "subtitle": "",
     "category": "kolač",
@@ -7871,7 +7794,6 @@
   },
   {
     "id": "079",
-    "slug": "079-apple-pie",
     "name": "Apple-pie",
     "subtitle": "",
     "category": "pita / kolač",
@@ -8017,7 +7939,6 @@
   },
   {
     "id": "080",
-    "slug": "080-kolac-ruzica",
     "name": "Kolač \"Ružica\"",
     "subtitle": "Veka",
     "category": "peciva / kvasno testo",
@@ -8187,7 +8108,6 @@
   },
   {
     "id": "081",
-    "slug": "081-kiselo-testo-sa-suvim-grozdjem",
     "name": "Kiselo testo sa suvim grožđem",
     "subtitle": "Veka",
     "category": "peciva / kvasno testo",
@@ -8325,7 +8245,6 @@
   },
   {
     "id": "082",
-    "slug": "082-mramorni-kolac",
     "name": "Mramorni kolač",
     "subtitle": "Veka",
     "category": "kolač",
@@ -8442,7 +8361,6 @@
   },
   {
     "id": "083",
-    "slug": "083-kuglof",
     "name": "Kuglof",
     "subtitle": "Dadi",
     "category": "kolač",
@@ -8570,7 +8488,6 @@
   },
   {
     "id": "084",
-    "slug": "084-strucla-makowa-makowiec",
     "name": "Strucla Makowa — Makowiec",
     "subtitle": "",
     "category": "peciva / kvasno testo",
@@ -9016,7 +8933,6 @@
   },
   {
     "id": "085",
-    "slug": "085-makowiec-by-me-strudel-orasi",
     "name": "Makowiec by ME",
     "subtitle": "",
     "category": "peciva / kvasno testo",
@@ -9408,7 +9324,6 @@
   },
   {
     "id": "086",
-    "slug": "086-strudla-sa-orasima-i-makom",
     "name": "Štrudla sa orasima i makom",
     "subtitle": "",
     "category": "peciva / kvasno testo",
@@ -9779,7 +9694,6 @@
   },
   {
     "id": "087",
-    "slug": "087-hladna-mini-orahnjaca-branka",
     "name": "Hladna — Mini orahnjača",
     "subtitle": "Branka",
     "category": "peciva / kvasno testo",
@@ -9996,7 +9910,6 @@
   },
   {
     "id": "088",
-    "slug": "088-kiflice-sa-orasima",
     "name": "Kiflice sa orasima",
     "subtitle": "Đadi",
     "category": "peciva / sitni kolači",
@@ -10129,7 +10042,6 @@
   },
   {
     "id": "089",
-    "slug": "089-piernik",
     "name": "Piernik",
     "subtitle": "",
     "category": "kolač",
@@ -10302,7 +10214,6 @@
   },
   {
     "id": "090",
-    "slug": "090-kulic",
     "name": "Kulič",
     "subtitle": "Veka",
     "category": "peciva / kvasno testo (uskršnji kolač)",
@@ -10398,7 +10309,6 @@
   },
   {
     "id": "091",
-    "slug": "091-pasha",
     "name": "Pasha",
     "subtitle": "Veka",
     "category": "poslastica (uskršnja, sa tvorogom)",
@@ -10494,7 +10404,6 @@
   },
   {
     "id": "092",
-    "slug": "092-rigo-janci",
     "name": "Rigo Janči",
     "subtitle": "",
     "category": "kolač",
@@ -10587,7 +10496,6 @@
   },
   {
     "id": "093",
-    "slug": "093-zerbo-kocke",
     "name": "Žerbo kocke",
     "subtitle": "Đadi",
     "category": "sitni kolači",
@@ -10696,7 +10604,6 @@
   },
   {
     "id": "094",
-    "slug": "094-pogaca-cvetic",
     "name": "Pogača \"Cvetić\"",
     "subtitle": "mama",
     "category": "peciva / kvasno testo",
@@ -10784,7 +10691,6 @@
   },
   {
     "id": "095",
-    "slug": "095-focaccia",
     "name": "Focaccia",
     "subtitle": "Jamie Oliver",
     "category": "peciva / hleb",
@@ -10903,7 +10809,6 @@
   },
   {
     "id": "096",
-    "slug": "096-pogaca-sa-kajmakom",
     "name": "Pogača sa kajmakom",
     "subtitle": "Baka — Mira",
     "category": "peciva / kvasno testo",
@@ -10991,7 +10896,6 @@
   },
   {
     "id": "097",
-    "slug": "097-brza-pogaca",
     "name": "Brza pogača",
     "subtitle": "",
     "category": "peciva",
@@ -11063,7 +10967,6 @@
   },
   {
     "id": "098",
-    "slug": "098-lisnata-pogaca",
     "name": "Lisnata pogača",
     "subtitle": "Veka",
     "category": "peciva / lisnato testo",
@@ -11156,7 +11059,6 @@
   },
   {
     "id": "099",
-    "slug": "099-crni-hleb",
     "name": "Crni hleb",
     "subtitle": "Jovan — baka",
     "category": "hleb",
@@ -11260,7 +11162,6 @@
   },
   {
     "id": "100",
-    "slug": "100-proja",
     "name": "Proja",
     "subtitle": "",
     "category": "hleb / proja",
@@ -11348,7 +11249,6 @@
   },
   {
     "id": "101",
-    "slug": "101-uzicka-proja",
     "name": "Užička proja",
     "subtitle": "",
     "category": "hleb / proja",
@@ -11420,7 +11320,6 @@
   },
   {
     "id": "102",
-    "slug": "102-hleb-hanna",
     "name": "Hleb (Hanna)",
     "subtitle": "",
     "category": "hleb",
@@ -11484,7 +11383,6 @@
   },
   {
     "id": "103",
-    "slug": "103-razani-hleb",
     "name": "Ražani hleb",
     "subtitle": "",
     "category": "hleb",
@@ -11564,7 +11462,6 @@
   },
   {
     "id": "104",
-    "slug": "104-proja-jovanova-baka",
     "name": "Proja",
     "subtitle": "Jovanova baka",
     "category": "hleb / proja",
@@ -11636,7 +11533,6 @@
   },
   {
     "id": "105",
-    "slug": "105-maslenjak-cesnica",
     "name": "Maslenjak česnica",
     "subtitle": "Andreina baka",
     "category": "peciva (slavski/božićni hleb)",
@@ -11700,7 +11596,6 @@
   },
   {
     "id": "106",
-    "slug": "106-lisnato-testo",
     "name": "Lisnato testo",
     "subtitle": "",
     "category": "osnovno testo",
@@ -11764,7 +11659,6 @@
   },
   {
     "id": "107",
-    "slug": "107-testo-za-kore",
     "name": "Testo za kore",
     "subtitle": "",
     "category": "osnovno testo",
@@ -11897,7 +11791,6 @@
   },
   {
     "id": "108",
-    "slug": "108-zagorski-strukli-grofica",
     "name": "Zagorske štrukle",
     "subtitle": "Grofica",
     "category": "peciva (sa sirom)",
@@ -12019,7 +11912,6 @@
   },
   {
     "id": "109",
-    "slug": "109-pizza-testo",
     "name": "Pizza — testo",
     "subtitle": "",
     "category": "osnovno testo",
@@ -12176,7 +12068,6 @@
   },
   {
     "id": "110",
-    "slug": "110-kiflice-sa-sirom",
     "name": "Kiflice sa sirom",
     "subtitle": "mama",
     "category": "peciva",
@@ -12293,7 +12184,6 @@
   },
   {
     "id": "111",
-    "slug": "111-strukli-cica",
     "name": "Štrukli Cica",
     "subtitle": "",
     "category": "peciva (sa sirom)",
@@ -12386,7 +12276,6 @@
   },
   {
     "id": "112",
-    "slug": "112-pierogi",
     "name": "Pierogi",
     "subtitle": "Hana",
     "category": "peciva (poljski đevreci sa kupusom)",
@@ -12556,7 +12445,6 @@
   },
   {
     "id": "113",
-    "slug": "113-salcstangle",
     "name": "Salcštangle",
     "subtitle": "",
     "category": "peciva (slane štangle)",
@@ -12676,7 +12564,6 @@
   },
   {
     "id": "114",
-    "slug": "114-pekarske-kifle",
     "name": "Pekarske kifle",
     "subtitle": "",
     "category": "peciva",
@@ -12772,7 +12659,6 @@
   },
   {
     "id": "115",
-    "slug": "115-stapici-kim",
     "name": "Štapići — kim",
     "subtitle": "Baka Milica",
     "category": "peciva (slani štapići)",
@@ -12868,7 +12754,6 @@
   },
   {
     "id": "116",
-    "slug": "116-pastete",
     "name": "Paštete",
     "subtitle": "Baka Milica",
     "category": "peciva (slane kockice sa sirom)",
@@ -12964,7 +12849,6 @@
   },
   {
     "id": "117",
-    "slug": "117-lepinje-sa-slaninom",
     "name": "Lepinje sa slaninom",
     "subtitle": "",
     "category": "peciva",
@@ -13081,7 +12965,6 @@
   },
   {
     "id": "118",
-    "slug": "118-slani-stapici-dadi",
     "name": "Slani štapići",
     "subtitle": "Đadi",
     "category": "peciva",
@@ -13169,7 +13052,6 @@
   },
   {
     "id": "119",
-    "slug": "119-stanglice-od-sira-i-kima",
     "name": "Štanglice od sira i kima",
     "subtitle": "",
     "category": "peciva (od lisnatog testa)",
@@ -13225,7 +13107,6 @@
   },
   {
     "id": "120",
-    "slug": "120-ustipci",
     "name": "Uštipci",
     "subtitle": "",
     "category": "peciva (pržena)",
@@ -13350,7 +13231,6 @@
   },
   {
     "id": "121",
-    "slug": "121-placke",
     "name": "Pačke",
     "subtitle": "mama",
     "category": "peciva (pržena)",
@@ -13414,7 +13294,6 @@
   },
   {
     "id": "122",
-    "slug": "122-kljukusa",
     "name": "Kljukuša",
     "subtitle": "mama",
     "category": "slano jelo",
@@ -13539,7 +13418,6 @@
   },
   {
     "id": "123",
-    "slug": "123-krofne",
     "name": "Krofne",
     "subtitle": "",
     "category": "peciva (pržene)",
@@ -13619,7 +13497,6 @@
   },
   {
     "id": "124",
-    "slug": "124-pecene-krofne",
     "name": "Pečene krofne",
     "subtitle": "",
     "category": "peciva (pečene, u modli sa rupama)",
@@ -13707,7 +13584,6 @@
   },
   {
     "id": "125",
-    "slug": "125-knedle-od-sira",
     "name": "Knedle od sira",
     "subtitle": "mama",
     "category": "prilog / supa",
@@ -13779,7 +13655,6 @@
   },
   {
     "id": "126",
-    "slug": "126-knedle-od-griza",
     "name": "Knedle od griza",
     "subtitle": "za supu",
     "category": "supa (uložak)",
@@ -13835,7 +13710,6 @@
   },
   {
     "id": "127",
-    "slug": "127-noklice",
     "name": "Noklice",
     "subtitle": "",
     "category": "supa (uložak)",
@@ -13899,7 +13773,6 @@
   },
   {
     "id": "128",
-    "slug": "128-rezanci-za-supu",
     "name": "Rezanci za supu",
     "subtitle": "",
     "category": "supa (uložak)",
@@ -13947,7 +13820,6 @@
   },
   {
     "id": "129",
-    "slug": "129-tarana",
     "name": "Tarana",
     "subtitle": "",
     "category": "supa (uložak / testenina)",
@@ -14003,7 +13875,6 @@
   },
   {
     "id": "130",
-    "slug": "130-tempura",
     "name": "Tempura",
     "subtitle": "",
     "category": "testo za prženje (povrće/riba)",
@@ -14067,7 +13938,6 @@
   },
   {
     "id": "131",
-    "slug": "131-blini",
     "name": "Blini",
     "subtitle": "",
     "category": "poslastica / palačinke (heljda)",
@@ -14155,7 +14025,6 @@
   },
   {
     "id": "132",
-    "slug": "132-sirnici",
     "name": "Sirnici",
     "subtitle": "",
     "category": "peciva (pržena, sa sirom)",
@@ -14227,7 +14096,6 @@
   },
   {
     "id": "133",
-    "slug": "133-przenice-od-krompira",
     "name": "Prženice od krompira",
     "subtitle": "",
     "category": "prilog / peciva (pržena)",
@@ -14299,7 +14167,6 @@
   },
   {
     "id": "134",
-    "slug": "134-mlinci",
     "name": "Mlinci",
     "subtitle": "",
     "category": "prilog / testo (pečeno na ringli)",
@@ -14355,7 +14222,6 @@
   },
   {
     "id": "135",
-    "slug": "135-gnocchi",
     "name": "Gnocchi",
     "subtitle": "",
     "category": "testenina (krompir)",
@@ -14419,7 +14285,6 @@
   },
   {
     "id": "136",
-    "slug": "136-gnocchi-giovani",
     "name": "Gnocchi Giovani",
     "subtitle": "",
     "category": "testenina (krompir)",
@@ -14528,7 +14393,6 @@
   },
   {
     "id": "137",
-    "slug": "137-zapeceni-gnocchi",
     "name": "Zapečeni gnocchi",
     "subtitle": "",
     "category": "testenina (krompir, zapečena)",
@@ -14621,7 +14485,6 @@
   },
   {
     "id": "138",
-    "slug": "138-tagliatelle",
     "name": "Tagliatelle",
     "subtitle": "",
     "category": "testenina",
@@ -14669,7 +14532,6 @@
   },
   {
     "id": "139",
-    "slug": "139-rolat-od-spanaca",
     "name": "Rolat od spanaća",
     "subtitle": "Ljiljana",
     "category": "slano jelo (rolat)",
@@ -14775,7 +14637,6 @@
   },
   {
     "id": "140",
-    "slug": "140-zuti-rolat",
     "name": "Žuti rolat",
     "subtitle": "Veka",
     "category": "slano jelo (rolat)",
@@ -14868,7 +14729,6 @@
   },
   {
     "id": "141",
-    "slug": "141-zimnica-tursija",
     "name": "Zimnica — Turšija",
     "subtitle": "kraj septembra — oktobar",
     "category": "zimnica / konzerviranje",
@@ -15284,7 +15144,6 @@
   },
   {
     "id": "142",
-    "slug": "142-presolac-za-poljske-krastavce",
     "name": "Presolac za poljske krastavce",
     "subtitle": "",
     "category": "zimnica / konzerviranje",
@@ -15414,7 +15273,6 @@
   },
   {
     "id": "143",
-    "slug": "143-paprike-sa-kupusom",
     "name": "Paprike sa kupusom",
     "subtitle": "",
     "category": "zimnica / konzerviranje",
@@ -15507,7 +15365,6 @@
   },
   {
     "id": "144",
-    "slug": "144-crvene-paprike-sa-renom",
     "name": "Crvene paprike sa renom",
     "subtitle": "Dadi",
     "category": "zimnica / konzerviranje",
@@ -15587,7 +15444,6 @@
   },
   {
     "id": "145",
-    "slug": "145-ljutenica",
     "name": "Ljutenica",
     "subtitle": "Dadi",
     "category": "zimnica / namaz",
@@ -15667,7 +15523,6 @@
   },
   {
     "id": "146",
-    "slug": "146-besamel",
     "name": "Bešamel",
     "subtitle": "",
     "category": "sos / osnova",
@@ -15816,7 +15671,6 @@
   },
   {
     "id": "147",
-    "slug": "147-shrimp-cocktail",
     "name": "Koktel od škampa",
     "subtitle": "",
     "category": "sos / prilog za škampe",
@@ -15880,7 +15734,6 @@
   },
   {
     "id": "148",
-    "slug": "148-besamel-lasagne",
     "name": "Bešamel — Lasagne",
     "subtitle": "",
     "category": "sos / osnova (za lazanje)",
@@ -15936,7 +15789,6 @@
   },
   {
     "id": "149",
-    "slug": "149-tikvice-punjene",
     "name": "Tikvice punjene",
     "subtitle": "za AMC posuđe",
     "category": "slano jelo",
@@ -15976,7 +15828,6 @@
   },
   {
     "id": "150",
-    "slug": "150-musaka-od-ribanca",
     "name": "Musaka od ribanca",
     "subtitle": "",
     "category": "slano jelo (musaka)",
@@ -16080,7 +15931,6 @@
   },
   {
     "id": "151",
-    "slug": "151-sarma",
     "name": "Sarma",
     "subtitle": "mama",
     "category": "slano jelo",
@@ -16229,7 +16079,6 @@
   },
   {
     "id": "152",
-    "slug": "152-pihtije",
     "name": "Pihtije",
     "subtitle": "",
     "category": "slano jelo (žele od mesa)",
@@ -16333,7 +16182,6 @@
   },
   {
     "id": "153",
-    "slug": "153-prebranac",
     "name": "Prebranac",
     "subtitle": "",
     "category": "slano jelo (pasulj)",
@@ -16429,7 +16277,6 @@
   },
   {
     "id": "154",
-    "slug": "154-tagarica",
     "name": "Tagarica",
     "subtitle": "",
     "category": "slano jelo (jagnjetina zapečena)",
@@ -16533,7 +16380,6 @@
   },
   {
     "id": "155",
-    "slug": "155-pileci-paprikas-sa-noklicama",
     "name": "Pileći paprikaš sa noklicama",
     "subtitle": "",
     "category": "slano jelo (paprikaš)",
@@ -16642,7 +16488,6 @@
   },
   {
     "id": "156",
-    "slug": "156-kapama",
     "name": "Kapama",
     "subtitle": "Đadi",
     "category": "slano jelo (jagnjetina sa spanaćem)",
@@ -16722,7 +16567,6 @@
   },
   {
     "id": "157",
-    "slug": "157-jagnjeca-corba",
     "name": "Jagnjeća čorba",
     "subtitle": "",
     "category": "supa / čorba",
@@ -16786,7 +16630,6 @@
   },
   {
     "id": "158",
-    "slug": "158-bakalar-sa-maslinama",
     "name": "Bakalar sa maslinama",
     "subtitle": "",
     "category": "slano jelo (riba)",
@@ -16866,7 +16709,6 @@
   },
   {
     "id": "159",
-    "slug": "159-lignje-na-dubrovacki",
     "name": "Lignje na dubrovački",
     "subtitle": "",
     "category": "slano jelo (riba/plodovi mora)",
@@ -16946,7 +16788,6 @@
   },
   {
     "id": "160",
-    "slug": "160-imam-bajaldi",
     "name": "Imam bajaldi",
     "subtitle": "Dadi",
     "category": "slano jelo (patlidžan, posno)",
@@ -17026,7 +16867,6 @@
   },
   {
     "id": "161",
-    "slug": "161-posne-sarmice",
     "name": "Posne sarmice",
     "subtitle": "Dadi",
     "category": "slano jelo (posno)",
@@ -17106,7 +16946,6 @@
   },
   {
     "id": "162",
-    "slug": "162-losos-sa-paradajzom",
     "name": "Losos sa paradajzom",
     "subtitle": "France",
     "category": "slano jelo (riba)",
@@ -17231,7 +17070,6 @@
   },
   {
     "id": "163",
-    "slug": "163-teleci-frikando-u-sosu-od-tunjevine",
     "name": "Teleći frikando u sosu od tunjevine",
     "subtitle": "Lile",
     "category": "slano jelo (vitello tonnato)",
@@ -17356,7 +17194,6 @@
   },
   {
     "id": "164",
-    "slug": "164-file-velington",
     "name": "Filé Velington",
     "subtitle": "",
     "category": "slano jelo (Beef Wellington)",
@@ -17476,7 +17313,6 @@
   },
   {
     "id": "165",
-    "slug": "165-svajcarski-sufle-od-ementalera",
     "name": "Švajcarski sufle od ementalera",
     "subtitle": "",
     "category": "sufle (slano)",
@@ -17556,7 +17392,6 @@
   },
   {
     "id": "166",
-    "slug": "166-sufle-od-parmezana",
     "name": "Sufle od parmezana",
     "subtitle": "Dada",
     "category": "sufle (slano)",
@@ -17628,7 +17463,6 @@
   },
   {
     "id": "167",
-    "slug": "167-francuski-sufle-od-krompira",
     "name": "Francuski sufle od krompira",
     "subtitle": "",
     "category": "sufle (slano)",
@@ -17708,7 +17542,6 @@
   },
   {
     "id": "168",
-    "slug": "168-rizoto-sa-3-vrste-pecuraka",
     "name": "Rižoto sa 3 vrste pečuraka",
     "subtitle": "à la Maja",
     "category": "slano jelo (rižoto)",
@@ -17859,7 +17692,6 @@
   },
   {
     "id": "169",
-    "slug": "169-musaka-a-la-maria-callas",
     "name": "Musaka à la Maria Callas",
     "subtitle": "",
     "category": "slano jelo (musaka)",
@@ -18029,7 +17861,6 @@
   },
   {
     "id": "170",
-    "slug": "170-penne-sa-sosom-od-moutarde-de-dijon",
     "name": "Penne sa sosom od moutarde de Dijon",
     "subtitle": "",
     "category": "testenina (sos)",
@@ -18133,7 +17964,6 @@
   },
   {
     "id": "171",
-    "slug": "171-pesto-genovese",
     "name": "Pesto Genovese",
     "subtitle": "",
     "category": "sos",
@@ -18213,7 +18043,6 @@
   },
   {
     "id": "172",
-    "slug": "172-lasagne-testo",
     "name": "Lasagne — testo za kore",
     "subtitle": "",
     "category": "osnovno testo (testenina)",
@@ -18261,7 +18090,6 @@
   },
   {
     "id": "173",
-    "slug": "173-carbonara",
     "name": "Carbonara",
     "subtitle": "ME",
     "category": "testenina",
@@ -18357,7 +18185,6 @@
   },
   {
     "id": "174",
-    "slug": "174-waldorf-salata",
     "name": "Waldorf salata",
     "subtitle": "",
     "category": "salata",
@@ -18469,7 +18296,6 @@
   },
   {
     "id": "175",
-    "slug": "175-cesare-salata",
     "name": "Cesare salata",
     "subtitle": "",
     "category": "salata",
@@ -18578,7 +18404,6 @@
   },
   {
     "id": "176",
-    "slug": "176-foie-gras",
     "name": "Foie gras",
     "subtitle": "by Jovan",
     "category": "slano jelo (paštet)",
@@ -18642,7 +18467,6 @@
   },
   {
     "id": "177",
-    "slug": "177-quiche-lorraine",
     "name": "Quiche Lorraine",
     "subtitle": "",
     "category": "slano jelo (pita/kiš)",
@@ -18759,7 +18583,6 @@
   },
   {
     "id": "178",
-    "slug": "178-mantije",
     "name": "Mantije",
     "subtitle": "",
     "category": "peciva (sa mesom, uvijene kore)",
@@ -18860,7 +18683,6 @@
   },
   {
     "id": "179",
-    "slug": "179-zeljanica-spanacica",
     "name": "Zeljanica \"Spanaćica\"",
     "subtitle": "mama",
     "category": "peciva (pita sa spanaćem)",
@@ -18940,7 +18762,6 @@
   },
   {
     "id": "180",
-    "slug": "180-lisnata-turska-pita",
     "name": "Lisnata turska pita",
     "subtitle": "",
     "category": "peciva (pita sa sirom, lisnata)",
@@ -19048,7 +18869,6 @@
   },
   {
     "id": "181",
-    "slug": "181-lasagne-me-punjenje",
     "name": "Lasagne ME — bolonjeze i bešamel",
     "subtitle": "",
     "category": "testenina (punjenje za lazanje)",
@@ -19269,7 +19089,6 @@
   },
   {
     "id": "182",
-    "slug": "182-pasta-puttanesca",
     "name": "Pasta Puttanesca",
     "subtitle": "",
     "category": "testenina (sos)",
@@ -19357,7 +19176,6 @@
   },
   {
     "id": "183",
-    "slug": "183-cherry-and-garlic-rerna",
     "name": "Čeri paradajz sa belim lukom (rerna)",
     "subtitle": "",
     "category": "prilog / sos (pečeni paradajz)",
@@ -19405,7 +19223,6 @@
   },
   {
     "id": "184",
-    "slug": "184-classic-ragu-bolognese",
     "name": "Klasični bolonjeze ragu",
     "subtitle": "crno vino",
     "category": "sos (za testeninu)",
@@ -19533,7 +19350,6 @@
   },
   {
     "id": "185",
-    "slug": "185-gibanica-naopacke",
     "name": "Gibanica naopačke",
     "subtitle": "",
     "category": "pita (sa sirom)",
@@ -19621,7 +19437,6 @@
   },
   {
     "id": "186",
-    "slug": "186-slane-kiflice",
     "name": "Slane kiflice",
     "subtitle": "",
     "category": "peciva",
@@ -19741,7 +19556,6 @@
   },
   {
     "id": "187",
-    "slug": "187-moskva-snite",
     "name": "Moskva šnite",
     "subtitle": "Kuvar Krstarice — 20.11.2004. — Jelena Žitić-Filipov, Beograd",
     "category": "torta",
@@ -20005,7 +19819,6 @@
   },
   {
     "id": "188",
-    "slug": "188-razani-hleb-sa-suncokretom",
     "name": "Ražani hleb sa suncokretom",
     "subtitle": "",
     "category": "hleb (na kvascu/zakvasci, 3 faze)",
@@ -20077,7 +19890,6 @@
   },
   {
     "id": "189",
-    "slug": "189-sufle-opsta-uputstva",
     "name": "Soufflé — opšta uputstva",
     "subtitle": "",
     "category": "tehnika / uputstvo",
@@ -20095,7 +19907,6 @@
   },
   {
     "id": "190",
-    "slug": "190-sufle-od-malina",
     "name": "Sufle od malina",
     "subtitle": "",
     "category": "poslastica",
@@ -20175,7 +19986,6 @@
   },
   {
     "id": "191",
-    "slug": "191-sufle-od-oraha",
     "name": "Sufle od oraha",
     "subtitle": "",
     "category": "poslastica",
@@ -20263,7 +20073,6 @@
   },
   {
     "id": "192",
-    "slug": "192-velike-profiterole",
     "name": "Velike profiterole",
     "subtitle": "",
     "category": "poslastica",
