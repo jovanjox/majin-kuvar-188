@@ -42,3 +42,4 @@ next-env.d.ts
 /work/
 /start-dev.ps1
 /dev-server.*
+*.tsbuildinfo
