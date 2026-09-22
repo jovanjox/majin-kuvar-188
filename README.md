@@ -13,6 +13,7 @@ ovaj repo sadrži samo sajt i generisane podatke.
 - `app/globals.css` — stil
 - `app/recipes-data.json` — generisani podaci (ne uređivati ručno)
 - `public/recipes/NNN.webp` — ilustracije (800 px, generisane)
+- `public/recipes/400/NNN.webp` — manje varijante za kartice (400 px, generisane)
 - `public/icons/` — PWA ikonice (generisane)
 - `scripts/generate-recipes.mjs` — markdown → JSON
 - `scripts/build-images.mjs` — PNG → webp + ikonice

@@ -1,4 +1,4 @@
-// Pravi public/recipes/NNN.webp (800px) iz akvarel ilustracija i PWA ikonice iz recepta 001.
+// Pravi public/recipes/NNN.webp (800px) i public/recipes/400/NNN.webp (400px, za kartice) iz akvarel ilustracija i PWA ikonice iz recepta 001.
 // Pokretanje: pnpm images            (ILUSTRACIJE_DIR ili ../assets/izrazeni-akvarel ili ~/Documents/Kuvar/assets/izrazeni-akvarel)
 //             pnpm images -- --force (ponovo generiše i postojeće)
 import fs from "node:fs";
@@ -16,7 +16,12 @@ const sourceDir = candidates.find((dir) => fs.existsSync(dir));
 if (!sourceDir) throw new Error(`Nema foldera sa ilustracijama. Probano: ${candidates.join(", ")}`);
 const outDir = path.resolve("public/recipes");
 const iconDir = path.resolve("public/icons");
-fs.mkdirSync(outDir, { recursive: true });
+// [folder, max širina/visina, webp kvalitet]
+const sizes = [
+  [outDir, 800, 82],
+  [path.join(outDir, "400"), 400, 78],
+];
+for (const [dir] of sizes) fs.mkdirSync(dir, { recursive: true });
 fs.mkdirSync(iconDir, { recursive: true });
 
 // Samo ilustracije za recepte koji postoje u app/recipes-data.json (npr. 060 je izbačen iz zbirke).
@@ -27,14 +32,15 @@ const skipped = allFiles.filter((file) => !recipeIds.has(file.slice(0, 3)));
 if (skipped.length) console.log(`Preskočeno (nema recepta): ${skipped.join(", ")}`);
 let made = 0;
 for (const file of files) {
-  const id = file.slice(0, 3);
-  const target = path.join(outDir, `${id}.webp`);
   const source = path.join(sourceDir, file);
-  if (!force && fs.existsSync(target) && fs.statSync(target).mtimeMs >= fs.statSync(source).mtimeMs) continue;
-  await sharp(source).resize(800, 800, { fit: "inside", withoutEnlargement: true }).webp({ quality: 82 }).toFile(target);
-  made += 1;
+  for (const [dir, size, quality] of sizes) {
+    const target = path.join(dir, `${file.slice(0, 3)}.webp`);
+    if (!force && fs.existsSync(target) && fs.statSync(target).mtimeMs >= fs.statSync(source).mtimeMs) continue;
+    await sharp(source).resize(size, size, { fit: "inside", withoutEnlargement: true }).webp({ quality }).toFile(target);
+    made += 1;
+  }
 }
-console.log(`Ilustracije: ${files.length} u izvoru, ${made} novih/obnovljenih u public/recipes`);
+console.log(`Ilustracije: ${files.length} u izvoru, ${made} novih/obnovljenih webp fajlova u public/recipes i public/recipes/400`);
 
 const hero = files.find((file) => file.startsWith("001-"));
 if (hero) {
@@ -50,11 +56,13 @@ if (hero) {
   console.log(`Ikonice: ${icons.map(([name]) => name).join(", ")}`);
 }
 
-// Obriši webp ilustracije za recepte kojih više nema.
-for (const file of fs.readdirSync(outDir)) {
-  const match = file.match(/^(\d{3})\.webp$/);
-  if (match && !recipeIds.has(match[1])) {
-    fs.rmSync(path.join(outDir, file));
-    console.log(`Obrisano: public/recipes/${file} (nema recepta)`);
+// Obriši webp ilustracije (obe veličine) za recepte kojih više nema.
+for (const [dir] of sizes) {
+  for (const file of fs.readdirSync(dir)) {
+    const match = file.match(/^(\d{3})\.webp$/);
+    if (match && !recipeIds.has(match[1])) {
+      fs.rmSync(path.join(dir, file));
+      console.log(`Obrisano: ${path.relative(process.cwd(), path.join(dir, file))} (nema recepta)`);
+    }
   }
 }

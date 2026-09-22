@@ -46,6 +46,9 @@ export const normalize = (value: string) =>
 
 export const stripHtml = (html: string) => html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim();
 
+// Manja (400 px) varijanta ilustracije za kartice: /recipes/054.webp → /recipes/400/054.webp.
+export const smallImage = (image: string) => image.replace(/^\/recipes\//, "/recipes/400/");
+
 export const allIngredients = (recipe: Recipe) => recipe.ingredientGroups.flatMap((group) => group.items);
 
 // Pretraga po nazivu, kategoriji, sastojcima i tekstu postupka (bez dijakritika).

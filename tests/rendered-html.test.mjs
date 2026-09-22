@@ -49,6 +49,13 @@ test("svaka ilustracija pripada nekom receptu", async () => {
   assert.deepEqual(orphans, [], "ilustracije bez recepta");
 });
 
+test("svaka ilustracija ima i 400 px varijantu za kartice", async () => {
+  const expected = recipes.filter((recipe) => recipe.image).map((recipe) => recipe.image.replace("/recipes/", "")).sort();
+  const small = (await readdir(new URL("public/recipes/400/", root))).filter((file) => file.endsWith(".webp")).sort();
+  assert.deepEqual(expected.filter((file) => !small.includes(file)), [], "nedostaju 400 px varijante");
+  assert.deepEqual(small.filter((file) => !expected.includes(file)), [], "višak u public/recipes/400/");
+});
+
 test("početna strana se renderuje sa svim receptima", async () => {
   const response = await render();
   assert.equal(response.status, 200);
