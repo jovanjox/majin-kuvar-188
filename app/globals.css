@@ -397,6 +397,9 @@ footer > a:last-child { font-size: 9px; font-weight: 700; letter-spacing: .1em; 
 .scale-row button { min-width: 42px; padding: 7px 10px; border: 1px solid var(--line); border-radius: 100px; background: transparent; font-size: 12px; font-weight: 700; cursor: pointer; transition: .2s ease; }
 .scale-row button:hover, .scale-row button.active { border-color: var(--olive-dark); background: var(--olive-dark); color: #fff; }
 .scale-hint { margin: -8px 0 18px; color: var(--rust); font-family: var(--serif); font-size: 12px; font-style: italic; line-height: 1.5; }
+.shopping-button { display: flex; width: 100%; align-items: baseline; justify-content: space-between; gap: 12px; margin: 4px 0 22px; padding: 12px 16px; border: 1px dashed var(--olive); border-radius: 12px; background: transparent; color: var(--olive-dark); font-size: 13px; font-weight: 700; text-align: left; cursor: pointer; transition: .2s ease; }
+.shopping-button small { color: var(--muted); font-size: 11px; font-weight: 400; }
+.shopping-button:hover { border-style: solid; background: rgba(93,104,75,.08); }
 .variants { margin-top: 28px; padding: 14px 16px; border: 1px dashed rgba(170,73,52,.4); background: rgba(255,255,255,.35); }
 .variants summary { color: var(--rust); font-size: 10px; font-weight: 800; letter-spacing: .13em; text-transform: uppercase; cursor: pointer; }
 .variants .ingredient-group { margin-top: 18px; }
@@ -432,6 +435,6 @@ footer > a:last-child { font-size: 9px; font-weight: 700; letter-spacing: .1em; 
 }
 @media print {
   .sheet-nav, .scale-row, .toast, .recipe-prose .table-wrap { break-inside: avoid; }
-  .sheet-nav, .toast { display: none; }
+  .sheet-nav, .toast, .shopping-button { display: none; }
   .ingredient-list .checkmark { border-color: #999; }
 }

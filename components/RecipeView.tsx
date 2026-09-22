@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { allIngredients, categorySymbols, recipes, type Recipe } from "@/lib/recipes";
-import { SCALES, formatQty } from "@/lib/scale";
+import { SCALES, formatQty, scaledText } from "@/lib/scale";
 import { IngredientList } from "./IngredientList";
 
 const noSubscribe = () => () => {};
@@ -75,23 +75,44 @@ export function RecipeView({
     }
   };
 
-  const share = async () => {
-    const url = `${window.location.origin}/recept/${recipe.id}`;
-    const nav = navigator as Navigator & { share?: (data: { title: string; url: string }) => Promise<void> };
+  // Sistemsko deljenje (telefon), a ako ga nema ili korisnik odustane — kopiranje u clipboard.
+  const shareOrCopy = async (data: { title: string; text?: string; url?: string }, copied: string) => {
+    const nav = navigator as Navigator & { share?: (data: { title: string; text?: string; url?: string }) => Promise<void> };
     if (nav.share) {
       try {
-        await nav.share({ title: `${recipe.name} — Majin kuvar`, url });
+        await nav.share(data);
         return;
       } catch {
         /* korisnik odustao — probaj kopiranje */
       }
     }
+    const content = [data.text, data.url].filter(Boolean).join("\n");
     try {
-      await navigator.clipboard.writeText(url);
-      onToast("Link recepta je kopiran");
+      await navigator.clipboard.writeText(content);
+      onToast(copied);
     } catch {
-      onToast(url);
+      onToast(data.url ?? "Kopiranje nije uspelo");
     }
+  };
+
+  const share = () => shareOrCopy({ title: `${recipe.name} — Majin kuvar`, url: `${window.location.origin}/recept/${recipe.id}` }, "Link recepta je kopiran");
+
+  // Spisak za kupovinu: preračunate količine, bez sastojaka koji su već štiklirani (to već imaš).
+  const shareShoppingList = () => {
+    const sections = recipe.ingredientGroups
+      .map((group, groupIndex) => {
+        const lines = group.items
+          .filter((_, index) => !checked.has(`g${groupIndex}-${index}`))
+          .map((item) => `- ${scaledText(item, factor)}`);
+        return lines.length ? [group.title && recipe.ingredientGroups.length > 1 ? `${group.title}:` : "", ...lines].filter(Boolean).join("\n") : "";
+      })
+      .filter(Boolean);
+    if (!sections.length) {
+      onToast("Sve je štiklirano — nema šta da se kupi");
+      return;
+    }
+    const heading = `${recipe.name}${factor !== 1 ? ` (${formatQty(factor)}×)` : ""} — za kupovinu`;
+    shareOrCopy({ title: heading, text: `${heading}\n\n${sections.join("\n\n")}` }, "Spisak za kupovinu je kopiran");
   };
 
   const toggleChecked = (key: string) =>
@@ -180,6 +201,11 @@ export function RecipeView({
               ))
             ) : (
               <p className="muted">Sastojci su navedeni u postupku.</p>
+            )}
+            {recipe.ingredientGroups.length > 0 && (
+              <button className="shopping-button" onClick={shareShoppingList}>
+                Spisak za kupovinu <small>{checked.size ? "bez štikliranih" : "podeli ili kopiraj"}</small>
+              </button>
             )}
             {recipe.variants.length > 0 && (
               <details className="variants">
