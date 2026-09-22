@@ -1,9 +1,11 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, useSyncExternalStore } from "react";
 import { allIngredients, categorySymbols, recipes, type Recipe } from "@/lib/recipes";
 import { SCALES, formatQty } from "@/lib/scale";
 import { IngredientList } from "./IngredientList";
+
+const noSubscribe = () => () => {};
 
 export function RecipeView({
   recipe,
@@ -22,7 +24,8 @@ export function RecipeView({
 }) {
   const [checked, setChecked] = useState<Set<string>>(() => new Set());
   const [factor, setFactor] = useState<number>(1);
-  const canWake = useState(() => typeof navigator !== "undefined" && "wakeLock" in navigator)[0];
+  // Server ne zna za navigator — dugme za ekran se pojavljuje tek posle hidratacije, bez neslaganja HTML-a.
+  const canWake = useSyncExternalStore(noSubscribe, () => "wakeLock" in navigator, () => false);
   const [awake, setAwake] = useState(false);
   const wakeLock = useRef<{ release: () => Promise<void>; addEventListener: (type: string, cb: () => void) => void } | null>(null);
   const titleRef = useRef<HTMLHeadingElement>(null);
@@ -73,7 +76,7 @@ export function RecipeView({
   };
 
   const share = async () => {
-    const url = `${window.location.origin}${window.location.pathname}#recept-${recipe.id}`;
+    const url = `${window.location.origin}/recept/${recipe.id}`;
     const nav = navigator as Navigator & { share?: (data: { title: string; url: string }) => Promise<void> };
     if (nav.share) {
       try {

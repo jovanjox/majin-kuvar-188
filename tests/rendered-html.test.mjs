@@ -62,3 +62,18 @@ test("početna strana se renderuje sa svim receptima", async () => {
   assert.match(html, /property="og:image" content="https:\/\/[^"]+\/og\.jpg"/);
   assert.doesNotMatch(html, /188 recepata/, "broj recepata ne sme biti hardkodovan");
 });
+
+test("stranica recepta ima svoj naslov, opis i ilustraciju za deljenje", async () => {
+  const recipe = recipes.find((item) => item.image);
+  const response = await render(`/recept/${recipe.id}`);
+  assert.equal(response.status, 200);
+  const html = await response.text();
+  assert.ok(html.includes(`<title>${recipe.name.replaceAll("&", "&amp;")} — Majin kuvar</title>`), "naslov recepta");
+  assert.match(html, new RegExp(`property="og:image" content="https://[^"]+${recipe.image}"`));
+  assert.match(html, new RegExp(`rel="canonical" href="https://[^"]+/recept/${recipe.id}"`));
+  assert.match(html, /id="recipe-title"/, "recept je otvoren već u HTML-u sa servera");
+});
+
+test("nepostojeći recept vraća 404", async () => {
+  assert.equal((await render("/recept/999")).status, 404);
+});

@@ -43,3 +43,6 @@ next-env.d.ts
 /start-dev.ps1
 /dev-server.*
 *.tsbuildinfo
+
+# Claude Code worktree-i agenata
+/.claude/worktrees/
