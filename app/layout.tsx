@@ -3,8 +3,14 @@ import ServiceWorker from "@/components/ServiceWorker";
 import { SITE_NAME, SITE_URL, THEME_COLOR, siteDescription, siteTitle } from "@/lib/site";
 import "./globals.css";
 
+// Boja trake pregledača u tamnoj temi — pozadina iz tamne palete u globals.css.
+const THEME_COLOR_DARK = "#221f18";
+
 export const viewport: Viewport = {
-  themeColor: THEME_COLOR,
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: THEME_COLOR },
+    { media: "(prefers-color-scheme: dark)", color: THEME_COLOR_DARK },
+  ],
   width: "device-width",
   initialScale: 1,
 };

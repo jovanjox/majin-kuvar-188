@@ -12,6 +12,7 @@
   --line: rgba(45, 52, 38, 0.16);
   --serif: Georgia, "Times New Roman", serif;
   --sans: Arial, Helvetica, sans-serif;
+  color-scheme: light dark;
 }
 
 * { box-sizing: border-box; }
@@ -437,4 +438,79 @@ footer > a:last-child { font-size: 9px; font-weight: 700; letter-spacing: .1em; 
   .sheet-nav, .scale-row, .toast, .recipe-prose .table-wrap { break-inside: avoid; }
   .sheet-nav, .toast, .shopping-button { display: none; }
   .ingredient-list .checkmark { border-color: #999; }
+}
+
+/* ---------- tamna tema: topla „stara sveska" (samo na ekranu, štampa ostaje svetla) ---------- */
+@media screen and (prefers-color-scheme: dark) {
+  :root {
+    --paper: #221f18;
+    --paper-light: #2a261e;
+    --ink: #efe6d2;
+    --muted: #b4ab96;
+    --olive: #a3ae86;
+    --olive-dark: #4f5a3b;
+    --rust: #de8a6c;
+    --gold: #d8ad6d;
+    --line: rgba(239,230,210,.16);
+    --card-ink: #20251e;
+  }
+
+  .hero {
+    background:
+      radial-gradient(circle at 18% 24%, rgba(255,236,200,.06), transparent 26%),
+      linear-gradient(113deg, #2b271e 0%, #231f18 66%, #1e1b14 100%);
+  }
+  .hero::before { opacity: .5; }
+  .hero-intro, .featured-story { color: #cfc5ae; }
+  .hero-visual::before { background: rgba(239,230,210,.14); }
+  .hero-visual img { filter: drop-shadow(0 30px 30px rgba(0,0,0,.45)); }
+  .wash-one { background: rgba(187,126,72,.16); }
+  .wash-two { background: rgba(140,156,110,.12); }
+  .hero-caption { background: rgba(46,42,32,.92); box-shadow: 0 15px 40px rgba(0,0,0,.35); }
+
+  .primary-button { background: #5d6a45; color: #fbf6ea; }
+  .primary-button:hover { background: #6b794f; }
+  .secondary-button { background: rgba(255,240,210,.05); }
+  .secondary-button:hover { background: rgba(255,240,210,.12); }
+  .filter-row button:hover, .filter-row button.active,
+  .scale-row button:hover, .scale-row button.active { border-color: #5d6a45; background: #5d6a45; color: #fbf6ea; }
+
+  .recipe-card { background: rgba(255,240,210,.035); }
+  .recipe-card:hover { background: rgba(255,240,210,.075); box-shadow: 0 20px 50px rgba(0,0,0,.35); }
+  /* ilustracije su na svetlom papiru — pozadina kartice ostaje svetla, samo malo prigušena */
+  .card-art { filter: brightness(.94); }
+  .recipe-number, .favorite-button { color: var(--card-ink); }
+  .favorite-button.is-favorite { color: #aa4934 !important; }
+
+  .collection-section { background: #1c1914; }
+  .search-box { background: rgba(255,240,210,.05); }
+  .search-box input::placeholder { color: #968e7b; }
+  .load-more { border-color: #6b794f; }
+  .load-more span { background: rgba(239,230,210,.1); }
+  .recent-row a, .variants, .sheet-nav button { background: rgba(255,240,210,.045); }
+  .recent-row a:hover, .sheet-nav button:hover { background: rgba(255,240,210,.1); }
+  .sort-select select { background: rgba(255,240,210,.06); }
+  .empty-state button { background: #5d6a45; color: #fbf6ea; }
+
+  .story-section { background: #2e3424; }
+  footer { background: #15130f; }
+
+  .recipe-overlay { background: rgba(8,7,5,.66); }
+  .recipe-sheet { box-shadow: -30px 0 80px rgba(0,0,0,.5); }
+  .sheet-topbar { background: rgba(42,38,30,.92); }
+  .recipe-header { background: #312c22; }
+  .sheet-art { background: rgba(255,240,210,.05); }
+  .sheet-art img { filter: brightness(.95) drop-shadow(0 18px 20px rgba(0,0,0,.35)); }
+  .recipe-note { background: #342e23; color: #ddd2bb; }
+  .partial-note { background: rgba(216,173,109,.12); }
+  .checkmark { border-color: rgba(239,230,210,.4); }
+  .ingredient-list li.checked .checkmark { border-color: #5d6a45; background: #5d6a45; color: #fbf6ea; }
+  .ingredient-list li.checked label > span:last-child { color: #8c8574; }
+  .recipe-prose { color: #ddd3bd; }
+  .notebook-lines { border-color: rgba(239,230,210,.14); background: #2f2a20; }
+  .variants { border-color: rgba(222,138,108,.4); }
+  .recipe-prose th, .recipe-prose td { border-color: rgba(239,230,210,.14); }
+  .recipe-prose th { background: #352f24; }
+  .recipe-prose tbody tr:nth-child(even) { background: rgba(255,240,210,.035); }
+  .toast { box-shadow: 0 16px 40px rgba(0,0,0,.5); }
 }
