@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import { access, readdir, readFile } from "node:fs/promises";
 import test from "node:test";
+import sharp from "sharp";
 
 const root = new URL("../", import.meta.url);
 const recipes = JSON.parse(await readFile(new URL("app/recipes-data.json", root), "utf8"));
@@ -54,6 +55,18 @@ test("svaka ilustracija ima i 400 px varijantu za kartice", async () => {
   const small = (await readdir(new URL("public/recipes/400/", root))).filter((file) => file.endsWith(".webp")).sort();
   assert.deepEqual(expected.filter((file) => !small.includes(file)), [], "nedostaju 400 px varijante");
   assert.deepEqual(small.filter((file) => !expected.includes(file)), [], "višak u public/recipes/400/");
+});
+
+test("ilustracije imaju providnu pozadinu (bez belog kvadrata na obojenoj kartici)", async () => {
+  const opaque = [];
+  for (const dir of ["public/recipes/", "public/recipes/400/"]) {
+    for (const file of (await readdir(new URL(dir, root))).filter((name) => name.endsWith(".webp"))) {
+      const { data, info } = await sharp(new URL(dir + file, root).pathname).ensureAlpha().raw().toBuffer({ resolveWithObject: true });
+      const corners = [0, info.width - 1, (info.height - 1) * info.width, info.height * info.width - 1];
+      if (corners.some((pixel) => data[pixel * 4 + 3] > 10)) opaque.push(dir + file);
+    }
+  }
+  assert.deepEqual(opaque, [], "ilustracije sa neprovidnom pozadinom — pokreni pnpm images -- --force");
 });
 
 test("početna strana se renderuje sa svim receptima", async () => {
