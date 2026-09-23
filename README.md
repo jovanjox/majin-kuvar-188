@@ -25,7 +25,8 @@ ovaj repo sadrži samo sajt i generisane podatke.
 - `public/recipes/400/NNN.webp` — manje varijante za kartice (400 px, generisane)
 - `public/icons/` — PWA ikonice (generisane)
 - `scripts/generate-recipes.mjs` — markdown → JSON
-- `scripts/build-images.mjs` — PNG → webp + ikonice
+- `scripts/build-images.mjs` — PNG → webp + ikonice; bela pozadina se uklanja
+  (`scripts/remove-background.mjs`), ilustracije moraju biti providne
 
 ## Komande
 

@@ -1,10 +1,12 @@
 // Pravi public/recipes/NNN.webp (800px) i public/recipes/400/NNN.webp (400px, za kartice) iz akvarel ilustracija i PWA ikonice iz recepta 001.
+// Ilustracije moraju imati providnu pozadinu (kartice i hero su obojeni): bela pozadina izvornog PNG-a se uklanja.
 // Pokretanje: pnpm images            (ILUSTRACIJE_DIR ili ../assets/izrazeni-akvarel ili ~/Documents/Kuvar/assets/izrazeni-akvarel)
 //             pnpm images -- --force (ponovo generiše i postojeće)
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import sharp from "sharp";
+import { ensureTransparent } from "./remove-background.mjs";
 
 const force = process.argv.includes("--force");
 const candidates = [
@@ -33,10 +35,12 @@ if (skipped.length) console.log(`Preskočeno (nema recepta): ${skipped.join(", "
 let made = 0;
 for (const file of files) {
   const source = path.join(sourceDir, file);
-  for (const [dir, size, quality] of sizes) {
-    const target = path.join(dir, `${file.slice(0, 3)}.webp`);
-    if (!force && fs.existsSync(target) && fs.statSync(target).mtimeMs >= fs.statSync(source).mtimeMs) continue;
-    await sharp(source).resize(size, size, { fit: "inside", withoutEnlargement: true }).webp({ quality }).toFile(target);
+  const targets = sizes.map(([dir, size, quality]) => ({ target: path.join(dir, `${file.slice(0, 3)}.webp`), size, quality }));
+  const stale = targets.filter(({ target }) => force || !fs.existsSync(target) || fs.statSync(target).mtimeMs < fs.statSync(source).mtimeMs);
+  if (!stale.length) continue;
+  const transparent = await (await ensureTransparent(source)).png().toBuffer();
+  for (const { target, size, quality } of stale) {
+    await sharp(transparent).resize(size, size, { fit: "inside", withoutEnlargement: true }).webp({ quality, alphaQuality: 90 }).toFile(target);
     made += 1;
   }
 }
